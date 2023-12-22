@@ -1,0 +1,26 @@
+,country_code,iata,airport,latitude,longitude
+0,US,SLC,Salt Lake City International Airport,40.7884,-111.978
+1,US,ATL,Hartsfield-Jackson Atlanta International Airport,33.6367,-84.4281
+2,US,FLL,Fort Lauderdale-Hollywood International Airport,26.0726,-80.1527
+3,US,MIA,Miami International Airport,25.7932,-80.2906
+4,US,MCO,Orlando International Airport,28.4294,-81.309
+5,US,MSP,Minneapolis-Saint Paul International Airport (Wold-Chamberlain Field),44.882,-93.2218
+6,US,LAX,Los Angeles International Airport,33.9425,-118.408
+7,US,LAS,Harry Reid International Airport,36.0801,-115.152
+8,US,DFW,Dallas/Fort Worth International Airport,32.8968,-97.038
+9,US,DEN,Denver International Airport,39.8617,-104.673
+10,US,CLT,Charlotte Douglas International Airport,35.214,-80.9431
+11,US,PHL,Philadelphia International Airport,39.8719,-75.2411
+12,US,PHX,Phoenix Sky Harbor International Airport,33.4343,-112.012
+13,US,BOS,Logan International Airport,42.3643,-71.0052
+14,US,IAH,George Bush Intercontinental Airport,29.9844,-95.3414
+15,US,SAN,San Diego International Airport,32.7336,-117.19
+16,US,SEA,Seattle-Tacoma International Airport,47.449,-122.309
+17,US,SFO,San Francisco International Airport,37.619,-122.375
+18,US,ORD,Chicago O'Hare International Airport,41.9786,-87.9047
+19,US,BWI,Baltimore/Washington International Airport,39.1753,-76.6683
+20,US,DTW,Detroit Metro Wayne County Airport,42.2125,-83.3533
+21,US,EWR,Newark Liberty International Airport,40.6925,-74.1686
+22,US,JFK,John F. Kennedy International Airport,40.6397,-73.7789
+23,US,LGA,LaGuardia Airport,40.775,-73.875
+24,US,DCA,Ronald Reagan Washington National Airport,38.8522,-77.0378
