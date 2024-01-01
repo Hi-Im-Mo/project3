@@ -1,0 +1,340 @@
+,year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+0,2006,12,AA,American Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",681.0,182.0,51.23,11.55,44.55,0.5,74.17,21.0,1.0,9658.0,2655.0,674.0,1810.0,68.0,4451.0
+1,2006,12,AA,American Airlines Inc.,BOS,"Boston, MA: Logan International",1055.0,234.0,74.34,9.1,59.45,0.0,91.1,39.0,0.0,12390.0,3686.0,682.0,2178.0,0.0,5844.0
+2,2006,12,AA,American Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",323.0,56.0,30.16,5.45,5.3,0.0,15.09,6.0,0.0,3184.0,1466.0,299.0,272.0,0.0,1147.0
+3,2006,12,AA,American Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",147.0,34.0,9.27,4.68,7.66,0.0,12.39,2.0,0.0,1875.0,573.0,233.0,365.0,0.0,704.0
+4,2006,12,AA,American Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",868.0,204.0,58.45,9.47,49.62,0.0,86.46,40.0,1.0,12089.0,3271.0,878.0,2060.0,0.0,5880.0
+5,2006,12,AA,American Airlines Inc.,DEN,"Denver, CO: Denver International",697.0,205.0,60.8,8.48,60.47,0.0,75.25,89.0,1.0,13581.0,3301.0,450.0,4649.0,0.0,5181.0
+6,2006,12,AA,American Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",13963.0,3330.0,747.78,214.14,1021.9,9.39,1336.79,450.0,103.0,193401.0,53647.0,13604.0,39116.0,320.0,86714.0
+7,2006,12,AA,American Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",348.0,100.0,41.12,6.3,22.44,0.0,30.14,10.0,0.0,6083.0,2477.0,349.0,1008.0,0.0,2249.0
+8,2006,12,AA,American Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",608.0,282.0,29.98,9.39,176.97,0.0,65.65,28.0,0.0,18353.0,2455.0,724.0,10254.0,0.0,4920.0
+9,2006,12,AA,American Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",550.0,155.0,52.24,11.88,34.47,0.0,56.41,14.0,1.0,8649.0,2838.0,639.0,1568.0,0.0,3604.0
+10,2006,12,AA,American Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",419.0,121.0,30.27,6.9,36.73,0.0,47.1,9.0,2.0,6534.0,1514.0,395.0,1430.0,0.0,3195.0
+11,2006,12,AA,American Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",975.0,334.0,76.67,4.81,193.09,0.0,59.43,10.0,4.0,18896.0,6928.0,243.0,7659.0,0.0,4066.0
+12,2006,12,AA,American Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",618.0,160.0,49.96,9.81,41.8,0.0,58.44,16.0,1.0,8859.0,2975.0,482.0,1571.0,0.0,3831.0
+13,2006,12,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2659.0,773.0,232.36,40.02,254.47,4.34,241.82,70.0,3.0,42051.0,14595.0,2487.0,8455.0,74.0,16440.0
+14,2006,12,AA,American Airlines Inc.,LGA,"New York, NY: LaGuardia",1776.0,682.0,112.37,22.31,362.53,0.0,184.79,55.0,0.0,39632.0,6386.0,1407.0,18704.0,0.0,13135.0
+15,2006,12,AA,American Airlines Inc.,MCO,"Orlando, FL: Orlando International",922.0,278.0,109.69,17.8,57.13,0.0,93.38,16.0,2.0,16710.0,6408.0,1498.0,2013.0,0.0,6791.0
+16,2006,12,AA,American Airlines Inc.,MIA,"Miami, FL: Miami International",3391.0,976.0,328.28,43.79,305.05,2.91,295.96,38.0,0.0,52270.0,18800.0,2938.0,10434.0,69.0,20029.0
+17,2006,12,AA,American Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",439.0,114.0,34.79,5.8,21.65,0.0,51.75,24.0,0.0,6386.0,1410.0,290.0,1196.0,0.0,3490.0
+18,2006,12,AA,American Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",6486.0,2746.0,318.21,43.0,1600.32,5.24,779.24,395.0,4.0,194039.0,23388.0,2205.0,109962.0,359.0,58125.0
+19,2006,12,AA,American Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",541.0,179.0,37.12,8.05,76.33,0.0,57.5,27.0,2.0,11451.0,1947.0,400.0,5053.0,0.0,4051.0
+20,2006,12,AA,American Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",489.0,157.0,60.25,10.73,25.67,0.39,59.96,19.0,2.0,9502.0,3708.0,711.0,1188.0,28.0,3867.0
+21,2006,12,AA,American Airlines Inc.,SAN,"San Diego, CA: San Diego International",580.0,159.0,54.91,8.15,42.18,0.0,53.76,15.0,4.0,8945.0,2345.0,1003.0,1692.0,0.0,3905.0
+22,2006,12,AA,American Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",487.0,157.0,48.98,6.63,60.58,0.0,40.82,25.0,3.0,9381.0,2987.0,659.0,2598.0,0.0,3137.0
+23,2006,12,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1075.0,350.0,80.33,13.85,157.77,0.0,98.05,37.0,1.0,19825.0,4839.0,1326.0,7192.0,0.0,6468.0
+24,2006,12,AA,American Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",215.0,62.0,24.66,4.46,11.17,0.0,21.72,6.0,0.0,3790.0,1402.0,364.0,439.0,0.0,1585.0
+25,2006,12,AQ,Aloha Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",19.0,5.0,2.0,0.0,1.0,0.0,2.0,0.0,0.0,167.0,44.0,0.0,76.0,0.0,47.0
+26,2006,12,AQ,Aloha Airlines Inc.,SAN,"San Diego, CA: San Diego International",31.0,5.0,2.04,0.0,2.0,0.0,0.96,0.0,0.0,134.0,67.0,0.0,43.0,0.0,24.0
+27,2006,12,AS,Alaska Airlines Inc.,BOS,"Boston, MA: Logan International",31.0,6.0,3.19,0.0,2.81,0.0,0.0,0.0,0.0,469.0,386.0,0.0,83.0,0.0,0.0
+28,2006,12,AS,Alaska Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",93.0,21.0,7.26,0.0,6.11,0.0,7.64,0.0,0.0,1056.0,334.0,0.0,201.0,0.0,521.0
+29,2006,12,AS,Alaska Airlines Inc.,DEN,"Denver, CO: Denver International",186.0,60.0,26.61,0.99,23.12,0.0,9.28,14.0,0.0,2899.0,1235.0,186.0,990.0,0.0,488.0
+30,2006,12,AS,Alaska Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",93.0,36.0,18.79,0.0,15.31,0.0,1.9,1.0,0.0,2058.0,1148.0,0.0,764.0,0.0,146.0
+31,2006,12,AS,Alaska Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",62.0,27.0,5.31,0.0,18.69,0.0,3.0,0.0,0.0,2437.0,350.0,0.0,1413.0,0.0,674.0
+32,2006,12,AS,Alaska Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",332.0,107.0,39.32,1.0,29.0,0.0,37.68,5.0,1.0,6432.0,2744.0,63.0,1143.0,0.0,2482.0
+33,2006,12,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",634.0,159.0,68.31,4.56,35.78,0.82,49.54,5.0,0.0,7266.0,3528.0,151.0,1090.0,18.0,2479.0
+34,2006,12,AS,Alaska Airlines Inc.,MCO,"Orlando, FL: Orlando International",62.0,32.0,12.49,0.0,17.83,0.0,1.68,0.0,0.0,1145.0,503.0,0.0,569.0,0.0,73.0
+35,2006,12,AS,Alaska Airlines Inc.,MIA,"Miami, FL: Miami International",31.0,19.0,8.81,0.62,5.5,0.0,4.07,1.0,0.0,818.0,364.0,13.0,190.0,0.0,251.0
+36,2006,12,AS,Alaska Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",124.0,62.0,20.18,0.5,33.15,0.11,8.06,4.0,0.0,4503.0,1170.0,11.0,2666.0,8.0,648.0
+37,2006,12,AS,Alaska Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",310.0,111.0,47.42,1.1,29.95,1.84,30.69,3.0,0.0,6508.0,2870.0,30.0,931.0,44.0,2633.0
+38,2006,12,AS,Alaska Airlines Inc.,SAN,"San Diego, CA: San Diego International",419.0,117.0,45.11,1.1,28.44,0.0,42.35,8.0,1.0,5894.0,2297.0,47.0,882.0,0.0,2668.0
+39,2006,12,AS,Alaska Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",3902.0,1232.0,247.08,13.64,398.46,6.75,566.06,91.0,24.0,73496.0,16647.0,999.0,17313.0,198.0,38339.0
+40,2006,12,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",533.0,174.0,37.26,1.19,74.47,0.0,61.07,7.0,1.0,10059.0,2366.0,48.0,3875.0,0.0,3770.0
+41,2006,12,B6,JetBlue Airways,BOS,"Boston, MA: Logan International",1652.0,390.0,84.32,2.61,120.8,1.68,180.59,11.0,0.0,23503.0,5909.0,217.0,5664.0,55.0,11658.0
+42,2006,12,B6,JetBlue Airways,CLT,"Charlotte, NC: Charlotte Douglas International",124.0,61.0,16.07,0.95,27.44,0.03,16.52,0.0,0.0,4691.0,1301.0,273.0,1318.0,3.0,1796.0
+43,2006,12,B6,JetBlue Airways,DEN,"Denver, CO: Denver International",93.0,41.0,8.12,1.0,18.01,0.3,13.57,8.0,0.0,2238.0,442.0,203.0,813.0,8.0,772.0
+44,2006,12,B6,JetBlue Airways,EWR,"Newark, NJ: Newark Liberty International",364.0,191.0,12.36,0.0,130.6,0.0,48.04,0.0,0.0,15911.0,492.0,0.0,12263.0,0.0,3156.0
+45,2006,12,B6,JetBlue Airways,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",921.0,382.0,76.95,0.0,148.94,0.82,155.29,0.0,4.0,22770.0,3835.0,0.0,6400.0,23.0,12512.0
+46,2006,12,B6,JetBlue Airways,JFK,"New York, NY: John F. Kennedy International",4769.0,1772.0,174.87,18.13,761.9,5.31,811.78,24.0,22.0,117691.0,10426.0,2877.0,51865.0,133.0,52390.0
+47,2006,12,B6,JetBlue Airways,LAS,"Las Vegas, NV: McCarran International",276.0,69.0,15.57,0.0,32.58,0.0,20.84,2.0,2.0,3462.0,646.0,0.0,1506.0,0.0,1310.0
+48,2006,12,B6,JetBlue Airways,LGA,"New York, NY: LaGuardia",246.0,93.0,7.5,0.0,48.02,0.0,37.48,2.0,0.0,6718.0,309.0,0.0,3765.0,0.0,2644.0
+49,2006,12,B6,JetBlue Airways,MCO,"Orlando, FL: Orlando International",760.0,253.0,50.15,0.0,101.6,2.16,99.1,0.0,0.0,13226.0,2292.0,0.0,3620.0,53.0,7261.0
+50,2006,12,B6,JetBlue Airways,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",93.0,39.0,6.98,0.0,17.18,0.13,14.71,0.0,0.0,1675.0,484.0,0.0,589.0,4.0,598.0
+51,2006,12,B6,JetBlue Airways,SAN,"San Diego, CA: San Diego International",93.0,25.0,6.63,0.0,10.66,1.0,6.71,0.0,0.0,1172.0,338.0,0.0,513.0,32.0,289.0
+52,2006,12,B6,JetBlue Airways,SEA,"Seattle, WA: Seattle/Tacoma International",62.0,26.0,7.69,0.0,12.2,0.0,6.11,0.0,0.0,1231.0,371.0,0.0,579.0,0.0,281.0
+53,2006,12,B6,JetBlue Airways,SLC,"Salt Lake City, UT: Salt Lake City International",93.0,28.0,8.99,0.89,11.83,0.0,6.28,0.0,0.0,1626.0,398.0,100.0,481.0,0.0,647.0
+54,2006,12,CO,Continental Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",403.0,89.0,17.32,2.6,33.38,1.0,34.7,4.0,0.0,4230.0,571.0,112.0,1392.0,37.0,2118.0
+55,2006,12,CO,Continental Air Lines Inc.,BOS,"Boston, MA: Logan International",524.0,123.0,24.18,6.68,41.87,0.27,50.0,7.0,0.0,6994.0,1396.0,493.0,2310.0,8.0,2787.0
+56,2006,12,CO,Continental Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",172.0,31.0,10.25,1.0,11.19,0.94,7.62,1.0,0.0,2051.0,805.0,51.0,589.0,34.0,572.0
+57,2006,12,CO,Continental Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",373.0,81.0,12.94,3.23,39.51,2.6,22.72,8.0,0.0,4111.0,664.0,122.0,2058.0,76.0,1191.0
+58,2006,12,CO,Continental Air Lines Inc.,DEN,"Denver, CO: Denver International",379.0,95.0,25.67,3.22,43.26,1.35,21.5,32.0,0.0,5064.0,1034.0,166.0,2336.0,43.0,1485.0
+59,2006,12,CO,Continental Air Lines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",325.0,81.0,18.18,1.75,33.69,1.28,26.1,5.0,0.0,4496.0,999.0,74.0,2137.0,67.0,1219.0
+60,2006,12,CO,Continental Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",181.0,33.0,12.95,1.29,11.47,0.52,6.77,1.0,0.0,1432.0,496.0,56.0,360.0,13.0,507.0
+61,2006,12,CO,Continental Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",5056.0,1854.0,114.95,59.42,1346.22,2.16,331.25,42.0,8.0,115976.0,8675.0,4196.0,80893.0,47.0,22165.0
+62,2006,12,CO,Continental Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",534.0,134.0,26.59,4.51,66.05,2.74,34.11,0.0,0.0,6175.0,1260.0,294.0,2445.0,78.0,2098.0
+63,2006,12,CO,Continental Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",7744.0,1580.0,281.8,25.59,819.26,12.15,441.19,45.0,31.0,80181.0,17622.0,2992.0,29757.0,342.0,29468.0
+64,2006,12,CO,Continental Air Lines Inc.,JFK,"New York, NY: John F. Kennedy International",102.0,40.0,3.82,0.73,28.42,0.58,6.45,1.0,0.0,2522.0,282.0,19.0,1862.0,28.0,331.0
+65,2006,12,CO,Continental Air Lines Inc.,LAS,"Las Vegas, NV: McCarran International",462.0,84.0,18.55,2.93,43.22,0.91,18.39,0.0,0.0,3525.0,878.0,135.0,1615.0,20.0,877.0
+66,2006,12,CO,Continental Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",669.0,169.0,55.03,5.3,69.92,2.39,36.36,1.0,1.0,8057.0,2877.0,429.0,2557.0,77.0,2117.0
+67,2006,12,CO,Continental Air Lines Inc.,LGA,"New York, NY: LaGuardia",390.0,153.0,19.24,2.74,114.61,0.8,15.61,5.0,0.0,9582.0,1057.0,119.0,7097.0,12.0,1297.0
+68,2006,12,CO,Continental Air Lines Inc.,MCO,"Orlando, FL: Orlando International",650.0,166.0,46.86,2.61,75.95,5.16,35.42,0.0,0.0,7614.0,2347.0,91.0,2913.0,168.0,2095.0
+69,2006,12,CO,Continental Air Lines Inc.,MIA,"Miami, FL: Miami International",320.0,78.0,25.15,1.41,42.58,1.04,7.83,0.0,0.0,3189.0,1111.0,62.0,1525.0,44.0,447.0
+70,2006,12,CO,Continental Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",135.0,19.0,5.23,1.32,7.94,1.26,3.25,1.0,0.0,633.0,275.0,35.0,195.0,25.0,103.0
+71,2006,12,CO,Continental Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",405.0,160.0,10.62,6.27,123.71,2.44,16.95,12.0,0.0,14320.0,404.0,955.0,11496.0,65.0,1400.0
+72,2006,12,CO,Continental Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",193.0,66.0,13.67,0.77,39.92,1.0,10.63,2.0,1.0,5761.0,685.0,76.0,4359.0,25.0,616.0
+73,2006,12,CO,Continental Air Lines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",375.0,75.0,22.35,2.74,30.22,0.92,18.77,0.0,1.0,3590.0,1240.0,158.0,1289.0,23.0,880.0
+74,2006,12,CO,Continental Air Lines Inc.,SAN,"San Diego, CA: San Diego International",332.0,76.0,25.59,2.05,25.69,0.24,22.45,0.0,0.0,3832.0,1299.0,80.0,1168.0,8.0,1277.0
+75,2006,12,CO,Continental Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",411.0,142.0,28.68,0.86,76.15,4.39,31.92,0.0,2.0,6871.0,1456.0,69.0,3036.0,142.0,2168.0
+76,2006,12,CO,Continental Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",407.0,112.0,23.84,2.0,57.23,1.9,27.03,0.0,0.0,6018.0,1125.0,86.0,2864.0,49.0,1894.0
+77,2006,12,CO,Continental Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",83.0,20.0,5.51,0.61,7.39,0.0,6.49,0.0,1.0,1162.0,353.0,62.0,356.0,0.0,391.0
+78,2006,12,DL,Delta Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",13216.0,2108.0,481.34,36.9,889.45,2.41,697.91,152.0,11.0,98021.0,29203.0,3209.0,29858.0,107.0,35644.0
+79,2006,12,DL,Delta Air Lines Inc.,BOS,"Boston, MA: Logan International",1300.0,150.0,34.85,1.03,60.86,0.0,53.25,22.0,1.0,7049.0,1993.0,32.0,2224.0,0.0,2800.0
+80,2006,12,DL,Delta Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",336.0,49.0,23.67,1.73,9.12,0.0,14.48,5.0,1.0,1590.0,837.0,47.0,239.0,0.0,467.0
+81,2006,12,DL,Delta Air Lines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",146.0,26.0,8.31,1.42,8.68,0.0,7.58,0.0,0.0,1139.0,406.0,47.0,332.0,0.0,354.0
+82,2006,12,DL,Delta Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",899.0,162.0,36.45,5.6,86.64,0.0,33.32,25.0,2.0,6232.0,1552.0,378.0,2797.0,0.0,1505.0
+83,2006,12,DL,Delta Air Lines Inc.,DEN,"Denver, CO: Denver International",309.0,45.0,18.38,1.55,15.64,0.0,9.43,20.0,0.0,2066.0,1109.0,49.0,426.0,0.0,482.0
+84,2006,12,DL,Delta Air Lines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",305.0,77.0,28.25,3.96,27.55,0.0,17.24,0.0,2.0,3056.0,869.0,116.0,1146.0,0.0,925.0
+85,2006,12,DL,Delta Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",182.0,33.0,12.72,0.96,8.15,0.0,11.18,1.0,0.0,1399.0,605.0,66.0,271.0,0.0,457.0
+86,2006,12,DL,Delta Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",371.0,118.0,20.92,0.0,83.16,0.0,13.92,9.0,4.0,7168.0,1281.0,0.0,4867.0,0.0,1020.0
+87,2006,12,DL,Delta Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",911.0,241.0,74.83,5.1,112.94,0.63,47.5,2.0,2.0,10984.0,3458.0,187.0,4121.0,45.0,3173.0
+88,2006,12,DL,Delta Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",159.0,39.0,12.56,1.47,16.83,0.0,8.14,0.0,2.0,1545.0,477.0,52.0,615.0,0.0,401.0
+89,2006,12,DL,Delta Air Lines Inc.,JFK,"New York, NY: John F. Kennedy International",1067.0,354.0,64.86,3.21,190.42,0.0,95.52,5.0,2.0,16885.0,4073.0,248.0,7695.0,0.0,4869.0
+90,2006,12,DL,Delta Air Lines Inc.,LAS,"Las Vegas, NV: McCarran International",591.0,107.0,38.66,1.46,45.45,0.0,21.43,1.0,0.0,5195.0,2355.0,45.0,1591.0,0.0,1204.0
+91,2006,12,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",1150.0,209.0,69.03,4.99,99.97,0.0,35.02,7.0,3.0,8558.0,3365.0,130.0,3027.0,0.0,2036.0
+92,2006,12,DL,Delta Air Lines Inc.,LGA,"New York, NY: LaGuardia",1734.0,335.0,49.02,8.59,204.85,0.0,72.55,47.0,2.0,15973.0,3257.0,535.0,8173.0,0.0,4008.0
+93,2006,12,DL,Delta Air Lines Inc.,MCO,"Orlando, FL: Orlando International",1089.0,250.0,75.64,3.77,96.93,0.84,72.82,4.0,0.0,10942.0,4092.0,216.0,2974.0,70.0,3590.0
+94,2006,12,DL,Delta Air Lines Inc.,MIA,"Miami, FL: Miami International",325.0,67.0,24.65,2.84,25.91,0.0,13.6,0.0,1.0,2426.0,827.0,114.0,727.0,0.0,758.0
+95,2006,12,DL,Delta Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",144.0,19.0,3.44,1.59,7.12,0.0,6.84,0.0,0.0,821.0,282.0,43.0,212.0,0.0,284.0
+96,2006,12,DL,Delta Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",305.0,85.0,17.79,0.79,52.62,0.0,13.81,13.0,0.0,4381.0,830.0,18.0,2781.0,0.0,752.0
+97,2006,12,DL,Delta Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",329.0,70.0,15.7,1.75,41.44,0.0,11.11,10.0,3.0,3385.0,520.0,61.0,2250.0,0.0,554.0
+98,2006,12,DL,Delta Air Lines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",338.0,52.0,16.34,3.12,13.92,0.0,18.62,0.0,0.0,2270.0,696.0,300.0,410.0,0.0,864.0
+99,2006,12,DL,Delta Air Lines Inc.,SAN,"San Diego, CA: San Diego International",308.0,42.0,18.7,1.84,16.18,0.0,5.28,1.0,0.0,1566.0,881.0,60.0,412.0,0.0,213.0
+100,2006,12,DL,Delta Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",391.0,105.0,40.52,2.84,50.03,0.39,11.22,0.0,1.0,5898.0,2597.0,277.0,2207.0,30.0,787.0
+101,2006,12,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",352.0,94.0,29.06,3.92,41.52,0.46,19.05,1.0,0.0,3900.0,1331.0,148.0,1495.0,36.0,890.0
+102,2006,12,DL,Delta Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",2457.0,342.0,119.71,6.27,119.58,0.0,96.44,21.0,2.0,17429.0,8221.0,244.0,3623.0,0.0,5341.0
+103,2006,12,EV,Atlantic Southeast Airlines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",9208.0,2210.0,978.68,174.52,611.82,6.27,438.7,312.0,7.0,137126.0,73770.0,12887.0,28099.0,225.0,22145.0
+104,2006,12,EV,Atlantic Southeast Airlines,CLT,"Charlotte, NC: Charlotte Douglas International",44.0,9.0,4.21,0.0,4.79,0.0,0.0,2.0,1.0,391.0,214.0,0.0,177.0,0.0,0.0
+105,2006,12,EV,Atlantic Southeast Airlines,DCA,"Washington, DC: Ronald Reagan Washington National",84.0,12.0,9.35,0.0,2.65,0.0,0.0,4.0,0.0,1118.0,777.0,0.0,341.0,0.0,0.0
+106,2006,12,EV,Atlantic Southeast Airlines,DEN,"Denver, CO: Denver International",16.0,9.0,4.96,0.69,3.35,0.0,0.0,3.0,0.0,627.0,400.0,42.0,185.0,0.0,0.0
+107,2006,12,EV,Atlantic Southeast Airlines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,0.0,0.0,0.0,0.0
+108,2006,12,EV,Atlantic Southeast Airlines,DTW,"Detroit, MI: Detroit Metro Wayne County",68.0,14.0,9.53,0.0,3.47,0.0,1.0,3.0,0.0,549.0,335.0,0.0,136.0,0.0,78.0
+109,2006,12,EV,Atlantic Southeast Airlines,IAH,"Houston, TX: George Bush Intercontinental/Houston",76.0,35.0,23.98,1.58,7.44,0.0,2.0,3.0,1.0,2029.0,1598.0,90.0,287.0,0.0,54.0
+110,2006,12,EV,Atlantic Southeast Airlines,JFK,"New York, NY: John F. Kennedy International",3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,2006,12,EV,Atlantic Southeast Airlines,LAS,"Las Vegas, NV: McCarran International",59.0,30.0,13.17,0.72,13.57,0.0,2.54,0.0,0.0,2268.0,1119.0,60.0,932.0,0.0,157.0
+112,2006,12,EV,Atlantic Southeast Airlines,LAX,"Los Angeles, CA: Los Angeles International",85.0,37.0,10.38,2.57,15.16,0.22,8.66,5.0,0.0,2866.0,912.0,294.0,900.0,30.0,730.0
+113,2006,12,EV,Atlantic Southeast Airlines,LGA,"New York, NY: LaGuardia",52.0,26.0,11.1,0.0,11.14,1.0,2.76,4.0,0.0,1268.0,565.0,0.0,559.0,15.0,129.0
+114,2006,12,EV,Atlantic Southeast Airlines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",135.0,54.0,38.35,4.53,5.31,0.0,5.82,2.0,0.0,3296.0,2327.0,452.0,234.0,0.0,283.0
+115,2006,12,EV,Atlantic Southeast Airlines,SAN,"San Diego, CA: San Diego International",31.0,9.0,6.56,0.25,2.19,0.0,0.0,0.0,0.0,373.0,284.0,6.0,83.0,0.0,0.0
+116,2006,12,EV,Atlantic Southeast Airlines,SFO,"San Francisco, CA: San Francisco International",57.0,20.0,9.01,1.0,8.19,0.0,1.8,7.0,0.0,1105.0,359.0,83.0,425.0,0.0,238.0
+117,2006,12,EV,Atlantic Southeast Airlines,SLC,"Salt Lake City, UT: Salt Lake City International",434.0,147.0,66.32,13.79,40.05,0.0,26.84,14.0,0.0,9776.0,5396.0,1081.0,1655.0,0.0,1644.0
+118,2006,12,F9,Frontier Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",88.0,17.0,5.09,3.34,5.94,0.0,2.64,7.0,0.0,1107.0,249.0,262.0,333.0,0.0,263.0
+119,2006,12,F9,Frontier Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",31.0,7.0,3.7,0.42,2.72,0.0,0.16,3.0,0.0,288.0,116.0,45.0,110.0,0.0,17.0
+120,2006,12,F9,Frontier Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",83.0,13.0,2.03,2.27,8.23,0.0,0.46,6.0,0.0,919.0,101.0,325.0,448.0,0.0,45.0
+121,2006,12,F9,Frontier Airlines Inc.,DEN,"Denver, CO: Denver International",3659.0,588.0,92.05,58.11,269.08,0.68,168.09,348.0,0.0,33926.0,5523.0,5782.0,13490.0,137.0,8994.0
+122,2006,12,F9,Frontier Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",195.0,46.0,12.12,6.07,22.76,0.0,5.06,22.0,0.0,2181.0,385.0,551.0,952.0,0.0,293.0
+123,2006,12,F9,Frontier Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",82.0,18.0,3.78,1.7,9.45,0.0,3.07,6.0,0.0,970.0,116.0,139.0,451.0,0.0,264.0
+124,2006,12,F9,Frontier Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",50.0,17.0,3.08,1.52,11.93,0.0,0.47,6.0,0.0,627.0,116.0,94.0,410.0,0.0,7.0
+125,2006,12,F9,Frontier Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",82.0,16.0,5.45,1.68,6.08,0.0,2.78,9.0,0.0,1041.0,179.0,158.0,479.0,0.0,225.0
+126,2006,12,F9,Frontier Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",200.0,47.0,9.93,5.83,23.64,0.0,7.61,17.0,0.0,2387.0,258.0,382.0,1202.0,0.0,545.0
+127,2006,12,F9,Frontier Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",334.0,69.0,17.96,5.15,36.16,0.0,9.73,19.0,0.0,3365.0,800.0,359.0,1670.0,0.0,536.0
+128,2006,12,F9,Frontier Airlines Inc.,LGA,"New York, NY: LaGuardia",88.0,33.0,12.75,1.53,16.36,0.0,2.36,9.0,0.0,1427.0,551.0,102.0,651.0,0.0,123.0
+129,2006,12,F9,Frontier Airlines Inc.,MCO,"Orlando, FL: Orlando International",77.0,19.0,2.55,2.26,13.38,0.0,0.81,7.0,0.0,1266.0,80.0,275.0,836.0,0.0,75.0
+130,2006,12,F9,Frontier Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",92.0,17.0,4.18,2.98,7.12,0.0,2.71,9.0,0.0,848.0,118.0,228.0,339.0,0.0,163.0
+131,2006,12,F9,Frontier Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",59.0,13.0,2.95,2.72,5.33,0.0,2.0,5.0,1.0,798.0,204.0,233.0,206.0,0.0,155.0
+132,2006,12,F9,Frontier Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",204.0,39.0,5.58,5.84,19.17,0.05,8.37,20.0,0.0,2374.0,235.0,565.0,943.0,9.0,622.0
+133,2006,12,F9,Frontier Airlines Inc.,SAN,"San Diego, CA: San Diego International",180.0,34.0,7.64,4.37,15.84,0.0,6.15,16.0,0.0,1899.0,615.0,246.0,643.0,0.0,395.0
+134,2006,12,F9,Frontier Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",119.0,40.0,9.96,4.14,19.63,0.0,6.27,12.0,0.0,1853.0,381.0,248.0,870.0,0.0,354.0
+135,2006,12,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",305.0,80.0,29.57,4.47,34.58,0.0,11.39,17.0,0.0,4052.0,1532.0,296.0,1525.0,0.0,699.0
+136,2006,12,F9,Frontier Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",162.0,31.0,7.81,4.47,14.01,0.0,4.72,17.0,0.0,1761.0,412.0,415.0,633.0,0.0,301.0
+137,2006,12,FL,AirTran Airways Corporation,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",7087.0,1420.0,175.05,3.83,481.04,0.0,760.08,80.0,9.0,65834.0,7662.0,530.0,16134.0,0.0,41508.0
+138,2006,12,FL,AirTran Airways Corporation,BOS,"Boston, MA: Logan International",919.0,178.0,30.58,0.83,49.97,0.0,96.62,13.0,2.0,9622.0,1251.0,15.0,2374.0,0.0,5982.0
+139,2006,12,FL,AirTran Airways Corporation,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1081.0,208.0,51.62,0.0,33.96,0.0,122.42,9.0,1.0,10943.0,1802.0,0.0,1193.0,0.0,7948.0
+140,2006,12,FL,AirTran Airways Corporation,CLT,"Charlotte, NC: Charlotte Douglas International",288.0,60.0,20.67,0.0,15.48,0.0,23.85,2.0,0.0,3226.0,922.0,0.0,783.0,0.0,1521.0
+141,2006,12,FL,AirTran Airways Corporation,DCA,"Washington, DC: Ronald Reagan Washington National",165.0,50.0,14.23,0.0,9.17,0.0,26.59,0.0,1.0,2289.0,414.0,0.0,649.0,0.0,1226.0
+142,2006,12,FL,AirTran Airways Corporation,DEN,"Denver, CO: Denver International",102.0,29.0,11.64,0.0,7.21,0.0,10.15,7.0,0.0,1769.0,491.0,0.0,618.0,0.0,660.0
+143,2006,12,FL,AirTran Airways Corporation,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",351.0,112.0,28.99,0.0,40.38,0.0,42.63,10.0,2.0,5081.0,1170.0,0.0,1662.0,0.0,2249.0
+144,2006,12,FL,AirTran Airways Corporation,DTW,"Detroit, MI: Detroit Metro Wayne County",287.0,55.0,17.95,0.0,6.03,0.0,31.02,2.0,0.0,2438.0,607.0,0.0,207.0,0.0,1624.0
+145,2006,12,FL,AirTran Airways Corporation,EWR,"Newark, NJ: Newark Liberty International",256.0,93.0,12.22,0.83,55.31,0.0,24.64,11.0,0.0,6038.0,363.0,49.0,3644.0,0.0,1982.0
+146,2006,12,FL,AirTran Airways Corporation,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",612.0,199.0,60.51,0.0,61.54,0.0,76.95,4.0,1.0,8754.0,2054.0,0.0,2335.0,0.0,4365.0
+147,2006,12,FL,AirTran Airways Corporation,LAS,"Las Vegas, NV: McCarran International",129.0,35.0,16.08,0.0,7.39,0.0,11.53,0.0,0.0,1307.0,577.0,0.0,282.0,0.0,448.0
+148,2006,12,FL,AirTran Airways Corporation,LAX,"Los Angeles, CA: Los Angeles International",127.0,30.0,16.71,0.0,3.92,0.0,9.37,0.0,1.0,910.0,465.0,0.0,119.0,0.0,326.0
+149,2006,12,FL,AirTran Airways Corporation,LGA,"New York, NY: LaGuardia",399.0,171.0,27.13,0.0,96.47,0.0,47.41,7.0,0.0,9726.0,1554.0,0.0,5454.0,0.0,2718.0
+150,2006,12,FL,AirTran Airways Corporation,MCO,"Orlando, FL: Orlando International",1347.0,298.0,77.88,0.95,94.79,0.0,124.38,4.0,1.0,14811.0,3912.0,129.0,3067.0,0.0,7703.0
+151,2006,12,FL,AirTran Airways Corporation,MIA,"Miami, FL: Miami International",135.0,37.0,20.98,0.0,9.73,0.0,6.29,0.0,0.0,1330.0,633.0,0.0,284.0,0.0,413.0
+152,2006,12,FL,AirTran Airways Corporation,MSP,"Minneapolis, MN: Minneapolis-St Paul International",364.0,97.0,21.05,1.94,18.84,0.0,55.18,5.0,0.0,4562.0,831.0,109.0,637.0,0.0,2985.0
+153,2006,12,FL,AirTran Airways Corporation,PHL,"Philadelphia, PA: Philadelphia International",533.0,148.0,23.68,0.0,83.14,0.0,41.18,8.0,4.0,9697.0,882.0,0.0,5574.0,0.0,3241.0
+154,2006,12,FL,AirTran Airways Corporation,SFO,"San Francisco, CA: San Francisco International",62.0,16.0,4.0,0.0,4.04,0.0,7.96,0.0,0.0,1040.0,286.0,0.0,295.0,0.0,459.0
+155,2006,12,HA,Hawaiian Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",57.0,23.0,16.7,0.0,0.0,0.0,6.3,4.0,0.0,1624.0,1076.0,0.0,0.0,0.0,548.0
+156,2006,12,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",79.0,24.0,14.49,0.0,0.0,0.0,9.51,5.0,0.0,1110.0,426.0,0.0,0.0,0.0,684.0
+157,2006,12,HA,Hawaiian Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",31.0,17.0,11.74,0.0,0.0,0.0,5.26,2.0,0.0,2897.0,2188.0,0.0,0.0,0.0,709.0
+158,2006,12,HA,Hawaiian Airlines Inc.,SAN,"San Diego, CA: San Diego International",62.0,16.0,12.62,0.0,0.0,0.0,3.38,0.0,0.0,733.0,518.0,0.0,0.0,0.0,215.0
+159,2006,12,HA,Hawaiian Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",74.0,28.0,15.47,0.0,0.0,0.0,12.53,3.0,0.0,2742.0,1890.0,0.0,0.0,0.0,852.0
+160,2006,12,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",31.0,6.0,4.24,0.0,0.0,0.45,1.31,0.0,0.0,227.0,178.0,0.0,0.0,9.0,40.0
+161,2006,12,MQ,American Eagle Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",119.0,32.0,13.13,0.65,10.9,0.0,7.32,11.0,0.0,1215.0,530.0,18.0,418.0,0.0,249.0
+162,2006,12,MQ,American Eagle Airlines Inc.,BOS,"Boston, MA: Logan International",1295.0,285.0,62.33,4.37,76.96,0.0,141.34,46.0,0.0,17677.0,6043.0,480.0,3588.0,0.0,7566.0
+163,2006,12,MQ,American Eagle Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",194.0,57.0,16.32,4.48,10.56,0.0,25.64,12.0,1.0,3787.0,915.0,278.0,436.0,0.0,2158.0
+164,2006,12,MQ,American Eagle Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",441.0,159.0,59.62,7.62,37.37,0.0,54.4,27.0,2.0,9101.0,3538.0,561.0,1544.0,0.0,3458.0
+165,2006,12,MQ,American Eagle Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",852.0,209.0,53.16,3.09,65.76,0.0,86.99,27.0,2.0,10258.0,3233.0,100.0,2461.0,0.0,4464.0
+166,2006,12,MQ,American Eagle Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",8199.0,1919.0,296.98,110.25,408.06,4.56,1099.16,400.0,75.0,120525.0,23764.0,11596.0,18873.0,179.0,66113.0
+167,2006,12,MQ,American Eagle Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",213.0,64.0,15.06,3.21,19.57,0.0,26.15,19.0,0.0,3257.0,697.0,172.0,857.0,0.0,1531.0
+168,2006,12,MQ,American Eagle Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",278.0,142.0,8.16,0.33,106.69,0.0,26.81,15.0,0.0,8900.0,425.0,5.0,6485.0,0.0,1985.0
+169,2006,12,MQ,American Eagle Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",653.0,221.0,40.94,6.43,92.24,0.0,81.39,30.0,3.0,11565.0,1855.0,455.0,4411.0,0.0,4844.0
+170,2006,12,MQ,American Eagle Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",142.0,33.0,7.79,1.99,12.4,0.0,10.82,2.0,0.0,1637.0,333.0,168.0,412.0,0.0,724.0
+171,2006,12,MQ,American Eagle Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",1789.0,272.0,48.88,18.25,64.1,0.04,140.73,43.0,0.0,18555.0,4468.0,2398.0,2893.0,7.0,8789.0
+172,2006,12,MQ,American Eagle Airlines Inc.,LGA,"New York, NY: LaGuardia",1672.0,593.0,66.99,7.51,318.66,0.0,199.84,58.0,0.0,33214.0,4562.0,784.0,16254.0,0.0,11614.0
+173,2006,12,MQ,American Eagle Airlines Inc.,MIA,"Miami, FL: Miami International",534.0,159.0,47.71,4.35,43.89,0.47,62.58,20.0,3.0,9046.0,3423.0,136.0,1429.0,9.0,4049.0
+174,2006,12,MQ,American Eagle Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",7847.0,3229.0,253.92,40.1,1610.42,1.78,1322.78,619.0,11.0,235342.0,20496.0,4365.0,109470.0,73.0,100938.0
+175,2006,12,MQ,American Eagle Airlines Inc.,SAN,"San Diego, CA: San Diego International",873.0,139.0,44.51,2.74,24.16,0.32,67.27,28.0,0.0,6053.0,2051.0,208.0,761.0,20.0,3013.0
+176,2006,12,MQ,American Eagle Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",119.0,34.0,2.17,0.0,12.66,0.0,19.17,3.0,0.0,1538.0,86.0,0.0,472.0,0.0,980.0
+177,2006,12,NW,Northwest Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",378.0,136.0,64.59,1.8,52.78,0.0,16.83,2.0,2.0,5818.0,3114.0,81.0,1752.0,0.0,871.0
+178,2006,12,NW,Northwest Airlines Inc.,BOS,"Boston, MA: Logan International",391.0,116.0,56.73,4.25,39.67,0.0,15.35,5.0,1.0,4619.0,2527.0,161.0,1178.0,0.0,753.0
+179,2006,12,NW,Northwest Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",310.0,107.0,53.6,2.61,40.39,0.0,10.4,5.0,0.0,4356.0,2406.0,75.0,1267.0,0.0,608.0
+180,2006,12,NW,Northwest Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",214.0,86.0,35.23,1.9,43.4,0.0,5.48,1.0,0.0,3971.0,1991.0,115.0,1562.0,0.0,303.0
+181,2006,12,NW,Northwest Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",532.0,175.0,78.1,9.96,64.54,0.0,22.4,9.0,1.0,8008.0,3540.0,940.0,2453.0,0.0,1075.0
+182,2006,12,NW,Northwest Airlines Inc.,DEN,"Denver, CO: Denver International",302.0,133.0,45.89,6.74,65.66,0.0,14.71,27.0,0.0,5875.0,2125.0,643.0,2118.0,0.0,989.0
+183,2006,12,NW,Northwest Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",324.0,118.0,44.32,3.66,63.69,0.0,6.33,4.0,2.0,4051.0,1567.0,202.0,1977.0,0.0,305.0
+184,2006,12,NW,Northwest Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",8094.0,2172.0,557.42,82.3,848.96,16.42,666.91,147.0,5.0,104359.0,36375.0,6082.0,26005.0,429.0,35468.0
+185,2006,12,NW,Northwest Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",367.0,187.0,37.72,54.84,82.41,0.0,12.02,16.0,0.0,9601.0,1865.0,3195.0,3934.0,0.0,607.0
+186,2006,12,NW,Northwest Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",272.0,116.0,51.19,2.92,47.57,0.0,14.32,0.0,0.0,5220.0,2932.0,134.0,1561.0,0.0,593.0
+187,2006,12,NW,Northwest Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",241.0,89.0,34.67,0.31,48.94,0.0,5.08,1.0,2.0,3402.0,1563.0,38.0,1567.0,0.0,234.0
+188,2006,12,NW,Northwest Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",178.0,89.0,40.8,5.54,35.09,1.47,6.1,2.0,1.0,4192.0,1942.0,394.0,1424.0,55.0,377.0
+189,2006,12,NW,Northwest Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",447.0,172.0,48.0,5.69,90.6,0.0,27.71,2.0,0.0,6619.0,2344.0,309.0,2857.0,0.0,1109.0
+190,2006,12,NW,Northwest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",586.0,202.0,77.37,3.0,95.43,0.0,26.2,3.0,0.0,7759.0,3351.0,117.0,3165.0,0.0,1126.0
+191,2006,12,NW,Northwest Airlines Inc.,LGA,"New York, NY: LaGuardia",552.0,261.0,53.02,36.95,143.79,0.0,27.25,9.0,1.0,11607.0,2547.0,1986.0,6033.0,0.0,1041.0
+192,2006,12,NW,Northwest Airlines Inc.,MCO,"Orlando, FL: Orlando International",583.0,216.0,99.92,1.54,82.59,0.0,31.96,1.0,1.0,9664.0,4618.0,296.0,2893.0,0.0,1857.0
+193,2006,12,NW,Northwest Airlines Inc.,MIA,"Miami, FL: Miami International",150.0,69.0,36.4,0.0,29.44,0.0,3.16,0.0,0.0,2498.0,1424.0,0.0,897.0,0.0,177.0
+194,2006,12,NW,Northwest Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",8260.0,2140.0,589.07,82.19,839.82,23.46,605.45,114.0,5.0,110731.0,42384.0,6089.0,27315.0,637.0,34306.0
+195,2006,12,NW,Northwest Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",575.0,281.0,67.63,51.46,140.91,0.0,21.01,32.0,0.0,14201.0,3185.0,3074.0,6553.0,0.0,1389.0
+196,2006,12,NW,Northwest Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",359.0,159.0,55.22,19.72,67.25,0.0,16.81,9.0,2.0,10778.0,2990.0,2052.0,4733.0,0.0,1003.0
+197,2006,12,NW,Northwest Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",367.0,126.0,55.55,2.17,55.21,0.0,13.08,2.0,1.0,4712.0,2228.0,99.0,1811.0,0.0,574.0
+198,2006,12,NW,Northwest Airlines Inc.,SAN,"San Diego, CA: San Diego International",182.0,65.0,21.26,0.59,36.27,0.0,6.87,1.0,0.0,3184.0,1651.0,29.0,1236.0,0.0,268.0
+199,2006,12,NW,Northwest Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",400.0,154.0,61.25,3.33,72.11,0.0,17.32,3.0,0.0,6936.0,3177.0,233.0,2505.0,0.0,1021.0
+200,2006,12,NW,Northwest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",322.0,133.0,41.92,14.03,64.56,0.0,12.5,2.0,1.0,6627.0,2168.0,995.0,2823.0,0.0,641.0
+201,2006,12,NW,Northwest Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",105.0,46.0,20.98,1.35,18.56,0.0,5.12,0.0,0.0,1942.0,1024.0,67.0,644.0,0.0,207.0
+202,2006,12,OH,Comair Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",659.0,151.0,70.49,16.7,54.1,0.0,9.72,24.0,1.0,8282.0,4130.0,1001.0,2697.0,0.0,454.0
+203,2006,12,OH,Comair Inc.,BOS,"Boston, MA: Logan International",1265.0,339.0,162.14,56.92,88.83,0.45,30.65,49.0,1.0,20708.0,10920.0,3447.0,4152.0,15.0,2174.0
+204,2006,12,OH,Comair Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",306.0,74.0,38.8,11.2,16.52,0.0,7.49,15.0,1.0,3866.0,2127.0,830.0,584.0,0.0,325.0
+205,2006,12,OH,Comair Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",232.0,67.0,26.64,15.22,21.26,0.0,3.88,7.0,2.0,3925.0,1278.0,887.0,1482.0,0.0,278.0
+206,2006,12,OH,Comair Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",517.0,176.0,68.96,27.31,69.42,0.0,10.31,28.0,2.0,10804.0,4976.0,2294.0,2923.0,0.0,611.0
+207,2006,12,OH,Comair Inc.,DEN,"Denver, CO: Denver International",72.0,22.0,11.94,2.54,6.94,0.0,0.57,10.0,0.0,1055.0,527.0,237.0,279.0,0.0,12.0
+208,2006,12,OH,Comair Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",107.0,35.0,22.32,4.84,5.85,0.0,2.0,7.0,1.0,1231.0,846.0,165.0,165.0,0.0,55.0
+209,2006,12,OH,Comair Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",257.0,66.0,30.2,11.91,21.65,0.0,2.25,13.0,0.0,3358.0,1673.0,628.0,777.0,0.0,280.0
+210,2006,12,OH,Comair Inc.,EWR,"Newark, NJ: Newark Liberty International",126.0,48.0,8.6,3.0,36.4,0.0,0.0,13.0,0.0,2650.0,430.0,136.0,2084.0,0.0,0.0
+211,2006,12,OH,Comair Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",110.0,35.0,17.66,2.19,15.15,0.0,0.0,5.0,2.0,1313.0,735.0,102.0,476.0,0.0,0.0
+212,2006,12,OH,Comair Inc.,JFK,"New York, NY: John F. Kennedy International",1817.0,663.0,221.48,107.17,291.8,0.36,42.19,126.0,5.0,39091.0,13689.0,6762.0,15393.0,20.0,3227.0
+213,2006,12,OH,Comair Inc.,LGA,"New York, NY: LaGuardia",1149.0,362.0,82.87,58.77,201.02,0.0,19.35,60.0,6.0,18338.0,5523.0,3145.0,8651.0,0.0,1019.0
+214,2006,12,OH,Comair Inc.,MCO,"Orlando, FL: Orlando International",133.0,20.0,8.4,6.51,5.09,0.0,0.0,4.0,1.0,1253.0,863.0,244.0,146.0,0.0,0.0
+215,2006,12,OH,Comair Inc.,MIA,"Miami, FL: Miami International",56.0,15.0,6.37,1.31,6.08,0.0,1.24,2.0,0.0,655.0,234.0,148.0,208.0,0.0,65.0
+216,2006,12,OH,Comair Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",113.0,20.0,11.99,1.93,5.24,0.0,0.84,8.0,0.0,1028.0,396.0,297.0,160.0,0.0,175.0
+217,2006,12,OH,Comair Inc.,ORD,"Chicago, IL: Chicago O'Hare International",230.0,91.0,19.68,5.16,63.17,0.0,2.98,23.0,0.0,5230.0,857.0,287.0,3765.0,0.0,321.0
+218,2006,12,OH,Comair Inc.,PHL,"Philadelphia, PA: Philadelphia International",125.0,41.0,19.76,3.8,16.44,0.0,1.0,16.0,0.0,2147.0,814.0,227.0,1083.0,0.0,23.0
+219,2006,12,OO,SkyWest Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",91.0,31.0,16.0,1.0,2.0,0.0,12.0,0.0,0.0,1763.0,629.0,193.0,44.0,0.0,897.0
+220,2006,12,OO,SkyWest Airlines Inc.,DEN,"Denver, CO: Denver International",4371.0,1394.0,758.0,75.0,86.0,14.0,461.0,582.0,0.0,90274.0,37788.0,8969.0,10385.0,527.0,32605.0
+221,2006,12,OO,SkyWest Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",108.0,47.0,34.0,3.0,1.0,0.0,9.0,7.0,0.0,2581.0,1611.0,359.0,23.0,0.0,588.0
+222,2006,12,OO,SkyWest Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",33.0,8.0,2.0,0.0,0.0,0.0,6.0,5.0,0.0,370.0,64.0,0.0,0.0,0.0,306.0
+223,2006,12,OO,SkyWest Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",86.0,28.0,13.0,0.0,1.0,0.0,14.0,2.0,0.0,1673.0,790.0,0.0,64.0,0.0,819.0
+224,2006,12,OO,SkyWest Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",237.0,63.0,41.0,0.0,8.0,0.0,14.0,6.0,2.0,3477.0,2093.0,0.0,683.0,0.0,701.0
+225,2006,12,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",4295.0,957.0,450.0,39.0,83.0,2.0,383.0,108.0,1.0,48417.0,18740.0,3292.0,6138.0,45.0,20202.0
+226,2006,12,OO,SkyWest Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",58.0,21.0,20.0,1.0,0.0,0.0,0.0,1.0,0.0,799.0,757.0,42.0,0.0,0.0,0.0
+227,2006,12,OO,SkyWest Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",4239.0,1398.0,256.0,34.0,860.0,9.0,239.0,495.0,0.0,138992.0,13219.0,5364.0,99748.0,503.0,20158.0
+228,2006,12,OO,SkyWest Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",223.0,67.0,52.0,0.0,5.0,1.0,9.0,0.0,0.0,3033.0,1862.0,0.0,574.0,41.0,556.0
+229,2006,12,OO,SkyWest Airlines Inc.,SAN,"San Diego, CA: San Diego International",690.0,139.0,103.0,4.0,1.0,0.0,31.0,18.0,0.0,5827.0,3986.0,231.0,83.0,0.0,1527.0
+230,2006,12,OO,SkyWest Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",460.0,161.0,100.0,4.0,9.0,1.0,47.0,25.0,0.0,6909.0,3335.0,194.0,471.0,38.0,2871.0
+231,2006,12,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3401.0,1232.0,453.0,16.0,401.0,13.0,349.0,155.0,2.0,75799.0,20744.0,1397.0,33353.0,290.0,20015.0
+232,2006,12,OO,SkyWest Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",6815.0,1713.0,787.0,134.0,31.0,21.0,740.0,151.0,0.0,91683.0,35027.0,9273.0,2033.0,593.0,44757.0
+233,2006,12,TZ,ATA Airlines d/b/a ATA,DCA,"Washington, DC: Ronald Reagan Washington National",109.0,18.0,3.85,0.0,5.25,0.0,8.89,2.0,0.0,1245.0,218.0,0.0,318.0,0.0,709.0
+234,2006,12,TZ,ATA Airlines d/b/a ATA,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",134.0,39.0,9.36,0.0,4.45,0.0,25.19,2.0,0.0,2751.0,484.0,0.0,458.0,0.0,1809.0
+235,2006,12,TZ,ATA Airlines d/b/a ATA,LAS,"Las Vegas, NV: McCarran International",31.0,3.0,0.0,0.0,2.69,0.31,0.0,0.0,0.0,61.0,0.0,0.0,56.0,5.0,0.0
+236,2006,12,TZ,ATA Airlines d/b/a ATA,LAX,"Los Angeles, CA: Los Angeles International",98.0,44.0,4.04,0.0,24.92,0.0,15.05,3.0,1.0,2805.0,455.0,0.0,794.0,0.0,1556.0
+237,2006,12,TZ,ATA Airlines d/b/a ATA,LGA,"New York, NY: LaGuardia",230.0,101.0,9.3,0.0,72.37,0.0,19.33,3.0,0.0,5870.0,723.0,0.0,3530.0,0.0,1617.0
+238,2006,12,TZ,ATA Airlines d/b/a ATA,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",58.0,9.0,1.0,0.0,6.0,0.0,2.0,0.0,0.0,677.0,39.0,0.0,237.0,0.0,401.0
+239,2006,12,UA,United Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",214.0,51.0,13.24,0.05,10.83,0.0,26.88,8.0,0.0,3208.0,713.0,6.0,434.0,0.0,2055.0
+240,2006,12,UA,United Air Lines Inc.,BOS,"Boston, MA: Logan International",917.0,190.0,61.0,1.14,50.79,0.0,77.08,41.0,1.0,10665.0,3024.0,106.0,2352.0,0.0,5183.0
+241,2006,12,UA,United Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",473.0,111.0,28.75,1.69,22.98,0.0,57.58,21.0,0.0,6491.0,1682.0,93.0,935.0,0.0,3781.0
+242,2006,12,UA,United Air Lines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",163.0,36.0,10.58,0.0,10.44,0.0,14.98,11.0,0.0,1895.0,468.0,0.0,486.0,0.0,941.0
+243,2006,12,UA,United Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",407.0,96.0,22.79,1.0,18.29,0.0,53.91,37.0,1.0,5471.0,1336.0,86.0,720.0,0.0,3329.0
+244,2006,12,UA,United Air Lines Inc.,DEN,"Denver, CO: Denver International",6803.0,1506.0,372.97,20.94,579.66,0.82,531.61,730.0,6.0,72170.0,18517.0,1885.0,18680.0,56.0,33032.0
+245,2006,12,UA,United Air Lines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",537.0,136.0,41.5,1.32,38.46,0.0,54.71,34.0,6.0,7380.0,2253.0,75.0,1447.0,0.0,3605.0
+246,2006,12,UA,United Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",242.0,68.0,18.54,1.0,19.88,0.0,28.58,11.0,0.0,2829.0,756.0,56.0,580.0,0.0,1437.0
+247,2006,12,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",420.0,148.0,15.15,1.1,89.38,0.0,42.36,22.0,0.0,9819.0,706.0,280.0,5902.0,0.0,2931.0
+248,2006,12,UA,United Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",154.0,55.0,18.89,0.06,14.6,0.0,21.45,7.0,2.0,3400.0,1033.0,12.0,612.0,0.0,1743.0
+249,2006,12,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",246.0,55.0,22.04,1.0,20.63,0.0,11.33,17.0,0.0,2760.0,1003.0,63.0,891.0,0.0,803.0
+250,2006,12,UA,United Air Lines Inc.,JFK,"New York, NY: John F. Kennedy International",433.0,132.0,16.85,0.74,98.25,0.0,16.16,4.0,1.0,7243.0,914.0,17.0,5086.0,0.0,1226.0
+251,2006,12,UA,United Air Lines Inc.,LAS,"Las Vegas, NV: McCarran International",982.0,231.0,64.78,3.39,64.87,0.0,97.97,30.0,0.0,12835.0,3437.0,487.0,2616.0,0.0,6295.0
+252,2006,12,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2990.0,562.0,161.1,7.05,173.47,0.0,220.37,68.0,1.0,31455.0,9956.0,620.0,6143.0,0.0,14736.0
+253,2006,12,UA,United Air Lines Inc.,LGA,"New York, NY: LaGuardia",709.0,243.0,37.89,0.65,121.21,0.0,83.24,43.0,0.0,13378.0,1952.0,117.0,6898.0,0.0,4411.0
+254,2006,12,UA,United Air Lines Inc.,MCO,"Orlando, FL: Orlando International",641.0,176.0,57.44,3.82,56.42,0.0,58.32,16.0,0.0,10207.0,3112.0,493.0,2056.0,0.0,4546.0
+255,2006,12,UA,United Air Lines Inc.,MIA,"Miami, FL: Miami International",174.0,64.0,26.36,0.0,20.89,0.0,16.75,6.0,0.0,3174.0,1122.0,0.0,799.0,0.0,1253.0
+256,2006,12,UA,United Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",482.0,109.0,27.67,2.26,15.81,0.0,63.26,37.0,0.0,6459.0,1283.0,117.0,570.0,0.0,4489.0
+257,2006,12,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",7999.0,2322.0,352.26,19.25,1387.85,0.0,562.64,365.0,8.0,143267.0,21541.0,1260.0,84041.0,0.0,36425.0
+258,2006,12,UA,United Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",536.0,149.0,31.81,1.97,66.59,0.0,48.63,28.0,3.0,10006.0,1593.0,129.0,4554.0,0.0,3730.0
+259,2006,12,UA,United Air Lines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",568.0,163.0,55.4,3.85,39.66,0.0,64.09,20.0,0.0,8914.0,2879.0,283.0,1841.0,0.0,3911.0
+260,2006,12,UA,United Air Lines Inc.,SAN,"San Diego, CA: San Diego International",717.0,166.0,42.5,3.11,39.76,0.0,80.62,27.0,1.0,8435.0,2102.0,105.0,1321.0,0.0,4907.0
+261,2006,12,UA,United Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",890.0,297.0,75.87,6.0,107.01,0.0,108.11,28.0,7.0,15559.0,3917.0,289.0,4425.0,0.0,6928.0
+262,2006,12,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",3779.0,940.0,197.3,11.59,428.87,0.0,302.24,90.0,1.0,54016.0,12929.0,748.0,18864.0,0.0,21475.0
+263,2006,12,UA,United Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",213.0,63.0,29.53,0.78,14.71,0.0,17.97,14.0,0.0,3430.0,1545.0,34.0,527.0,0.0,1324.0
+264,2006,12,US,US Airways Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",225.0,77.0,31.3,2.96,24.61,1.0,17.13,2.0,0.0,4086.0,1576.0,409.0,831.0,23.0,1247.0
+265,2006,12,US,US Airways Inc.,BOS,"Boston, MA: Logan International",1557.0,286.0,69.75,4.54,108.11,0.0,103.6,45.0,1.0,12984.0,3028.0,422.0,4003.0,0.0,5531.0
+266,2006,12,US,US Airways Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",375.0,125.0,45.14,2.38,36.84,0.0,40.65,6.0,0.0,5690.0,1811.0,322.0,1278.0,0.0,2279.0
+267,2006,12,US,US Airways Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",6087.0,1543.0,435.25,14.45,674.84,0.0,418.46,61.0,10.0,62485.0,16626.0,1017.0,21489.0,0.0,23353.0
+268,2006,12,US,US Airways Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",2282.0,390.0,89.0,14.07,145.21,0.0,141.71,55.0,25.0,19939.0,3470.0,1557.0,6026.0,0.0,8886.0
+269,2006,12,US,US Airways Inc.,DEN,"Denver, CO: Denver International",416.0,112.0,40.51,0.55,46.24,0.0,24.69,30.0,0.0,6898.0,1921.0,49.0,3194.0,0.0,1734.0
+270,2006,12,US,US Airways Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",524.0,203.0,64.1,2.16,68.2,1.4,67.13,8.0,6.0,10232.0,3184.0,184.0,2777.0,31.0,4056.0
+271,2006,12,US,US Airways Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",311.0,92.0,37.73,2.29,29.02,0.0,22.96,2.0,0.0,5068.0,1674.0,490.0,768.0,0.0,2136.0
+272,2006,12,US,US Airways Inc.,EWR,"Newark, NJ: Newark Liberty International",302.0,154.0,23.5,1.2,104.54,0.92,23.84,8.0,2.0,8818.0,1044.0,312.0,5806.0,77.0,1579.0
+273,2006,12,US,US Airways Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",787.0,241.0,84.47,2.73,81.28,0.0,72.51,3.0,1.0,11775.0,3490.0,633.0,2676.0,0.0,4976.0
+274,2006,12,US,US Airways Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",119.0,39.0,16.64,1.13,10.05,0.0,11.18,3.0,0.0,1902.0,761.0,82.0,360.0,0.0,699.0
+275,2006,12,US,US Airways Inc.,JFK,"New York, NY: John F. Kennedy International",217.0,80.0,25.1,1.09,32.06,0.82,20.94,1.0,0.0,4297.0,1141.0,265.0,1484.0,18.0,1389.0
+276,2006,12,US,US Airways Inc.,LAS,"Las Vegas, NV: McCarran International",3489.0,1025.0,260.66,14.14,327.4,12.65,410.15,41.0,2.0,48939.0,11645.0,1772.0,11080.0,488.0,23954.0
+277,2006,12,US,US Airways Inc.,LAX,"Los Angeles, CA: Los Angeles International",893.0,239.0,86.32,1.9,86.54,2.11,62.14,15.0,1.0,11790.0,4290.0,218.0,3019.0,59.0,4204.0
+278,2006,12,US,US Airways Inc.,LGA,"New York, NY: LaGuardia",1100.0,248.0,28.85,7.55,156.32,0.0,55.27,32.0,1.0,10547.0,986.0,591.0,5967.0,0.0,3003.0
+279,2006,12,US,US Airways Inc.,MCO,"Orlando, FL: Orlando International",797.0,230.0,104.83,1.73,50.81,0.0,72.63,2.0,0.0,10764.0,4505.0,87.0,1610.0,0.0,4562.0
+280,2006,12,US,US Airways Inc.,MIA,"Miami, FL: Miami International",352.0,101.0,40.35,1.07,28.67,0.0,30.91,0.0,0.0,4072.0,1426.0,40.0,954.0,0.0,1652.0
+281,2006,12,US,US Airways Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",265.0,99.0,35.69,1.7,41.71,0.0,19.9,1.0,0.0,4275.0,1583.0,158.0,1210.0,0.0,1324.0
+282,2006,12,US,US Airways Inc.,ORD,"Chicago, IL: Chicago O'Hare International",695.0,298.0,42.03,2.27,204.53,0.0,49.18,33.0,0.0,18728.0,2397.0,221.0,12965.0,0.0,3145.0
+283,2006,12,US,US Airways Inc.,PHL,"Philadelphia, PA: Philadelphia International",3981.0,1224.0,248.36,28.94,652.71,0.0,293.99,74.0,33.0,70261.0,12478.0,4461.0,33355.0,0.0,19967.0
+284,2006,12,US,US Airways Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",5906.0,1495.0,468.15,30.76,492.98,18.96,484.15,90.0,26.0,81013.0,30890.0,3726.0,15997.0,620.0,29780.0
+285,2006,12,US,US Airways Inc.,SAN,"San Diego, CA: San Diego International",541.0,148.0,65.51,0.59,36.77,0.0,45.14,4.0,1.0,6523.0,2887.0,16.0,1048.0,0.0,2572.0
+286,2006,12,US,US Airways Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",367.0,132.0,47.05,0.38,52.44,0.65,31.48,4.0,1.0,5947.0,2098.0,48.0,1773.0,11.0,2017.0
+287,2006,12,US,US Airways Inc.,SFO,"San Francisco, CA: San Francisco International",622.0,207.0,56.16,0.57,81.89,2.25,66.13,7.0,2.0,9981.0,2170.0,31.0,3793.0,53.0,3934.0
+288,2006,12,US,US Airways Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",155.0,43.0,20.63,1.58,6.83,0.94,13.01,0.0,0.0,2099.0,895.0,247.0,191.0,17.0,749.0
+289,2006,12,WN,Southwest Airlines Co.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",5038.0,766.0,180.12,11.91,89.63,7.48,476.87,50.0,5.0,37874.0,7957.0,1237.0,3080.0,159.0,25441.0
+290,2006,12,WN,Southwest Airlines Co.,DEN,"Denver, CO: Denver International",996.0,228.0,71.12,11.51,49.5,0.58,95.29,72.0,7.0,13370.0,3856.0,1080.0,2331.0,18.0,6085.0
+291,2006,12,WN,Southwest Airlines Co.,DTW,"Detroit, MI: Detroit Metro Wayne County",583.0,138.0,42.52,0.13,19.91,1.72,73.72,6.0,0.0,6192.0,1673.0,10.0,559.0,73.0,3877.0
+292,2006,12,WN,Southwest Airlines Co.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1252.0,273.0,82.8,6.37,45.23,0.0,138.6,9.0,1.0,13536.0,3582.0,437.0,1736.0,0.0,7781.0
+293,2006,12,WN,Southwest Airlines Co.,LAS,"Las Vegas, NV: McCarran International",6651.0,1484.0,316.41,36.39,294.13,17.49,819.58,91.0,3.0,74064.0,13676.0,2603.0,12484.0,478.0,44823.0
+294,2006,12,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",3471.0,814.0,209.8,9.7,151.25,18.49,424.76,56.0,0.0,40546.0,8858.0,1110.0,6041.0,449.0,24088.0
+295,2006,12,WN,Southwest Airlines Co.,MCO,"Orlando, FL: Orlando International",2980.0,510.0,128.51,3.81,107.68,2.48,267.52,29.0,1.0,26260.0,6290.0,285.0,3285.0,59.0,16341.0
+296,2006,12,WN,Southwest Airlines Co.,PHL,"Philadelphia, PA: Philadelphia International",1864.0,436.0,64.91,37.43,203.55,0.65,129.46,48.0,10.0,35766.0,4372.0,4035.0,17624.0,15.0,9720.0
+297,2006,12,WN,Southwest Airlines Co.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",6083.0,1215.0,265.52,34.53,188.74,11.32,714.89,116.0,11.0,59972.0,10893.0,2662.0,7567.0,328.0,38522.0
+298,2006,12,WN,Southwest Airlines Co.,SAN,"San Diego, CA: San Diego International",2687.0,535.0,144.81,5.17,42.45,5.78,336.79,32.0,5.0,25265.0,5921.0,181.0,1467.0,122.0,17574.0
+299,2006,12,WN,Southwest Airlines Co.,SEA,"Seattle, WA: Seattle/Tacoma International",1186.0,314.0,81.14,11.03,57.52,6.37,157.94,12.0,4.0,15776.0,3275.0,948.0,2583.0,176.0,8794.0
+300,2006,12,WN,Southwest Airlines Co.,SLC,"Salt Lake City, UT: Salt Lake City International",1276.0,356.0,117.25,2.17,37.7,5.32,193.56,16.0,0.0,18069.0,5416.0,220.0,1318.0,131.0,10984.0
+301,2006,12,XE,ExpressJet Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",240.0,50.0,11.73,3.84,17.27,1.47,15.68,2.0,0.0,2957.0,640.0,207.0,844.0,39.0,1227.0
+302,2006,12,XE,ExpressJet Airlines Inc.,BOS,"Boston, MA: Logan International",34.0,10.0,1.21,0.0,6.26,0.0,2.53,1.0,0.0,523.0,35.0,0.0,315.0,0.0,173.0
+303,2006,12,XE,ExpressJet Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",198.0,64.0,13.46,1.18,23.39,0.0,25.97,15.0,0.0,3441.0,884.0,75.0,890.0,0.0,1592.0
+304,2006,12,XE,ExpressJet Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",448.0,159.0,30.69,3.28,70.69,1.28,53.06,11.0,0.0,9452.0,2137.0,206.0,3118.0,38.0,3953.0
+305,2006,12,XE,ExpressJet Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",240.0,65.0,13.46,3.12,25.53,0.0,22.89,7.0,0.0,3640.0,673.0,217.0,1473.0,0.0,1277.0
+306,2006,12,XE,ExpressJet Airlines Inc.,DEN,"Denver, CO: Denver International",47.0,9.0,0.0,1.0,7.18,0.43,0.39,6.0,0.0,456.0,0.0,91.0,327.0,9.0,29.0
+307,2006,12,XE,ExpressJet Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",212.0,47.0,11.19,3.14,16.23,0.0,16.45,5.0,2.0,2673.0,561.0,237.0,1033.0,0.0,842.0
+308,2006,12,XE,ExpressJet Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",207.0,86.0,17.08,0.0,34.37,0.15,34.4,8.0,1.0,4337.0,841.0,0.0,1292.0,11.0,2193.0
+309,2006,12,XE,ExpressJet Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",5090.0,2084.0,74.05,11.41,1511.16,3.94,483.44,271.0,10.0,157653.0,4676.0,948.0,117850.0,101.0,34078.0
+310,2006,12,XE,ExpressJet Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",9795.0,2271.0,275.0,118.47,1088.39,11.66,777.48,293.0,84.0,129209.0,19527.0,13013.0,48260.0,282.0,48127.0
+311,2006,12,XE,ExpressJet Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",28.0,10.0,0.91,0.0,6.95,0.0,2.14,3.0,0.0,510.0,50.0,0.0,342.0,0.0,118.0
+312,2006,12,XE,ExpressJet Airlines Inc.,LGA,"New York, NY: LaGuardia",111.0,45.0,4.31,0.0,34.79,0.0,5.9,2.0,0.0,3040.0,415.0,0.0,2240.0,0.0,385.0
+313,2006,12,XE,ExpressJet Airlines Inc.,MCO,"Orlando, FL: Orlando International",31.0,5.0,1.9,0.47,1.1,0.0,1.53,0.0,0.0,285.0,63.0,28.0,23.0,0.0,171.0
+314,2006,12,XE,ExpressJet Airlines Inc.,MIA,"Miami, FL: Miami International",14.0,5.0,0.0,0.0,3.0,0.0,2.0,0.0,0.0,292.0,0.0,0.0,209.0,0.0,83.0
+315,2006,12,XE,ExpressJet Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",312.0,88.0,23.22,2.01,35.82,0.13,26.81,10.0,0.0,4086.0,1159.0,86.0,1209.0,4.0,1628.0
+316,2006,12,XE,ExpressJet Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",239.0,97.0,7.54,1.76,73.34,0.0,14.36,18.0,0.0,7661.0,307.0,112.0,5777.0,0.0,1465.0
+317,2006,12,XE,ExpressJet Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",96.0,26.0,2.24,0.29,19.27,0.0,4.19,8.0,0.0,2108.0,188.0,10.0,1454.0,0.0,456.0
+318,2006,12,XE,ExpressJet Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",57.0,7.0,0.0,1.25,5.11,0.09,0.55,1.0,0.0,286.0,0.0,67.0,205.0,2.0,12.0
+319,2006,12,XE,ExpressJet Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",85.0,18.0,7.8,1.45,3.6,0.0,5.16,0.0,1.0,1168.0,526.0,70.0,147.0,0.0,425.0
+320,2006,12,YV,Mesa Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",186.0,52.0,33.0,0.0,4.0,0.0,15.0,8.0,0.0,3071.0,1722.0,0.0,117.0,0.0,1232.0
+321,2006,12,YV,Mesa Airlines Inc.,BOS,"Boston, MA: Logan International",110.0,25.0,11.0,0.0,4.0,0.0,10.0,3.0,0.0,1551.0,695.0,0.0,304.0,0.0,552.0
+322,2006,12,YV,Mesa Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",75.0,11.0,6.0,1.0,1.0,0.0,3.0,3.0,0.0,370.0,228.0,51.0,15.0,0.0,76.0
+323,2006,12,YV,Mesa Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",1927.0,494.0,174.0,11.0,122.0,1.0,186.0,49.0,5.0,26722.0,9163.0,860.0,4881.0,16.0,11802.0
+324,2006,12,YV,Mesa Airlines Inc.,DEN,"Denver, CO: Denver International",1151.0,298.0,85.0,13.0,44.0,2.0,154.0,166.0,2.0,19581.0,5458.0,1257.0,1964.0,56.0,10846.0
+325,2006,12,YV,Mesa Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",84.0,29.0,18.0,1.0,9.0,0.0,1.0,3.0,1.0,1281.0,848.0,132.0,243.0,0.0,58.0
+326,2006,12,YV,Mesa Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",181.0,53.0,34.0,2.0,1.0,0.0,16.0,3.0,1.0,2894.0,1656.0,169.0,17.0,0.0,1052.0
+327,2006,12,YV,Mesa Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",137.0,53.0,15.0,3.0,23.0,0.0,12.0,6.0,0.0,3347.0,616.0,147.0,1568.0,0.0,1016.0
+328,2006,12,YV,Mesa Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",185.0,89.0,59.0,5.0,19.0,0.0,6.0,4.0,2.0,3722.0,2227.0,430.0,515.0,0.0,550.0
+329,2006,12,YV,Mesa Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",286.0,136.0,56.0,5.0,56.0,0.0,19.0,13.0,3.0,8164.0,3140.0,403.0,2811.0,0.0,1810.0
+330,2006,12,YV,Mesa Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",728.0,162.0,34.0,5.0,53.0,0.0,70.0,9.0,0.0,8340.0,1295.0,224.0,2267.0,0.0,4554.0
+331,2006,12,YV,Mesa Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",118.0,31.0,18.0,1.0,9.0,0.0,3.0,1.0,0.0,1149.0,662.0,23.0,267.0,0.0,197.0
+332,2006,12,YV,Mesa Airlines Inc.,LGA,"New York, NY: LaGuardia",150.0,70.0,19.0,0.0,35.0,0.0,16.0,4.0,0.0,4521.0,1166.0,0.0,1771.0,0.0,1584.0
+333,2006,12,YV,Mesa Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",2255.0,823.0,161.0,11.0,403.0,1.0,247.0,204.0,5.0,78525.0,12340.0,1031.0,40135.0,28.0,24991.0
+334,2006,12,YV,Mesa Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",72.0,25.0,12.0,0.0,7.0,0.0,6.0,5.0,0.0,1637.0,640.0,0.0,666.0,0.0,331.0
+335,2006,12,YV,Mesa Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",3143.0,529.0,276.0,49.0,153.0,1.0,50.0,89.0,7.0,27351.0,14733.0,3447.0,5131.0,21.0,4019.0
+336,2006,12,YV,Mesa Airlines Inc.,SAN,"San Diego, CA: San Diego International",62.0,13.0,9.0,3.0,0.0,1.0,0.0,0.0,0.0,773.0,286.0,469.0,0.0,18.0,0.0
+337,2006,12,YV,Mesa Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",17.0,8.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,316.0,230.0,39.0,47.0,0.0,0.0
+338,2006,12,YV,Mesa Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",81.0,21.0,14.0,1.0,2.0,0.0,4.0,1.0,0.0,1280.0,894.0,47.0,75.0,0.0,264.0

@@ -1,0 +1,304 @@
+,year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+0,2019,12,9E,Endeavor Air Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",3802.0,468.0,115.8,11.79,148.86,0.45,191.11,3.0,0.0,32762.0,11503.0,608.0,4885.0,93.0,15673.0
+1,2019,12,9E,Endeavor Air Inc.,BOS,"Boston, MA: Logan International",420.0,95.0,17.02,3.27,41.25,0.0,33.46,27.0,0.0,9480.0,1539.0,1260.0,3623.0,0.0,3058.0
+2,2019,12,9E,Endeavor Air Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",225.0,39.0,8.98,2.34,15.97,0.0,11.71,1.0,0.0,3317.0,756.0,198.0,892.0,0.0,1471.0
+3,2019,12,9E,Endeavor Air Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",204.0,48.0,15.32,0.17,14.76,0.0,17.75,5.0,0.0,2926.0,1064.0,32.0,669.0,0.0,1161.0
+4,2019,12,9E,Endeavor Air Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",115.0,25.0,3.95,0.51,10.61,0.0,9.93,1.0,0.0,1940.0,303.0,69.0,627.0,0.0,941.0
+5,2019,12,9E,Endeavor Air Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",98.0,24.0,7.08,0.69,8.78,0.0,7.45,0.0,3.0,1134.0,403.0,11.0,292.0,0.0,428.0
+6,2019,12,9E,Endeavor Air Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",1676.0,212.0,53.41,14.24,44.82,0.0,99.53,5.0,0.0,18605.0,5407.0,3482.0,1754.0,0.0,7962.0
+7,2019,12,9E,Endeavor Air Inc.,EWR,"Newark, NJ: Newark Liberty International",155.0,45.0,10.41,2.32,24.88,0.0,7.4,3.0,0.0,4112.0,900.0,149.0,2086.0,0.0,977.0
+8,2019,12,9E,Endeavor Air Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",77.0,18.0,5.4,3.54,4.7,0.0,4.35,0.0,0.0,1295.0,372.0,300.0,157.0,0.0,466.0
+9,2019,12,9E,Endeavor Air Inc.,JFK,"New York, NY: John F. Kennedy International",1606.0,334.0,65.99,8.1,138.85,0.0,121.05,26.0,1.0,26012.0,6000.0,979.0,9091.0,0.0,9942.0
+10,2019,12,9E,Endeavor Air Inc.,LGA,"New York, NY: LaGuardia",2335.0,631.0,77.9,15.83,322.91,0.0,214.36,61.0,12.0,57255.0,11997.0,1602.0,24795.0,0.0,18861.0
+11,2019,12,9E,Endeavor Air Inc.,MCO,"Orlando, FL: Orlando International",20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,2019,12,9E,Endeavor Air Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",1181.0,142.0,31.46,5.35,27.36,0.0,77.83,5.0,2.0,12174.0,3249.0,2041.0,1110.0,0.0,5774.0
+13,2019,12,9E,Endeavor Air Inc.,ORD,"Chicago, IL: Chicago O'Hare International",167.0,30.0,9.04,1.31,10.35,0.0,9.3,0.0,0.0,1402.0,291.0,85.0,540.0,0.0,486.0
+14,2019,12,9E,Endeavor Air Inc.,PHL,"Philadelphia, PA: Philadelphia International",135.0,40.0,7.83,0.0,20.95,0.0,11.22,1.0,0.0,3548.0,1473.0,0.0,1411.0,0.0,664.0
+15,2019,12,AA,American Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1040.0,166.0,63.63,3.38,31.99,0.0,67.0,1.0,2.0,9613.0,3959.0,245.0,1096.0,0.0,4313.0
+16,2019,12,AA,American Airlines Inc.,BOS,"Boston, MA: Logan International",1956.0,533.0,90.93,15.68,256.1,0.03,170.26,39.0,1.0,38284.0,6200.0,1654.0,16788.0,4.0,13638.0
+17,2019,12,AA,American Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",444.0,84.0,26.37,2.47,25.11,0.23,29.82,0.0,0.0,3841.0,1023.0,96.0,636.0,27.0,2059.0
+18,2019,12,AA,American Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",8423.0,1187.0,351.63,31.74,355.92,2.93,444.78,16.0,4.0,82684.0,32486.0,3316.0,11113.0,89.0,35680.0
+19,2019,12,AA,American Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",2210.0,404.0,115.83,9.24,133.01,1.05,144.87,19.0,6.0,24715.0,8221.0,488.0,4812.0,61.0,11133.0
+20,2019,12,AA,American Airlines Inc.,DEN,"Denver, CO: Denver International",862.0,183.0,69.37,1.04,55.19,0.81,56.58,1.0,0.0,10876.0,4552.0,67.0,2289.0,63.0,3905.0
+21,2019,12,AA,American Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",12549.0,2090.0,550.92,46.6,707.34,3.84,781.29,18.0,21.0,129297.0,44343.0,3697.0,24897.0,135.0,56225.0
+22,2019,12,AA,American Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",412.0,54.0,20.29,0.6,13.67,0.0,19.43,0.0,0.0,3314.0,1250.0,48.0,349.0,0.0,1667.0
+23,2019,12,AA,American Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",685.0,252.0,51.75,3.75,151.3,0.05,45.15,1.0,1.0,18678.0,2824.0,173.0,11129.0,1.0,4551.0
+24,2019,12,AA,American Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",636.0,137.0,45.93,2.05,55.39,0.17,33.46,0.0,3.0,6168.0,1787.0,91.0,2151.0,7.0,2132.0
+25,2019,12,AA,American Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",667.0,115.0,50.17,1.31,24.82,0.95,37.74,1.0,0.0,5308.0,2246.0,58.0,759.0,20.0,2225.0
+26,2019,12,AA,American Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",1262.0,235.0,73.44,0.99,94.29,0.94,65.33,4.0,1.0,14807.0,5833.0,34.0,4354.0,16.0,4570.0
+27,2019,12,AA,American Airlines Inc.,LAS,"Las Vegas, NV: Harry Reid International",1211.0,247.0,81.67,3.68,80.33,2.85,78.48,0.0,0.0,14108.0,4824.0,177.0,4155.0,148.0,4804.0
+28,2019,12,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3872.0,891.0,243.4,15.52,396.43,2.49,233.16,6.0,8.0,54396.0,19349.0,1418.0,13328.0,167.0,20134.0
+29,2019,12,AA,American Airlines Inc.,LGA,"New York, NY: LaGuardia",1953.0,507.0,83.29,8.79,250.56,0.0,164.36,23.0,11.0,33027.0,4608.0,579.0,14798.0,0.0,13042.0
+30,2019,12,AA,American Airlines Inc.,MCO,"Orlando, FL: Orlando International",1593.0,282.0,105.19,3.36,87.76,0.81,84.88,0.0,2.0,14103.0,5858.0,175.0,2897.0,13.0,5160.0
+31,2019,12,AA,American Airlines Inc.,MIA,"Miami, FL: Miami International",4479.0,780.0,274.24,19.06,228.13,6.18,252.38,2.0,11.0,50574.0,21065.0,947.0,7669.0,226.0,20667.0
+32,2019,12,AA,American Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",530.0,84.0,37.69,0.92,19.78,0.0,25.6,0.0,0.0,4901.0,2622.0,41.0,819.0,0.0,1419.0
+33,2019,12,AA,American Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5349.0,878.0,229.62,11.55,319.51,1.15,316.18,9.0,2.0,56518.0,21450.0,728.0,10911.0,26.0,23403.0
+34,2019,12,AA,American Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",3649.0,781.0,186.3,20.26,311.49,0.77,262.17,7.0,2.0,56668.0,18359.0,1677.0,15153.0,20.0,21459.0
+35,2019,12,AA,American Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",5226.0,907.0,274.22,18.15,297.62,3.92,313.09,11.0,4.0,61822.0,27203.0,1430.0,9371.0,128.0,23690.0
+36,2019,12,AA,American Airlines Inc.,SAN,"San Diego, CA: San Diego International",769.0,138.0,50.07,4.87,52.24,1.23,29.59,0.0,5.0,6040.0,2504.0,197.0,1607.0,44.0,1688.0
+37,2019,12,AA,American Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",574.0,108.0,43.93,1.52,28.07,0.62,33.86,0.0,1.0,5313.0,2390.0,38.0,792.0,48.0,2045.0
+38,2019,12,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1149.0,409.0,73.19,3.92,264.31,0.0,67.59,7.0,10.0,28922.0,3890.0,423.0,19714.0,0.0,4895.0
+39,2019,12,AA,American Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",383.0,72.0,32.61,1.93,18.52,0.0,18.94,0.0,1.0,3146.0,1685.0,42.0,512.0,0.0,907.0
+40,2019,12,AS,Alaska Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",62.0,6.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,359.0,238.0,0.0,0.0,0.0,121.0
+41,2019,12,AS,Alaska Airlines Inc.,BOS,"Boston, MA: Logan International",215.0,69.0,11.96,2.28,47.07,0.0,7.69,1.0,0.0,3925.0,598.0,90.0,2963.0,0.0,274.0
+42,2019,12,AS,Alaska Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",60.0,18.0,6.07,0.0,6.91,0.0,5.02,0.0,0.0,704.0,316.0,0.0,162.0,0.0,226.0
+43,2019,12,AS,Alaska Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",155.0,46.0,22.32,0.0,21.73,0.0,1.96,1.0,0.0,2216.0,1360.0,0.0,589.0,0.0,267.0
+44,2019,12,AS,Alaska Airlines Inc.,DEN,"Denver, CO: Denver International",164.0,52.0,19.83,0.08,19.25,0.0,12.84,2.0,0.0,2619.0,1105.0,2.0,803.0,0.0,709.0
+45,2019,12,AS,Alaska Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",122.0,22.0,8.02,0.0,7.29,0.0,6.69,2.0,0.0,1161.0,317.0,0.0,283.0,0.0,561.0
+46,2019,12,AS,Alaska Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",31.0,6.0,3.62,0.0,2.38,0.0,0.0,0.0,0.0,538.0,363.0,0.0,175.0,0.0,0.0
+47,2019,12,AS,Alaska Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",338.0,111.0,18.84,2.79,77.56,0.0,11.81,1.0,1.0,8114.0,1345.0,396.0,5786.0,0.0,587.0
+48,2019,12,AS,Alaska Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",152.0,44.0,13.59,0.0,20.56,0.0,9.85,0.0,3.0,2334.0,787.0,0.0,869.0,0.0,678.0
+49,2019,12,AS,Alaska Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",62.0,12.0,4.31,0.0,4.14,0.0,3.55,0.0,0.0,373.0,125.0,0.0,143.0,0.0,105.0
+50,2019,12,AS,Alaska Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",427.0,114.0,32.23,1.36,50.57,0.82,29.02,2.0,1.0,6721.0,2156.0,114.0,2333.0,14.0,2104.0
+51,2019,12,AS,Alaska Airlines Inc.,LAS,"Las Vegas, NV: Harry Reid International",657.0,188.0,48.87,0.69,69.56,1.0,67.88,7.0,0.0,11296.0,3236.0,61.0,3680.0,107.0,4212.0
+52,2019,12,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",1588.0,420.0,96.83,6.47,178.1,1.73,136.87,22.0,4.0,24575.0,7024.0,350.0,7439.0,32.0,9730.0
+53,2019,12,AS,Alaska Airlines Inc.,MCO,"Orlando, FL: Orlando International",146.0,29.0,5.91,0.0,19.41,0.0,3.68,0.0,0.0,1668.0,449.0,0.0,1023.0,0.0,196.0
+54,2019,12,AS,Alaska Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",91.0,21.0,7.76,0.0,5.8,0.0,7.43,0.0,0.0,1060.0,344.0,0.0,335.0,0.0,381.0
+55,2019,12,AS,Alaska Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",273.0,81.0,28.39,0.0,27.08,0.0,25.53,2.0,0.0,4401.0,1885.0,0.0,890.0,0.0,1626.0
+56,2019,12,AS,Alaska Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",62.0,13.0,4.85,0.0,6.59,0.0,1.56,0.0,0.0,523.0,229.0,0.0,253.0,0.0,41.0
+57,2019,12,AS,Alaska Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",260.0,73.0,24.03,0.0,21.63,0.92,26.43,1.0,0.0,3903.0,1454.0,0.0,790.0,135.0,1524.0
+58,2019,12,AS,Alaska Airlines Inc.,SAN,"San Diego, CA: San Diego International",747.0,193.0,41.48,0.32,80.63,0.59,69.98,9.0,3.0,9449.0,2206.0,15.0,2940.0,23.0,4265.0
+59,2019,12,AS,Alaska Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",5754.0,1451.0,272.69,17.24,637.24,4.32,519.51,53.0,4.0,79347.0,16760.0,1290.0,24126.0,105.0,37066.0
+60,2019,12,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1808.0,601.0,89.23,3.58,337.0,1.0,170.18,38.0,0.0,40938.0,6387.0,402.0,21088.0,22.0,13039.0
+61,2019,12,AS,Alaska Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",60.0,15.0,5.24,0.0,1.18,0.0,8.59,1.0,0.0,779.0,404.0,0.0,32.0,0.0,343.0
+62,2019,12,B6,JetBlue Airways,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",278.0,96.0,45.28,0.24,22.16,0.0,28.31,3.0,1.0,7977.0,3467.0,13.0,1327.0,0.0,3170.0
+63,2019,12,B6,JetBlue Airways,BOS,"Boston, MA: Logan International",4494.0,1472.0,328.55,9.32,497.19,1.15,635.79,76.0,8.0,160383.0,37593.0,2093.0,45481.0,37.0,75179.0
+64,2019,12,B6,JetBlue Airways,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",111.0,38.0,21.61,0.0,6.35,0.0,10.04,4.0,0.0,3721.0,1598.0,0.0,570.0,0.0,1553.0
+65,2019,12,B6,JetBlue Airways,CLT,"Charlotte, NC: Charlotte Douglas International",116.0,37.0,15.53,0.25,9.46,0.0,11.77,2.0,0.0,3825.0,1062.0,52.0,617.0,0.0,2094.0
+66,2019,12,B6,JetBlue Airways,DCA,"Washington, DC: Ronald Reagan Washington National",825.0,256.0,95.14,2.95,83.73,0.0,74.18,6.0,1.0,24033.0,8697.0,385.0,5082.0,0.0,9869.0
+67,2019,12,B6,JetBlue Airways,DEN,"Denver, CO: Denver International",84.0,27.0,9.89,0.66,9.77,0.0,6.68,0.0,0.0,2008.0,730.0,156.0,523.0,0.0,599.0
+68,2019,12,B6,JetBlue Airways,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",45.0,16.0,6.14,0.0,6.95,0.0,2.91,0.0,0.0,1193.0,400.0,0.0,472.0,0.0,321.0
+69,2019,12,B6,JetBlue Airways,DTW,"Detroit, MI: Detroit Metro Wayne County",98.0,28.0,11.79,0.0,7.04,0.12,9.05,1.0,0.0,2637.0,790.0,0.0,563.0,16.0,1268.0
+70,2019,12,B6,JetBlue Airways,EWR,"Newark, NJ: Newark Liberty International",877.0,391.0,76.33,3.21,210.43,0.0,101.03,14.0,3.0,37560.0,7187.0,498.0,18467.0,0.0,11408.0
+71,2019,12,B6,JetBlue Airways,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",2236.0,779.0,281.06,11.52,176.96,0.61,308.85,5.0,11.0,64828.0,23083.0,2222.0,8645.0,19.0,30859.0
+72,2019,12,B6,JetBlue Airways,IAH,"Houston, TX: George Bush Intercontinental/Houston",62.0,22.0,8.79,0.73,5.69,0.0,6.79,0.0,0.0,1765.0,879.0,116.0,349.0,0.0,421.0
+73,2019,12,B6,JetBlue Airways,JFK,"New York, NY: John F. Kennedy International",3462.0,1048.0,340.45,6.8,266.95,1.54,432.26,9.0,5.0,89508.0,29667.0,1270.0,15017.0,35.0,43519.0
+74,2019,12,B6,JetBlue Airways,LAS,"Las Vegas, NV: Harry Reid International",337.0,103.0,38.87,1.8,29.75,0.0,32.58,0.0,0.0,8351.0,3030.0,208.0,2065.0,0.0,3048.0
+75,2019,12,B6,JetBlue Airways,LAX,"Los Angeles, CA: Los Angeles International",617.0,225.0,64.36,2.01,132.5,0.52,25.61,0.0,0.0,13739.0,5501.0,85.0,4776.0,16.0,3361.0
+76,2019,12,B6,JetBlue Airways,LGA,"New York, NY: LaGuardia",470.0,162.0,41.22,1.69,67.11,0.56,51.42,7.0,1.0,17810.0,4113.0,251.0,5942.0,14.0,7490.0
+77,2019,12,B6,JetBlue Airways,MCO,"Orlando, FL: Orlando International",1800.0,536.0,182.17,4.05,132.9,1.48,215.41,5.0,3.0,44114.0,14790.0,537.0,6494.0,49.0,22244.0
+78,2019,12,B6,JetBlue Airways,MSP,"Minneapolis, MN: Minneapolis-St Paul International",77.0,24.0,4.27,0.0,7.85,1.0,10.87,1.0,0.0,1843.0,274.0,0.0,406.0,22.0,1141.0
+79,2019,12,B6,JetBlue Airways,ORD,"Chicago, IL: Chicago O'Hare International",189.0,71.0,27.39,1.77,20.76,0.0,21.09,2.0,1.0,6587.0,2360.0,516.0,1017.0,0.0,2694.0
+80,2019,12,B6,JetBlue Airways,PHL,"Philadelphia, PA: Philadelphia International",276.0,88.0,30.5,0.78,35.8,0.0,20.92,9.0,2.0,9403.0,2791.0,213.0,3094.0,0.0,3305.0
+81,2019,12,B6,JetBlue Airways,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",93.0,29.0,16.42,0.69,6.76,0.0,5.13,0.0,0.0,2010.0,999.0,18.0,335.0,0.0,658.0
+82,2019,12,B6,JetBlue Airways,SAN,"San Diego, CA: San Diego International",172.0,45.0,16.72,0.0,22.58,0.0,5.7,0.0,1.0,2481.0,1093.0,0.0,732.0,0.0,656.0
+83,2019,12,B6,JetBlue Airways,SEA,"Seattle, WA: Seattle/Tacoma International",166.0,51.0,19.42,0.19,19.79,0.0,11.6,0.0,0.0,4077.0,1538.0,40.0,732.0,0.0,1767.0
+84,2019,12,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",426.0,135.0,21.96,1.89,94.35,0.0,16.8,1.0,1.0,13391.0,3076.0,518.0,7803.0,0.0,1994.0
+85,2019,12,B6,JetBlue Airways,SLC,"Salt Lake City, UT: Salt Lake City International",235.0,71.0,39.22,0.99,19.77,0.0,11.02,0.0,1.0,5576.0,3368.0,339.0,997.0,0.0,872.0
+86,2019,12,DL,Delta Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",19713.0,2289.0,685.74,89.42,758.43,1.82,753.59,4.0,11.0,131775.0,55006.0,7998.0,26097.0,86.0,42588.0
+87,2019,12,DL,Delta Air Lines Inc.,BOS,"Boston, MA: Logan International",1549.0,422.0,72.21,12.94,239.05,0.0,97.8,11.0,0.0,34212.0,4215.0,1130.0,20793.0,0.0,8074.0
+88,2019,12,DL,Delta Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",550.0,63.0,19.61,1.56,23.3,0.0,18.52,0.0,0.0,2139.0,681.0,59.0,710.0,0.0,689.0
+89,2019,12,DL,Delta Air Lines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",608.0,84.0,29.62,2.11,35.12,0.0,17.15,0.0,0.0,4622.0,2456.0,133.0,1132.0,0.0,901.0
+90,2019,12,DL,Delta Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",805.0,132.0,43.28,3.74,53.03,0.0,31.95,0.0,0.0,6111.0,2585.0,245.0,1833.0,0.0,1448.0
+91,2019,12,DL,Delta Air Lines Inc.,DEN,"Denver, CO: Denver International",1016.0,172.0,60.72,5.15,67.35,0.0,38.78,0.0,0.0,9757.0,3386.0,768.0,2721.0,0.0,2882.0
+92,2019,12,DL,Delta Air Lines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",917.0,172.0,60.58,2.19,62.72,0.0,46.51,0.0,3.0,9677.0,4201.0,89.0,2455.0,0.0,2932.0
+93,2019,12,DL,Delta Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",4940.0,621.0,182.89,24.66,192.51,0.0,220.94,2.0,4.0,36279.0,12571.0,2745.0,6458.0,0.0,14505.0
+94,2019,12,DL,Delta Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",444.0,153.0,20.08,1.01,121.85,0.0,10.06,0.0,0.0,11031.0,1344.0,39.0,9206.0,0.0,442.0
+95,2019,12,DL,Delta Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1020.0,200.0,59.18,11.14,92.53,0.0,37.15,0.0,2.0,12946.0,4786.0,720.0,5229.0,0.0,2211.0
+96,2019,12,DL,Delta Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",544.0,112.0,37.15,5.92,34.14,0.6,34.19,0.0,2.0,5466.0,2011.0,334.0,1187.0,71.0,1863.0
+97,2019,12,DL,Delta Air Lines Inc.,JFK,"New York, NY: John F. Kennedy International",2786.0,529.0,140.26,10.2,217.27,0.0,161.27,5.0,9.0,35898.0,12077.0,1953.0,9307.0,0.0,12561.0
+98,2019,12,DL,Delta Air Lines Inc.,LAS,"Las Vegas, NV: Harry Reid International",1116.0,179.0,55.9,7.89,78.39,0.0,36.81,0.0,0.0,9727.0,3770.0,525.0,3551.0,0.0,1881.0
+99,2019,12,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2973.0,681.0,162.28,20.35,336.82,1.0,160.55,0.0,1.0,33836.0,9906.0,1094.0,12270.0,73.0,10493.0
+100,2019,12,DL,Delta Air Lines Inc.,LGA,"New York, NY: LaGuardia",2499.0,616.0,102.23,11.22,343.55,0.0,158.99,1.0,7.0,42413.0,7071.0,1556.0,19801.0,0.0,13985.0
+101,2019,12,DL,Delta Air Lines Inc.,MCO,"Orlando, FL: Orlando International",1671.0,276.0,102.3,17.69,84.76,2.0,69.24,1.0,4.0,17248.0,6141.0,3034.0,3363.0,67.0,4643.0
+102,2019,12,DL,Delta Air Lines Inc.,MIA,"Miami, FL: Miami International",782.0,146.0,53.74,4.76,47.37,0.0,40.13,0.0,0.0,8658.0,4290.0,303.0,2000.0,0.0,2065.0
+103,2019,12,DL,Delta Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",5532.0,849.0,215.86,41.58,253.79,0.0,337.77,1.0,2.0,53322.0,16291.0,5508.0,9900.0,0.0,21623.0
+104,2019,12,DL,Delta Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",1089.0,185.0,57.5,3.48,76.7,0.0,47.32,0.0,0.0,11357.0,3045.0,112.0,4456.0,0.0,3744.0
+105,2019,12,DL,Delta Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",513.0,107.0,37.95,1.24,50.92,0.93,15.96,0.0,0.0,5637.0,2269.0,35.0,2638.0,88.0,607.0
+106,2019,12,DL,Delta Air Lines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",769.0,140.0,45.64,2.55,65.96,0.0,25.85,0.0,1.0,6574.0,3145.0,117.0,2091.0,0.0,1221.0
+107,2019,12,DL,Delta Air Lines Inc.,SAN,"San Diego, CA: San Diego International",774.0,161.0,46.7,6.28,80.06,0.0,27.96,0.0,2.0,7715.0,2504.0,739.0,2969.0,0.0,1503.0
+108,2019,12,DL,Delta Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",2513.0,381.0,105.4,9.32,131.47,0.0,134.81,0.0,5.0,23181.0,6984.0,443.0,5872.0,0.0,9882.0
+109,2019,12,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",1234.0,406.0,53.52,14.82,283.48,0.0,54.18,0.0,0.0,36694.0,4776.0,1207.0,26323.0,0.0,4388.0
+110,2019,12,DL,Delta Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",3977.0,612.0,195.77,21.0,190.63,0.0,204.6,0.0,10.0,41721.0,17449.0,1681.0,7932.0,0.0,14659.0
+111,2019,12,EV,ExpressJet Airlines LLC,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",76.0,17.0,7.51,0.24,4.13,0.0,5.12,0.0,0.0,1880.0,1516.0,25.0,200.0,0.0,139.0
+112,2019,12,EV,ExpressJet Airlines LLC,CLT,"Charlotte, NC: Charlotte Douglas International",93.0,31.0,9.16,0.0,13.12,0.0,8.72,1.0,0.0,1708.0,786.0,0.0,324.0,0.0,598.0
+113,2019,12,EV,ExpressJet Airlines LLC,DCA,"Washington, DC: Ronald Reagan Washington National",289.0,78.0,20.95,1.04,28.29,0.0,27.72,9.0,3.0,8368.0,2311.0,20.0,3099.0,0.0,2938.0
+114,2019,12,EV,ExpressJet Airlines LLC,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",6.0,1.0,0.82,0.0,0.18,0.0,0.0,0.0,0.0,142.0,116.0,0.0,26.0,0.0,0.0
+115,2019,12,EV,ExpressJet Airlines LLC,DTW,"Detroit, MI: Detroit Metro Wayne County",77.0,18.0,5.05,1.83,6.58,0.0,4.55,0.0,1.0,955.0,249.0,159.0,260.0,0.0,287.0
+116,2019,12,EV,ExpressJet Airlines LLC,EWR,"Newark, NJ: Newark Liberty International",1424.0,624.0,76.69,3.23,373.52,0.0,170.56,84.0,4.0,71703.0,12093.0,465.0,42011.0,0.0,17134.0
+117,2019,12,EV,ExpressJet Airlines LLC,IAH,"Houston, TX: George Bush Intercontinental/Houston",2638.0,400.0,68.58,6.5,163.34,0.0,161.58,12.0,10.0,37886.0,11707.0,908.0,11553.0,0.0,13718.0
+118,2019,12,EV,ExpressJet Airlines LLC,LGA,"New York, NY: LaGuardia",160.0,39.0,5.56,0.0,20.74,0.0,12.71,7.0,1.0,3461.0,606.0,0.0,1954.0,0.0,901.0
+119,2019,12,EV,ExpressJet Airlines LLC,MSP,"Minneapolis, MN: Minneapolis-St Paul International",48.0,9.0,4.23,0.0,3.69,0.0,1.09,0.0,0.0,678.0,440.0,0.0,167.0,0.0,71.0
+120,2019,12,EV,ExpressJet Airlines LLC,ORD,"Chicago, IL: Chicago O'Hare International",1336.0,297.0,58.77,6.97,102.91,0.0,128.35,14.0,3.0,32446.0,12113.0,2303.0,7653.0,0.0,10377.0
+121,2019,12,EV,ExpressJet Airlines LLC,PHL,"Philadelphia, PA: Philadelphia International",3.0,1.0,0.06,0.0,0.77,0.0,0.16,0.0,0.0,97.0,6.0,0.0,75.0,0.0,16.0
+122,2019,12,EV,ExpressJet Airlines LLC,SLC,"Salt Lake City, UT: Salt Lake City International",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+123,2019,12,F9,Frontier Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",372.0,96.0,35.58,0.16,26.05,0.0,34.21,4.0,0.0,6410.0,2337.0,17.0,1078.0,0.0,2978.0
+124,2019,12,F9,Frontier Airlines Inc.,BOS,"Boston, MA: Logan International",59.0,15.0,3.6,0.0,7.31,0.0,4.09,0.0,0.0,1390.0,217.0,0.0,382.0,0.0,791.0
+125,2019,12,F9,Frontier Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",34.0,9.0,3.52,0.0,2.5,0.0,2.98,0.0,0.0,414.0,168.0,0.0,77.0,0.0,169.0
+126,2019,12,F9,Frontier Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",127.0,45.0,19.16,0.0,5.82,0.0,20.02,0.0,0.0,3762.0,1510.0,0.0,301.0,0.0,1951.0
+127,2019,12,F9,Frontier Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",92.0,10.0,2.73,0.17,1.37,0.0,5.73,0.0,0.0,989.0,280.0,23.0,75.0,0.0,611.0
+128,2019,12,F9,Frontier Airlines Inc.,DEN,"Denver, CO: Denver International",1666.0,271.0,86.37,3.94,63.86,0.0,116.83,17.0,0.0,19434.0,5719.0,391.0,3103.0,0.0,10221.0
+129,2019,12,F9,Frontier Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",88.0,15.0,6.28,0.0,5.35,0.0,3.37,1.0,0.0,1169.0,357.0,0.0,346.0,0.0,466.0
+130,2019,12,F9,Frontier Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",105.0,23.0,5.8,0.42,3.77,0.0,13.01,1.0,0.0,1766.0,284.0,41.0,202.0,0.0,1239.0
+131,2019,12,F9,Frontier Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",243.0,89.0,19.25,0.35,50.11,0.0,19.3,1.0,0.0,5789.0,1200.0,9.0,2758.0,0.0,1822.0
+132,2019,12,F9,Frontier Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",100.0,30.0,6.96,1.42,8.54,0.0,13.08,2.0,2.0,2497.0,472.0,59.0,515.0,0.0,1451.0
+133,2019,12,F9,Frontier Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",66.0,12.0,4.8,0.01,2.43,0.0,4.76,3.0,0.0,886.0,216.0,1.0,148.0,0.0,521.0
+134,2019,12,F9,Frontier Airlines Inc.,LAS,"Las Vegas, NV: Harry Reid International",1044.0,303.0,79.63,1.31,113.18,0.0,108.88,13.0,2.0,19602.0,5141.0,152.0,5984.0,0.0,8325.0
+135,2019,12,F9,Frontier Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",102.0,24.0,4.66,0.48,12.49,0.0,6.38,0.0,0.0,1284.0,343.0,55.0,560.0,0.0,326.0
+136,2019,12,F9,Frontier Airlines Inc.,LGA,"New York, NY: LaGuardia",93.0,34.0,10.12,0.0,18.19,0.0,5.69,2.0,0.0,2677.0,577.0,0.0,1528.0,0.0,572.0
+137,2019,12,F9,Frontier Airlines Inc.,MCO,"Orlando, FL: Orlando International",1411.0,435.0,109.47,4.11,152.81,0.0,168.62,21.0,1.0,29541.0,8255.0,265.0,6565.0,0.0,14456.0
+138,2019,12,F9,Frontier Airlines Inc.,MIA,"Miami, FL: Miami International",357.0,100.0,31.77,0.48,23.12,0.0,44.62,4.0,3.0,6592.0,1807.0,30.0,1348.0,0.0,3407.0
+139,2019,12,F9,Frontier Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",109.0,18.0,7.36,0.0,4.42,0.0,6.22,0.0,0.0,992.0,417.0,0.0,147.0,0.0,428.0
+140,2019,12,F9,Frontier Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",214.0,43.0,16.24,0.0,8.46,0.0,18.3,1.0,0.0,2077.0,555.0,0.0,332.0,0.0,1190.0
+141,2019,12,F9,Frontier Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",529.0,136.0,31.35,1.0,40.88,0.0,62.77,9.0,0.0,11854.0,2696.0,22.0,2583.0,0.0,6553.0
+142,2019,12,F9,Frontier Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",420.0,72.0,24.92,0.52,25.15,0.0,21.41,2.0,1.0,4331.0,1881.0,22.0,850.0,0.0,1578.0
+143,2019,12,F9,Frontier Airlines Inc.,SAN,"San Diego, CA: San Diego International",147.0,34.0,8.58,0.52,13.16,0.0,11.74,2.0,0.0,1599.0,288.0,11.0,479.0,0.0,821.0
+144,2019,12,F9,Frontier Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",33.0,6.0,0.78,0.08,3.38,0.0,1.76,0.0,0.0,401.0,35.0,19.0,114.0,0.0,233.0
+145,2019,12,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",124.0,59.0,7.4,0.0,42.85,0.0,8.74,4.0,1.0,4436.0,377.0,0.0,3176.0,0.0,883.0
+146,2019,12,F9,Frontier Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",138.0,26.0,9.07,0.0,7.29,0.0,9.64,0.0,0.0,1543.0,523.0,0.0,348.0,0.0,672.0
+147,2019,12,G4,Allegiant Air,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",31.0,5.0,2.53,0.0,2.3,0.0,0.17,0.0,0.0,328.0,227.0,0.0,63.0,0.0,38.0
+148,2019,12,G4,Allegiant Air,DEN,"Denver, CO: Denver International",8.0,6.0,0.84,0.0,4.29,0.0,0.88,0.0,0.0,224.0,51.0,0.0,94.0,0.0,79.0
+149,2019,12,G4,Allegiant Air,EWR,"Newark, NJ: Newark Liberty International",58.0,6.0,2.97,0.32,2.71,0.0,0.0,0.0,0.0,219.0,95.0,19.0,105.0,0.0,0.0
+150,2019,12,G4,Allegiant Air,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",292.0,137.0,19.68,4.48,56.05,0.96,55.83,2.0,0.0,9542.0,2939.0,701.0,2152.0,21.0,3729.0
+151,2019,12,G4,Allegiant Air,LAS,"Las Vegas, NV: Harry Reid International",830.0,233.0,49.34,23.63,69.12,1.42,89.49,3.0,0.0,14063.0,3436.0,2376.0,3359.0,36.0,4856.0
+152,2019,12,G4,Allegiant Air,LAX,"Los Angeles, CA: Los Angeles International",107.0,33.0,2.33,2.1,15.71,0.0,12.86,0.0,0.0,1640.0,128.0,159.0,628.0,0.0,725.0
+153,2019,12,HA,Hawaiian Airlines Inc.,BOS,"Boston, MA: Logan International",22.0,7.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,267.0,245.0,22.0,0.0,0.0,0.0
+154,2019,12,HA,Hawaiian Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",31.0,12.0,10.8,0.2,0.0,1.0,0.0,0.0,0.0,516.0,449.0,18.0,0.0,49.0,0.0
+155,2019,12,HA,Hawaiian Airlines Inc.,LAS,"Las Vegas, NV: Harry Reid International",92.0,20.0,16.49,0.0,0.0,0.0,3.51,0.0,0.0,696.0,585.0,0.0,0.0,0.0,111.0
+156,2019,12,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",194.0,37.0,31.16,1.0,0.0,0.0,4.84,1.0,1.0,2156.0,1895.0,31.0,0.0,0.0,230.0
+157,2019,12,HA,Hawaiian Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",31.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,178.0,178.0,0.0,0.0,0.0,0.0
+158,2019,12,HA,Hawaiian Airlines Inc.,SAN,"San Diego, CA: San Diego International",62.0,11.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,293.0,293.0,0.0,0.0,0.0,0.0
+159,2019,12,HA,Hawaiian Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",79.0,27.0,20.67,0.0,0.0,1.33,5.0,0.0,0.0,1035.0,713.0,0.0,0.0,31.0,291.0
+160,2019,12,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",92.0,25.0,22.14,0.0,0.0,0.0,2.86,0.0,0.0,820.0,761.0,0.0,0.0,0.0,59.0
+161,2019,12,MQ,Envoy Air,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",20.0,3.0,0.0,0.03,0.12,0.0,2.86,0.0,0.0,168.0,0.0,2.0,8.0,0.0,158.0
+162,2019,12,MQ,Envoy Air,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",63.0,22.0,5.86,1.98,5.15,0.0,9.02,1.0,0.0,1359.0,348.0,104.0,191.0,0.0,716.0
+163,2019,12,MQ,Envoy Air,CLT,"Charlotte, NC: Charlotte Douglas International",413.0,70.0,19.23,1.9,13.29,0.0,35.58,6.0,0.0,4581.0,1601.0,204.0,337.0,0.0,2439.0
+164,2019,12,MQ,Envoy Air,DCA,"Washington, DC: Ronald Reagan Washington National",114.0,16.0,4.82,0.44,5.83,0.0,4.91,0.0,0.0,919.0,189.0,15.0,188.0,0.0,527.0
+165,2019,12,MQ,Envoy Air,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",5472.0,1016.0,199.3,71.76,290.23,5.76,448.95,63.0,38.0,80433.0,18482.0,10894.0,12890.0,194.0,37973.0
+166,2019,12,MQ,Envoy Air,DTW,"Detroit, MI: Detroit Metro Wayne County",70.0,14.0,2.03,0.3,5.64,0.0,6.03,2.0,0.0,651.0,41.0,18.0,230.0,0.0,362.0
+167,2019,12,MQ,Envoy Air,EWR,"Newark, NJ: Newark Liberty International",13.0,9.0,1.37,0.0,5.78,0.0,1.85,0.0,0.0,1180.0,225.0,0.0,471.0,0.0,484.0
+168,2019,12,MQ,Envoy Air,IAH,"Houston, TX: George Bush Intercontinental/Houston",50.0,11.0,1.28,0.92,4.72,0.0,4.08,0.0,0.0,511.0,25.0,84.0,175.0,0.0,227.0
+169,2019,12,MQ,Envoy Air,JFK,"New York, NY: John F. Kennedy International",411.0,114.0,20.89,1.24,42.8,0.0,49.07,5.0,3.0,6521.0,791.0,82.0,2541.0,0.0,3107.0
+170,2019,12,MQ,Envoy Air,LGA,"New York, NY: LaGuardia",640.0,196.0,23.89,7.73,104.24,0.0,60.14,17.0,7.0,15601.0,2283.0,477.0,8020.0,0.0,4821.0
+171,2019,12,MQ,Envoy Air,MIA,"Miami, FL: Miami International",1078.0,245.0,79.05,1.41,70.88,1.4,92.27,2.0,1.0,15111.0,6730.0,36.0,2296.0,28.0,6021.0
+172,2019,12,MQ,Envoy Air,MSP,"Minneapolis, MN: Minneapolis-St Paul International",15.0,4.0,0.0,0.03,2.14,0.0,1.83,0.0,0.0,391.0,0.0,9.0,84.0,0.0,298.0
+173,2019,12,MQ,Envoy Air,ORD,"Chicago, IL: Chicago O'Hare International",5428.0,1261.0,199.11,64.15,414.85,0.36,582.52,110.0,2.0,88488.0,18350.0,9430.0,19238.0,7.0,41463.0
+174,2019,12,MQ,Envoy Air,PHL,"Philadelphia, PA: Philadelphia International",27.0,7.0,1.52,0.0,4.44,0.0,1.04,1.0,0.0,468.0,83.0,0.0,314.0,0.0,71.0
+175,2019,12,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",736.0,107.0,26.34,2.83,46.76,1.15,29.92,3.0,0.0,6033.0,1749.0,258.0,2356.0,30.0,1640.0
+176,2019,12,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",403.0,115.0,14.8,0.0,80.59,1.0,18.61,7.0,0.0,7794.0,1030.0,0.0,5399.0,92.0,1273.0
+177,2019,12,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",768.0,157.0,39.69,2.34,67.45,3.05,44.48,5.0,0.0,9063.0,2594.0,299.0,3024.0,96.0,3050.0
+178,2019,12,NK,Spirit Air Lines,CLT,"Charlotte, NC: Charlotte Douglas International",124.0,32.0,5.38,0.66,17.1,0.0,8.85,0.0,0.0,1738.0,298.0,69.0,844.0,0.0,527.0
+179,2019,12,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",320.0,69.0,16.91,0.85,35.53,0.0,15.71,2.0,0.0,4773.0,1633.0,153.0,1833.0,0.0,1154.0
+180,2019,12,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",588.0,96.0,17.27,2.61,59.82,1.0,15.3,1.0,0.0,4938.0,729.0,220.0,2913.0,30.0,1046.0
+181,2019,12,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",920.0,143.0,37.86,2.15,53.59,2.84,46.56,6.0,2.0,9895.0,2350.0,187.0,3411.0,83.0,3864.0
+182,2019,12,NK,Spirit Air Lines,EWR,"Newark, NJ: Newark Liberty International",414.0,121.0,10.6,5.84,86.08,0.35,18.13,4.0,1.0,8764.0,788.0,1376.0,5165.0,7.0,1428.0
+183,2019,12,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1920.0,426.0,99.91,7.88,220.24,3.04,94.93,16.0,2.0,28362.0,5884.0,509.0,13648.0,61.0,8260.0
+184,2019,12,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",515.0,63.0,23.92,0.0,27.45,1.3,10.34,1.0,3.0,4891.0,2004.0,0.0,1519.0,65.0,1303.0
+185,2019,12,NK,Spirit Air Lines,LAS,"Las Vegas, NV: Harry Reid International",1444.0,208.0,55.75,11.54,100.28,0.0,40.43,5.0,2.0,16965.0,4441.0,1165.0,7466.0,0.0,3893.0
+186,2019,12,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",595.0,93.0,33.05,0.43,42.19,0.24,17.09,1.0,3.0,6025.0,2487.0,28.0,1712.0,24.0,1774.0
+187,2019,12,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341.0,81.0,12.48,3.16,55.46,0.1,9.81,4.0,4.0,6623.0,1078.0,751.0,3641.0,5.0,1148.0
+188,2019,12,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",1543.0,319.0,76.58,7.17,169.73,2.52,63.0,12.0,1.0,20688.0,4970.0,592.0,9177.0,90.0,5859.0
+189,2019,12,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",322.0,56.0,8.26,1.0,26.82,0.0,19.92,2.0,0.0,4180.0,438.0,199.0,1317.0,0.0,2226.0
+190,2019,12,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",732.0,123.0,26.44,1.26,66.32,0.67,28.31,3.0,2.0,7417.0,1230.0,116.0,3330.0,14.0,2727.0
+191,2019,12,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",336.0,79.0,12.15,1.63,47.88,1.0,16.35,1.0,0.0,4937.0,677.0,247.0,3227.0,17.0,769.0
+192,2019,12,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124.0,14.0,3.19,0.26,7.97,0.0,2.59,0.0,0.0,776.0,116.0,15.0,418.0,0.0,227.0
+193,2019,12,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",120.0,15.0,3.6,0.0,9.9,0.0,1.5,0.0,0.0,1317.0,763.0,0.0,428.0,0.0,126.0
+194,2019,12,NK,Spirit Air Lines,SEA,"Seattle, WA: Seattle/Tacoma International",117.0,14.0,4.36,0.0,8.15,0.0,1.5,0.0,0.0,703.0,115.0,0.0,497.0,0.0,91.0
+195,2019,12,OH,PSA Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",80.0,21.0,5.15,0.67,4.05,0.0,11.13,1.0,0.0,1137.0,491.0,14.0,127.0,0.0,505.0
+196,2019,12,OH,PSA Airlines Inc.,BOS,"Boston, MA: Logan International",6.0,2.0,0.0,0.36,1.21,0.0,0.42,4.0,0.0,202.0,0.0,53.0,87.0,0.0,62.0
+197,2019,12,OH,PSA Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",13.0,4.0,1.44,0.0,1.48,0.0,1.07,0.0,0.0,101.0,54.0,0.0,29.0,0.0,18.0
+198,2019,12,OH,PSA Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",7965.0,1510.0,275.81,23.74,388.6,2.18,819.66,56.0,5.0,96011.0,23722.0,2623.0,12333.0,80.0,57253.0
+199,2019,12,OH,PSA Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",2382.0,633.0,141.06,16.05,169.0,0.27,306.62,63.0,18.0,52835.0,13268.0,2717.0,7795.0,36.0,29019.0
+200,2019,12,OH,PSA Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",224.0,60.0,10.36,1.15,23.45,0.0,25.04,3.0,4.0,2555.0,355.0,43.0,941.0,0.0,1216.0
+201,2019,12,OH,PSA Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",93.0,19.0,4.81,0.92,1.34,0.0,11.93,0.0,0.0,835.0,197.0,57.0,57.0,0.0,524.0
+202,2019,12,OH,PSA Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+203,2019,12,OH,PSA Airlines Inc.,LGA,"New York, NY: LaGuardia",174.0,62.0,15.36,1.0,22.57,0.0,23.07,8.0,2.0,5533.0,1269.0,109.0,1553.0,0.0,2602.0
+204,2019,12,OH,PSA Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",1386.0,411.0,74.25,13.83,157.91,0.02,164.99,29.0,0.0,32259.0,5288.0,1297.0,9457.0,7.0,16210.0
+205,2019,12,OO,SkyWest Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",2051.0,313.0,75.4,21.37,57.79,0.0,158.45,5.0,0.0,31488.0,11774.0,3522.0,3047.0,0.0,13145.0
+206,2019,12,OO,SkyWest Airlines Inc.,BOS,"Boston, MA: Logan International",61.0,20.0,2.86,0.11,11.71,0.52,4.79,6.0,0.0,1625.0,232.0,26.0,978.0,11.0,378.0
+207,2019,12,OO,SkyWest Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",46.0,7.0,1.2,1.24,1.46,0.0,3.1,0.0,0.0,544.0,22.0,215.0,106.0,0.0,201.0
+208,2019,12,OO,SkyWest Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",89.0,21.0,10.25,2.13,3.7,0.0,4.92,1.0,0.0,1600.0,970.0,103.0,137.0,0.0,390.0
+209,2019,12,OO,SkyWest Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",16.0,5.0,2.0,0.0,0.81,0.0,2.19,0.0,0.0,263.0,64.0,0.0,17.0,0.0,182.0
+210,2019,12,OO,SkyWest Airlines Inc.,DEN,"Denver, CO: Denver International",4557.0,802.0,198.41,27.16,213.11,2.63,360.7,138.0,11.0,84051.0,35539.0,3932.0,10541.0,80.0,33959.0
+211,2019,12,OO,SkyWest Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",1449.0,302.0,69.25,21.0,68.87,0.0,142.88,27.0,5.0,31391.0,10771.0,3960.0,3475.0,0.0,13185.0
+212,2019,12,OO,SkyWest Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",3814.0,614.0,124.14,45.01,93.87,1.6,349.39,55.0,3.0,64020.0,17654.0,12655.0,3921.0,53.0,29737.0
+213,2019,12,OO,SkyWest Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",31.0,11.0,4.77,0.0,4.08,0.0,2.15,0.0,0.0,797.0,303.0,0.0,332.0,0.0,162.0
+214,2019,12,OO,SkyWest Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",1324.0,262.0,64.53,8.92,73.02,0.0,115.53,20.0,3.0,23616.0,7793.0,1679.0,2836.0,0.0,11308.0
+215,2019,12,OO,SkyWest Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",58.0,21.0,7.41,1.55,4.57,0.0,7.47,4.0,1.0,2532.0,982.0,775.0,317.0,0.0,458.0
+216,2019,12,OO,SkyWest Airlines Inc.,LAS,"Las Vegas, NV: Harry Reid International",254.0,50.0,11.07,4.01,7.72,0.0,27.2,3.0,0.0,4901.0,1498.0,352.0,276.0,0.0,2775.0
+217,2019,12,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3053.0,606.0,129.63,15.12,189.96,0.7,270.58,64.0,1.0,56079.0,23524.0,1958.0,7372.0,34.0,23191.0
+218,2019,12,OO,SkyWest Airlines Inc.,LGA,"New York, NY: LaGuardia",316.0,93.0,9.97,9.41,42.87,0.61,30.13,6.0,0.0,8679.0,1412.0,939.0,3043.0,11.0,3274.0
+219,2019,12,OO,SkyWest Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",3520.0,623.0,123.78,66.3,128.18,1.26,303.48,64.0,9.0,76922.0,24080.0,14219.0,5842.0,32.0,32749.0
+220,2019,12,OO,SkyWest Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5416.0,1214.0,233.58,36.45,399.91,2.3,541.76,129.0,3.0,120448.0,50933.0,8980.0,19243.0,41.0,41251.0
+221,2019,12,OO,SkyWest Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",21.0,3.0,0.91,0.0,0.32,0.0,1.77,0.0,0.0,97.0,49.0,0.0,11.0,0.0,37.0
+222,2019,12,OO,SkyWest Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",1167.0,172.0,33.86,4.63,44.62,0.0,88.89,13.0,2.0,14029.0,4442.0,1138.0,1541.0,0.0,6908.0
+223,2019,12,OO,SkyWest Airlines Inc.,SAN,"San Diego, CA: San Diego International",721.0,98.0,27.48,0.0,29.51,0.0,41.02,8.0,3.0,6440.0,2671.0,0.0,1091.0,0.0,2678.0
+224,2019,12,OO,SkyWest Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",1410.0,203.0,40.97,10.07,79.82,2.41,69.73,8.0,1.0,12661.0,3389.0,1833.0,3204.0,54.0,4181.0
+225,2019,12,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3560.0,1187.0,128.03,11.3,652.73,0.65,394.29,224.0,32.0,117498.0,27242.0,1724.0,52812.0,15.0,35705.0
+226,2019,12,OO,SkyWest Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",4371.0,614.0,140.31,41.12,134.34,2.82,295.41,54.0,21.0,53022.0,15160.0,6660.0,4490.0,130.0,26582.0
+227,2019,12,UA,United Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",322.0,75.0,20.5,0.74,23.01,0.0,30.75,0.0,0.0,5335.0,1317.0,36.0,896.0,0.0,3086.0
+228,2019,12,UA,United Air Lines Inc.,BOS,"Boston, MA: Logan International",1069.0,316.0,53.57,5.26,163.64,0.0,93.53,15.0,2.0,26622.0,4385.0,682.0,12746.0,0.0,8809.0
+229,2019,12,UA,United Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",291.0,54.0,16.17,1.74,13.05,0.0,23.04,0.0,0.0,2789.0,901.0,64.0,374.0,0.0,1450.0
+230,2019,12,UA,United Air Lines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",18.0,4.0,0.4,0.55,0.39,0.0,2.67,1.0,0.0,560.0,61.0,24.0,37.0,0.0,438.0
+231,2019,12,UA,United Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",336.0,48.0,12.22,1.82,17.62,0.0,16.34,0.0,1.0,1968.0,403.0,136.0,516.0,0.0,913.0
+232,2019,12,UA,United Air Lines Inc.,DEN,"Denver, CO: Denver International",5788.0,842.0,207.32,32.84,319.84,0.0,282.0,5.0,1.0,55887.0,15476.0,1785.0,12813.0,0.0,25813.0
+233,2019,12,UA,United Air Lines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",500.0,109.0,31.14,2.24,35.78,0.0,39.84,1.0,1.0,6343.0,1642.0,194.0,1313.0,0.0,3194.0
+234,2019,12,UA,United Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",105.0,15.0,6.81,0.21,2.54,0.0,5.45,0.0,0.0,659.0,332.0,6.0,87.0,0.0,234.0
+235,2019,12,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4922.0,1610.0,203.09,28.83,1039.54,0.0,338.55,39.0,24.0,146063.0,21250.0,8441.0,82064.0,0.0,34308.0
+236,2019,12,UA,United Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",769.0,188.0,41.82,2.77,78.97,0.0,64.43,0.0,2.0,11387.0,2781.0,213.0,3220.0,0.0,5173.0
+237,2019,12,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",5175.0,784.0,187.84,19.41,265.76,0.0,310.99,4.0,7.0,49029.0,11114.0,1039.0,10266.0,0.0,26610.0
+238,2019,12,UA,United Air Lines Inc.,LAS,"Las Vegas, NV: Harry Reid International",1054.0,190.0,37.0,5.81,68.38,0.0,78.81,1.0,1.0,12789.0,2001.0,386.0,3970.0,0.0,6432.0
+239,2019,12,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2281.0,471.0,121.8,9.46,211.09,0.0,128.65,4.0,3.0,28412.0,9517.0,596.0,7541.0,0.0,10758.0
+240,2019,12,UA,United Air Lines Inc.,LGA,"New York, NY: LaGuardia",664.0,186.0,25.59,1.6,106.08,0.0,52.73,0.0,2.0,12417.0,1513.0,117.0,6583.0,0.0,4204.0
+241,2019,12,UA,United Air Lines Inc.,MCO,"Orlando, FL: Orlando International",1135.0,221.0,59.62,5.37,64.12,0.0,91.89,3.0,3.0,14648.0,3604.0,252.0,2933.0,0.0,7859.0
+242,2019,12,UA,United Air Lines Inc.,MIA,"Miami, FL: Miami International",564.0,143.0,37.62,6.19,50.14,0.0,49.05,0.0,0.0,8832.0,2403.0,669.0,1849.0,0.0,3911.0
+243,2019,12,UA,United Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",236.0,28.0,5.4,0.95,10.55,0.0,11.1,0.0,0.0,1661.0,210.0,44.0,521.0,0.0,886.0
+244,2019,12,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5969.0,960.0,213.05,33.61,310.66,0.0,402.68,18.0,7.0,63416.0,15322.0,2971.0,11438.0,0.0,33685.0
+245,2019,12,UA,United Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",359.0,82.0,19.21,3.36,32.99,0.0,26.44,0.0,0.0,5518.0,912.0,277.0,1937.0,0.0,2392.0
+246,2019,12,UA,United Air Lines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",684.0,151.0,44.24,3.52,38.72,0.0,64.52,0.0,2.0,9540.0,2945.0,179.0,1483.0,0.0,4933.0
+247,2019,12,UA,United Air Lines Inc.,SAN,"San Diego, CA: San Diego International",842.0,177.0,39.36,3.26,71.48,0.0,62.9,5.0,6.0,9668.0,2476.0,660.0,2325.0,0.0,4207.0
+248,2019,12,UA,United Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",730.0,146.0,27.27,1.26,52.73,0.0,64.74,1.0,1.0,8279.0,1301.0,90.0,1901.0,0.0,4987.0
+249,2019,12,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4451.0,1433.0,200.91,16.28,915.72,0.0,300.09,22.0,5.0,109305.0,18460.0,1364.0,61151.0,0.0,28330.0
+250,2019,12,UA,United Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",127.0,19.0,5.79,1.07,5.51,0.0,6.63,0.0,1.0,1278.0,455.0,55.0,389.0,0.0,379.0
+251,2019,12,WN,Southwest Airlines Co.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",3039.0,516.0,210.09,3.96,79.48,3.35,219.12,21.0,0.0,24220.0,9661.0,284.0,2603.0,120.0,11552.0
+252,2019,12,WN,Southwest Airlines Co.,BOS,"Boston, MA: Logan International",882.0,206.0,70.51,2.34,64.74,0.0,68.41,33.0,1.0,11261.0,3461.0,359.0,4214.0,0.0,3227.0
+253,2019,12,WN,Southwest Airlines Co.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",6345.0,1066.0,380.38,4.76,192.13,5.59,483.14,69.0,8.0,47428.0,16776.0,475.0,6070.0,133.0,23974.0
+254,2019,12,WN,Southwest Airlines Co.,CLT,"Charlotte, NC: Charlotte Douglas International",293.0,54.0,28.07,0.0,7.23,0.86,17.84,3.0,0.0,2136.0,1013.0,0.0,191.0,24.0,908.0
+255,2019,12,WN,Southwest Airlines Co.,DCA,"Washington, DC: Ronald Reagan Washington National",1381.0,305.0,111.62,3.23,63.75,2.0,124.4,9.0,0.0,14858.0,5999.0,95.0,1992.0,103.0,6669.0
+256,2019,12,WN,Southwest Airlines Co.,DEN,"Denver, CO: Denver International",6217.0,1214.0,420.17,11.93,233.3,7.56,541.04,55.0,2.0,58810.0,20646.0,830.0,9000.0,297.0,28037.0
+257,2019,12,WN,Southwest Airlines Co.,DTW,"Detroit, MI: Detroit Metro Wayne County",454.0,102.0,56.72,1.0,7.13,0.0,37.15,4.0,0.0,4126.0,2206.0,300.0,186.0,0.0,1434.0
+258,2019,12,WN,Southwest Airlines Co.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",2170.0,403.0,161.38,0.82,100.0,4.44,136.36,9.0,9.0,19135.0,7498.0,63.0,3996.0,124.0,7454.0
+259,2019,12,WN,Southwest Airlines Co.,LAS,"Las Vegas, NV: Harry Reid International",5183.0,1158.0,344.61,5.52,256.51,5.57,545.79,46.0,5.0,60654.0,16017.0,572.0,14219.0,131.0,29715.0
+260,2019,12,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",3307.0,894.0,312.09,6.7,207.48,2.84,364.89,49.0,2.0,43436.0,15552.0,421.0,8074.0,70.0,19319.0
+261,2019,12,WN,Southwest Airlines Co.,LGA,"New York, NY: LaGuardia",1118.0,393.0,110.86,3.88,167.61,0.0,110.66,17.0,5.0,23137.0,6486.0,384.0,10029.0,0.0,6238.0
+262,2019,12,WN,Southwest Airlines Co.,MCO,"Orlando, FL: Orlando International",3761.0,750.0,268.18,7.54,170.01,1.25,303.03,28.0,10.0,38609.0,13606.0,1209.0,6899.0,36.0,16859.0
+263,2019,12,WN,Southwest Airlines Co.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",551.0,132.0,58.17,0.15,16.95,0.0,56.73,7.0,0.0,6089.0,2283.0,17.0,962.0,0.0,2827.0
+264,2019,12,WN,Southwest Airlines Co.,PHL,"Philadelphia, PA: Philadelphia International",741.0,210.0,82.54,4.89,57.28,1.0,64.3,8.0,1.0,10789.0,4053.0,417.0,3370.0,20.0,2929.0
+265,2019,12,WN,Southwest Airlines Co.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",5017.0,1148.0,364.08,4.93,230.63,3.49,544.87,43.0,3.0,53049.0,16484.0,452.0,7384.0,93.0,28636.0
+266,2019,12,WN,Southwest Airlines Co.,SAN,"San Diego, CA: San Diego International",3384.0,766.0,274.73,4.16,127.15,6.14,353.82,56.0,3.0,35352.0,12340.0,368.0,4104.0,159.0,18381.0
+267,2019,12,WN,Southwest Airlines Co.,SEA,"Seattle, WA: Seattle/Tacoma International",932.0,281.0,119.05,0.97,60.45,0.0,100.53,2.0,0.0,11801.0,4779.0,62.0,2141.0,0.0,4819.0
+268,2019,12,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1194.0,435.0,88.1,7.49,193.05,0.0,146.36,76.0,1.0,33218.0,6585.0,1039.0,15283.0,0.0,10311.0
+269,2019,12,WN,Southwest Airlines Co.,SLC,"Salt Lake City, UT: Salt Lake City International",748.0,256.0,109.05,1.65,23.88,1.02,120.41,3.0,5.0,12475.0,4677.0,36.0,960.0,46.0,6756.0
+270,2019,12,YV,Mesa Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",154.0,28.0,14.0,2.0,4.0,0.0,8.0,0.0,0.0,2849.0,1862.0,98.0,166.0,0.0,723.0
+271,2019,12,YV,Mesa Airlines Inc.,BOS,"Boston, MA: Logan International",15.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,87.0,87.0,0.0,0.0,0.0,0.0
+272,2019,12,YV,Mesa Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",194.0,43.0,20.0,2.0,9.0,0.0,12.0,2.0,0.0,2724.0,1802.0,161.0,238.0,0.0,523.0
+273,2019,12,YV,Mesa Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",90.0,19.0,10.0,0.0,3.0,0.0,6.0,0.0,0.0,1045.0,586.0,0.0,65.0,0.0,394.0
+274,2019,12,YV,Mesa Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",3333.0,872.0,168.16,36.42,164.03,2.93,500.45,101.0,17.0,84823.0,20406.0,5124.0,8894.0,108.0,50291.0
+275,2019,12,YV,Mesa Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",203.0,31.0,19.0,1.0,3.0,0.0,8.0,2.0,0.0,2441.0,1682.0,193.0,52.0,0.0,514.0
+276,2019,12,YV,Mesa Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",13.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,125.0,0.0,0.0,93.0,0.0,32.0
+277,2019,12,YV,Mesa Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",3112.0,502.0,129.21,22.0,119.88,0.7,230.22,20.0,14.0,45908.0,17002.0,2857.0,3916.0,16.0,22117.0
+278,2019,12,YV,Mesa Airlines Inc.,LGA,"New York, NY: LaGuardia",114.0,37.0,16.0,0.0,11.0,0.0,10.0,2.0,0.0,3780.0,1639.0,0.0,1168.0,0.0,973.0
+279,2019,12,YV,Mesa Airlines Inc.,MIA,"Miami, FL: Miami International",2.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,103.0,55.0,0.0,48.0,0.0,0.0
+280,2019,12,YV,Mesa Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",134.0,31.0,15.0,1.0,3.0,1.0,11.0,0.0,0.0,2989.0,2022.0,15.0,122.0,59.0,771.0
+281,2019,12,YV,Mesa Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",51.0,9.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,616.0,439.0,44.0,108.0,0.0,25.0
+282,2019,12,YV,Mesa Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",1605.0,408.0,62.09,4.99,83.1,1.34,256.48,24.0,2.0,34406.0,9028.0,194.0,3163.0,86.0,21935.0
+283,2019,12,YV,Mesa Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",48.0,10.0,7.0,0.0,3.0,0.0,0.0,0.0,2.0,437.0,363.0,0.0,74.0,0.0,0.0
+284,2019,12,YX,Republic Airline,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",569.0,116.0,23.87,2.96,44.42,0.87,43.88,7.0,1.0,7870.0,1365.0,211.0,1788.0,46.0,4460.0
+285,2019,12,YX,Republic Airline,BOS,"Boston, MA: Logan International",1417.0,390.0,71.9,15.02,190.07,0.0,113.02,116.0,1.0,33868.0,4612.0,2579.0,15798.0,0.0,10879.0
+286,2019,12,YX,Republic Airline,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",70.0,7.0,0.33,0.09,2.17,0.0,4.41,0.0,0.0,301.0,12.0,7.0,48.0,0.0,234.0
+287,2019,12,YX,Republic Airline,CLT,"Charlotte, NC: Charlotte Douglas International",1055.0,214.0,42.81,2.12,71.02,0.0,98.05,13.0,0.0,12600.0,3071.0,138.0,2460.0,0.0,6931.0
+288,2019,12,YX,Republic Airline,DCA,"Washington, DC: Ronald Reagan Washington National",2428.0,452.0,93.64,9.09,195.59,0.84,152.84,35.0,14.0,27569.0,7391.0,1070.0,8252.0,47.0,10809.0
+289,2019,12,YX,Republic Airline,DEN,"Denver, CO: Denver International",650.0,123.0,28.94,3.07,52.57,4.02,34.4,8.0,1.0,8154.0,2082.0,282.0,2081.0,155.0,3554.0
+290,2019,12,YX,Republic Airline,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",114.0,19.0,7.85,0.98,5.33,0.0,4.84,2.0,3.0,1035.0,495.0,25.0,231.0,0.0,284.0
+291,2019,12,YX,Republic Airline,DTW,"Detroit, MI: Detroit Metro Wayne County",699.0,109.0,25.53,2.33,31.04,0.0,50.1,11.0,2.0,6584.0,1602.0,330.0,1458.0,0.0,3194.0
+292,2019,12,YX,Republic Airline,EWR,"Newark, NJ: Newark Liberty International",1967.0,621.0,43.85,6.73,452.28,0.33,117.82,86.0,5.0,53746.0,3202.0,632.0,38907.0,19.0,10986.0
+293,2019,12,YX,Republic Airline,IAH,"Houston, TX: George Bush Intercontinental/Houston",932.0,140.0,28.91,2.72,54.62,0.0,53.75,3.0,9.0,9953.0,2882.0,112.0,1989.0,0.0,4970.0
+294,2019,12,YX,Republic Airline,JFK,"New York, NY: John F. Kennedy International",418.0,73.0,19.94,3.38,34.92,0.0,14.76,0.0,0.0,3876.0,1135.0,303.0,1445.0,0.0,993.0
+295,2019,12,YX,Republic Airline,LGA,"New York, NY: LaGuardia",2820.0,732.0,116.83,13.95,393.42,0.05,207.75,57.0,5.0,54874.0,8804.0,1230.0,25024.0,3.0,19813.0
+296,2019,12,YX,Republic Airline,MCO,"Orlando, FL: Orlando International",12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,15.0,0.0,0.0
+297,2019,12,YX,Republic Airline,MIA,"Miami, FL: Miami International",1127.0,143.0,33.9,4.84,49.88,0.0,54.38,0.0,0.0,7461.0,2211.0,467.0,1424.0,0.0,3359.0
+298,2019,12,YX,Republic Airline,MSP,"Minneapolis, MN: Minneapolis-St Paul International",461.0,97.0,16.94,1.88,40.1,0.0,38.09,5.0,0.0,5196.0,792.0,408.0,1382.0,0.0,2614.0
+299,2019,12,YX,Republic Airline,ORD,"Chicago, IL: Chicago O'Hare International",1233.0,236.0,34.35,7.18,100.22,0.5,93.74,19.0,0.0,17082.0,2226.0,1160.0,6569.0,9.0,7118.0
+300,2019,12,YX,Republic Airline,PHL,"Philadelphia, PA: Philadelphia International",1598.0,358.0,51.62,8.91,183.17,1.0,113.29,21.0,0.0,22169.0,3260.0,884.0,9582.0,15.0,8428.0
+301,2019,12,YX,Republic Airline,SEA,"Seattle, WA: Seattle/Tacoma International",9.0,2.0,0.5,0.0,1.5,0.0,0.0,0.0,0.0,141.0,33.0,0.0,108.0,0.0,0.0
+302,2019,12,YX,Republic Airline,SLC,"Salt Lake City, UT: Salt Lake City International",30.0,6.0,2.82,0.0,1.19,0.0,1.99,0.0,0.0,391.0,247.0,0.0,51.0,0.0,93.0

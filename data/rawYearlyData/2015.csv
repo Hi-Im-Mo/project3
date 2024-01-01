@@ -1,0 +1,1111 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2015,12,AA,American Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",1593.00,371.00,97.62,11.12,170.33,0.88,91.06,14.00,3.00,26494.00,8164.00,1521.00,7463.00,21.00,9325.00
+2015,12,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3383.00,840.00,266.31,20.45,374.32,0.88,178.03,35.00,16.00,48921.00,17880.00,2448.00,12350.00,33.00,16210.00
+2015,12,AA,American Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",12054.00,1791.00,573.85,55.56,528.44,8.25,624.90,383.00,73.00,131635.00,50292.00,7053.00,23437.00,356.00,50497.00
+2015,12,AA,American Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",113.00,19.00,7.12,0.00,2.33,0.00,9.54,5.00,0.00,694.00,210.00,0.00,54.00,0.00,430.00
+2015,12,AA,American Airlines Inc.,OGG,"Kahului, HI: Kahului Airport",168.00,36.00,20.62,0.00,10.75,0.00,4.63,2.00,1.00,2243.00,1509.00,0.00,327.00,0.00,407.00
+2015,12,AA,American Airlines Inc.,HNL,"Honolulu, HI: Daniel K Inouye International",263.00,52.00,29.82,0.94,12.78,0.00,8.45,2.00,1.00,3614.00,2049.00,195.00,366.00,0.00,1004.00
+2015,12,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",1377.00,434.00,88.33,13.57,262.97,0.36,68.77,20.00,1.00,28778.00,4602.00,1274.00,18167.00,41.00,4694.00
+2015,12,AA,American Airlines Inc.,MIA,"Miami, FL: Miami International",4705.00,1112.00,347.04,22.26,464.41,10.44,267.85,40.00,15.00,67955.00,25539.00,2945.00,15461.00,372.00,23638.00
+2015,12,AA,American Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",717.00,153.00,52.21,4.69,53.61,0.19,42.30,10.00,2.00,7213.00,2457.00,607.00,1626.00,12.00,2511.00
+2015,12,AA,American Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",3572.00,755.00,182.75,17.43,357.22,5.31,192.29,31.00,6.00,40532.00,11317.00,1356.00,14915.00,136.00,12808.00
+2015,12,AA,American Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",4925.00,585.00,165.46,23.13,182.43,1.67,212.32,145.00,9.00,47832.00,13016.00,2817.00,12952.00,61.00,18986.00
+2015,12,AA,American Airlines Inc.,LGA,"New York, NY: LaGuardia",1986.00,368.00,85.37,19.25,178.27,0.00,85.10,48.00,10.00,21945.00,4545.00,2166.00,10180.00,0.00,5054.00
+2015,12,AA,American Airlines Inc.,MCO,"Orlando, FL: Orlando International",1666.00,378.00,124.71,10.95,127.69,3.40,111.25,13.00,2.00,20919.00,6719.00,1446.00,4291.00,234.00,8229.00
+2015,12,AA,American Airlines Inc.,BOS,"Boston, MA: Logan International",2202.00,359.00,120.29,9.28,99.06,1.00,129.37,33.00,2.00,18612.00,6366.00,675.00,3481.00,15.00,8075.00
+2015,12,AA,American Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",217.00,43.00,22.94,0.11,7.22,0.00,12.73,3.00,0.00,2096.00,1136.00,15.00,250.00,0.00,695.00
+2015,12,AA,American Airlines Inc.,RIC,"Richmond, VA: Richmond International",209.00,37.00,20.19,0.06,6.66,0.00,10.10,3.00,0.00,1552.00,822.00,6.00,220.00,0.00,504.00
+2015,12,AA,American Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",2394.00,500.00,138.04,16.74,229.71,0.10,115.42,29.00,12.00,26191.00,7746.00,2439.00,8426.00,8.00,7572.00
+2015,12,AA,American Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",933.00,191.00,70.35,6.56,55.79,1.60,56.71,13.00,0.00,10901.00,3806.00,946.00,2776.00,72.00,3301.00
+2015,12,AA,American Airlines Inc.,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",350.00,66.00,24.73,3.34,20.09,0.00,17.84,5.00,0.00,3389.00,1426.00,304.00,556.00,0.00,1103.00
+2015,12,AA,American Airlines Inc.,LBB,"Lubbock, TX: Lubbock Preston Smith International",15.00,1.00,0.07,0.00,0.00,0.00,0.93,0.00,0.00,174.00,12.00,0.00,0.00,0.00,162.00
+2015,12,AA,American Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",745.00,110.00,48.82,3.54,21.00,0.00,36.64,27.00,1.00,6378.00,2446.00,247.00,938.00,0.00,2747.00
+2015,12,AA,American Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",547.00,77.00,35.36,2.98,15.66,0.22,22.79,6.00,2.00,4142.00,1906.00,485.00,538.00,7.00,1206.00
+2015,12,AA,American Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",5184.00,946.00,311.90,24.19,364.47,7.44,238.00,40.00,8.00,45306.00,18596.00,2268.00,10590.00,294.00,13558.00
+2015,12,AA,American Airlines Inc.,STL,"St. Louis, MO: St Louis Lambert International",664.00,113.00,54.34,4.40,18.59,0.00,35.67,8.00,0.00,7617.00,3156.00,316.00,651.00,0.00,3494.00
+2015,12,AA,American Airlines Inc.,DEN,"Denver, CO: Denver International",828.00,198.00,74.98,7.53,62.02,0.14,53.34,23.00,2.00,10354.00,3843.00,910.00,2363.00,7.00,3231.00
+2015,12,AA,American Airlines Inc.,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",62.00,9.00,6.67,0.00,1.18,0.00,1.15,0.00,0.00,540.00,431.00,0.00,36.00,0.00,73.00
+2015,12,AA,American Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",742.00,135.00,54.73,3.76,39.42,0.00,37.10,9.00,5.00,8770.00,3774.00,266.00,1997.00,0.00,2733.00
+2015,12,AA,American Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",1184.00,218.00,96.90,6.22,50.68,2.94,61.26,10.00,3.00,11767.00,5025.00,688.00,1798.00,56.00,4200.00
+2015,12,AA,American Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",392.00,79.00,33.04,2.50,20.17,0.34,22.95,7.00,1.00,4046.00,1238.00,557.00,718.00,13.00,1520.00
+2015,12,AA,American Airlines Inc.,TUS,"Tucson, AZ: Tucson International",268.00,45.00,19.97,2.93,8.91,0.00,13.19,12.00,0.00,2641.00,1101.00,282.00,260.00,0.00,998.00
+2015,12,AA,American Airlines Inc.,SAN,"San Diego, CA: San Diego International",789.00,165.00,83.09,5.65,37.50,1.61,37.15,13.00,4.00,10361.00,5420.00,411.00,1260.00,75.00,3195.00
+2015,12,AA,American Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",724.00,145.00,61.05,7.34,29.61,1.00,46.01,12.00,0.00,8368.00,3744.00,568.00,1027.00,22.00,3007.00
+2015,12,AA,American Airlines Inc.,STX,"Christiansted, VI: Henry E. Rohlsen",52.00,15.00,2.28,0.00,6.91,0.00,5.81,0.00,2.00,703.00,115.00,0.00,279.00,0.00,309.00
+2015,12,AA,American Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",301.00,62.00,26.37,0.51,22.18,0.74,12.21,7.00,0.00,2783.00,1393.00,32.00,744.00,17.00,597.00
+2015,12,AA,American Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",511.00,89.00,46.62,3.50,20.27,0.00,18.61,13.00,5.00,3928.00,2096.00,296.00,604.00,0.00,932.00
+2015,12,AA,American Airlines Inc.,TPA,"Tampa, FL: Tampa International",1054.00,229.00,97.14,6.55,48.90,0.95,75.46,5.00,0.00,12408.00,5208.00,850.00,1587.00,19.00,4744.00
+2015,12,AA,American Airlines Inc.,STT,"Charlotte Amalie, VI: Cyril E King",174.00,66.00,33.48,1.48,21.17,0.00,9.87,1.00,1.00,3939.00,2418.00,39.00,723.00,0.00,759.00
+2015,12,AA,American Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",819.00,183.00,62.76,6.19,55.56,0.25,58.24,11.00,0.00,8893.00,2859.00,415.00,1869.00,13.00,3737.00
+2015,12,AA,American Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",89.00,8.00,2.10,1.98,1.00,0.00,2.92,4.00,1.00,381.00,57.00,168.00,24.00,0.00,132.00
+2015,12,AA,American Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",389.00,57.00,29.95,2.01,11.18,0.00,13.86,7.00,0.00,3525.00,1804.00,342.00,377.00,0.00,1002.00
+2015,12,AA,American Airlines Inc.,EGE,"Eagle, CO: Eagle County Regional",142.00,38.00,16.09,5.20,7.23,0.00,9.47,10.00,2.00,2528.00,1007.00,695.00,363.00,0.00,463.00
+2015,12,AA,American Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",625.00,88.00,34.36,4.54,23.75,0.42,24.93,10.00,0.00,4807.00,1634.00,423.00,1168.00,20.00,1562.00
+2015,12,AA,American Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",468.00,54.00,30.51,2.91,9.14,0.00,11.43,19.00,1.00,2687.00,1339.00,390.00,364.00,0.00,594.00
+2015,12,AA,American Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",8097.00,1378.00,373.36,23.02,537.32,9.90,434.39,51.00,4.00,68945.00,20898.00,1883.00,18298.00,267.00,27599.00
+2015,12,AA,American Airlines Inc.,BNA,"Nashville, TN: Nashville International",429.00,66.00,33.48,0.52,8.41,0.00,23.60,9.00,0.00,3719.00,1801.00,30.00,400.00,0.00,1488.00
+2015,12,AA,American Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",464.00,87.00,38.92,6.30,13.38,0.00,28.40,10.00,0.00,6028.00,3063.00,709.00,644.00,0.00,1612.00
+2015,12,AA,American Airlines Inc.,TUL,"Tulsa, OK: Tulsa International",202.00,37.00,18.65,2.57,1.54,0.00,14.24,6.00,0.00,2120.00,829.00,351.00,73.00,0.00,867.00
+2015,12,AA,American Airlines Inc.,SJU,"San Juan, PR: Luis Munoz Marin International",580.00,224.00,88.04,5.12,94.57,0.86,35.41,2.00,0.00,12729.00,5792.00,419.00,3710.00,30.00,2778.00
+2015,12,AA,American Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",141.00,13.00,5.08,1.00,2.59,1.00,3.34,7.00,1.00,749.00,290.00,53.00,116.00,98.00,192.00
+2015,12,AA,American Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",425.00,69.00,34.14,4.79,12.15,0.00,17.92,8.00,1.00,3196.00,1547.00,223.00,431.00,0.00,995.00
+2015,12,AA,American Airlines Inc.,PDX,"Portland, OR: Portland International",328.00,68.00,29.94,2.28,15.46,0.00,20.32,9.00,3.00,3342.00,1617.00,276.00,406.00,0.00,1043.00
+2015,12,AA,American Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",316.00,62.00,24.69,1.25,12.06,1.00,23.00,3.00,0.00,3066.00,1153.00,67.00,499.00,30.00,1317.00
+2015,12,AA,American Airlines Inc.,RNO,"Reno, NV: Reno/Tahoe International",194.00,50.00,17.80,2.25,13.96,1.22,14.78,5.00,1.00,2388.00,976.00,215.00,436.00,34.00,727.00
+2015,12,AA,American Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",103.00,13.00,5.79,0.23,3.46,0.00,3.53,0.00,0.00,833.00,176.00,78.00,78.00,0.00,501.00
+2015,12,AA,American Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",544.00,114.00,51.65,1.13,21.80,0.43,38.98,5.00,1.00,5507.00,2734.00,70.00,618.00,10.00,2075.00
+2015,12,AA,American Airlines Inc.,ELP,"El Paso, TX: El Paso International",137.00,23.00,9.09,1.20,4.61,0.00,8.10,3.00,0.00,1232.00,626.00,45.00,159.00,0.00,402.00
+2015,12,AA,American Airlines Inc.,LIH,"Lihue, HI: Lihue Airport",73.00,15.00,11.11,0.00,3.78,0.00,0.11,0.00,0.00,964.00,836.00,0.00,114.00,0.00,14.00
+2015,12,AA,American Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",667.00,182.00,40.92,5.33,106.69,0.00,29.06,8.00,0.00,10865.00,2304.00,644.00,5468.00,0.00,2449.00
+2015,12,AA,American Airlines Inc.,ORF,"Norfolk, VA: Norfolk International",167.00,37.00,15.77,1.39,6.76,0.00,13.08,2.00,1.00,2227.00,943.00,281.00,198.00,0.00,805.00
+2015,12,AA,American Airlines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",518.00,123.00,30.99,5.99,48.52,0.24,37.27,7.00,0.00,6382.00,1433.00,530.00,2165.00,10.00,2244.00
+2015,12,AA,American Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",486.00,113.00,41.47,5.60,31.72,0.00,34.22,3.00,0.00,6285.00,2216.00,497.00,1318.00,0.00,2254.00
+2015,12,AA,American Airlines Inc.,PSP,"Palm Springs, CA: Palm Springs International",124.00,25.00,9.02,1.35,8.60,0.00,6.02,5.00,0.00,1242.00,461.00,86.00,314.00,0.00,381.00
+2015,12,AA,American Airlines Inc.,JAC,"Jackson, WY: Jackson Hole",60.00,18.00,12.20,1.02,1.27,0.00,3.52,3.00,1.00,2435.00,1371.00,187.00,37.00,0.00,840.00
+2015,12,AA,American Airlines Inc.,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",78.00,10.00,3.63,0.00,1.35,0.00,5.02,4.00,0.00,451.00,144.00,0.00,35.00,0.00,272.00
+2015,12,AA,American Airlines Inc.,ONT,"Ontario, CA: Ontario International",245.00,47.00,21.60,2.90,8.03,0.58,13.89,5.00,1.00,2511.00,1200.00,378.00,291.00,15.00,627.00
+2015,12,AA,American Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",59.00,7.00,3.31,0.57,1.60,0.00,1.52,2.00,0.00,329.00,125.00,35.00,82.00,0.00,87.00
+2015,12,AA,American Airlines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",190.00,16.00,6.87,1.89,3.05,0.00,4.19,2.00,1.00,710.00,275.00,118.00,81.00,0.00,236.00
+2015,12,AA,American Airlines Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",29.00,8.00,5.44,0.59,0.74,0.00,1.22,1.00,0.00,402.00,245.00,69.00,34.00,0.00,54.00
+2015,12,AA,American Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",487.00,86.00,40.77,1.19,12.37,0.00,31.67,3.00,0.00,4055.00,2121.00,43.00,349.00,0.00,1542.00
+2015,12,AA,American Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",138.00,12.00,7.54,0.70,1.12,0.00,2.64,4.00,0.00,696.00,318.00,111.00,45.00,0.00,222.00
+2015,12,AA,American Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell International",143.00,22.00,10.85,1.00,3.24,0.00,6.91,8.00,0.00,954.00,486.00,67.00,89.00,0.00,312.00
+2015,12,AA,American Airlines Inc.,HDN,"Hayden, CO: Yampa Valley",24.00,7.00,2.81,1.12,1.32,0.00,1.75,2.00,0.00,423.00,77.00,176.00,59.00,0.00,111.00
+2015,12,AA,American Airlines Inc.,CMH,"Columbus, OH: John Glenn Columbus International",211.00,28.00,10.94,2.39,4.42,0.00,10.24,4.00,0.00,2012.00,583.00,604.00,203.00,0.00,622.00
+2015,12,AA,American Airlines Inc.,MTJ,"Montrose/Delta, CO: Montrose Regional",17.00,11.00,3.65,0.00,5.16,0.00,2.19,1.00,0.00,318.00,74.00,0.00,116.00,0.00,128.00
+2015,12,AA,American Airlines Inc.,GUC,"Gunnison, CO: Gunnison-Crested Butte Regional",22.00,5.00,2.28,0.00,1.53,0.00,1.20,3.00,0.00,282.00,156.00,0.00,71.00,0.00,55.00
+2015,12,AA,American Airlines Inc.,MEM,"Memphis, TN: Memphis International",120.00,19.00,10.54,0.50,1.88,0.00,6.08,1.00,0.00,848.00,461.00,29.00,84.00,0.00,274.00
+2015,12,AA,American Airlines Inc.,BDL,"Hartford, CT: Bradley International",245.00,45.00,20.91,1.54,6.46,0.00,16.08,1.00,0.00,2455.00,1221.00,48.00,151.00,0.00,1035.00
+2015,12,AA,American Airlines Inc.,FAT,"Fresno, CA: Fresno Yosemite International",61.00,12.00,7.40,0.49,1.83,0.00,2.28,2.00,0.00,698.00,338.00,95.00,56.00,0.00,209.00
+2015,12,AA,American Airlines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",60.00,12.00,4.82,0.00,4.16,0.00,3.02,0.00,0.00,331.00,154.00,0.00,102.00,0.00,75.00
+2015,12,AA,American Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",103.00,18.00,9.85,0.69,4.59,0.00,2.88,0.00,0.00,707.00,468.00,24.00,100.00,0.00,115.00
+2015,12,AA,American Airlines Inc.,PVD,"Providence, RI: Theodore Francis Green State",190.00,33.00,10.94,0.64,9.44,0.00,11.98,1.00,0.00,1569.00,515.00,56.00,256.00,0.00,742.00
+2015,12,AA,American Airlines Inc.,ALB,"Albany, NY: Albany International",82.00,19.00,4.46,0.94,7.92,0.00,5.69,0.00,0.00,609.00,109.00,15.00,158.00,0.00,327.00
+2015,12,AA,American Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",51.00,9.00,4.45,0.00,2.27,0.00,2.28,0.00,0.00,394.00,278.00,0.00,46.00,0.00,70.00
+2015,12,AA,American Airlines Inc.,PWM,"Portland, ME: Portland International Jetport",29.00,6.00,3.25,0.00,1.09,0.00,1.66,0.00,0.00,213.00,95.00,0.00,47.00,0.00,71.00
+2015,12,AA,American Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",28.00,4.00,2.98,0.00,0.32,0.00,0.70,0.00,0.00,411.00,363.00,0.00,17.00,0.00,31.00
+2015,12,AA,American Airlines Inc.,ROC,"Rochester, NY: Greater Rochester International",58.00,7.00,3.22,0.00,1.04,0.00,2.74,0.00,0.00,367.00,151.00,0.00,41.00,0.00,175.00
+2015,12,AA,American Airlines Inc.,CHS,"Charleston, SC: Charleston AFB/International",36.00,4.00,3.13,0.00,0.66,0.00,0.21,0.00,0.00,213.00,180.00,0.00,25.00,0.00,8.00
+2015,12,AA,American Airlines Inc.,ILM,"Wilmington, NC: Wilmington International",49.00,4.00,1.11,0.00,1.68,0.00,1.21,0.00,0.00,427.00,63.00,0.00,69.00,0.00,295.00
+2015,12,AA,American Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International",18.00,4.00,1.91,0.00,0.81,0.00,1.28,0.00,0.00,202.00,104.00,0.00,32.00,0.00,66.00
+2015,12,AA,American Airlines Inc.,BOI,"Boise, ID: Boise Air Terminal",62.00,11.00,4.23,1.00,1.52,0.07,4.18,0.00,0.00,567.00,253.00,63.00,47.00,2.00,202.00
+2015,12,AA,American Airlines Inc.,ANC,"Anchorage, AK: Ted Stevens Anchorage International",31.00,7.00,3.32,0.00,3.07,0.08,0.54,0.00,0.00,259.00,123.00,0.00,104.00,4.00,28.00
+2015,12,AA,American Airlines Inc.,GEG,"Spokane, WA: Spokane International",46.00,7.00,2.80,0.00,2.33,0.13,1.74,0.00,0.00,182.00,59.00,0.00,42.00,8.00,73.00
+2015,12,AS,Alaska Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",4519.00,671.00,134.26,7.76,332.91,10.19,185.89,25.00,3.00,31235.00,9136.00,810.00,9128.00,286.00,11875.00
+2015,12,AS,Alaska Airlines Inc.,OGG,"Kahului, HI: Kahului Airport",283.00,25.00,9.70,1.44,13.02,0.00,0.84,0.00,2.00,987.00,501.00,38.00,391.00,0.00,57.00
+2015,12,AS,Alaska Airlines Inc.,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",158.00,10.00,1.17,0.38,8.45,0.00,0.00,0.00,0.00,253.00,36.00,8.00,209.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,PDX,"Portland, OR: Portland International",1240.00,180.00,40.34,0.41,70.96,3.77,64.52,7.00,10.00,11385.00,3307.00,11.00,1826.00,92.00,6149.00
+2015,12,AS,Alaska Airlines Inc.,SAN,"San Diego, CA: San Diego International",462.00,66.00,20.54,4.48,21.49,0.23,19.27,0.00,2.00,2898.00,966.00,386.00,635.00,7.00,904.00
+2015,12,AS,Alaska Airlines Inc.,HNL,"Honolulu, HI: Daniel K Inouye International",227.00,28.00,11.30,0.46,15.43,0.00,0.80,0.00,0.00,946.00,470.00,18.00,397.00,0.00,61.00
+2015,12,AS,Alaska Airlines Inc.,LIH,"Lihue, HI: Lihue Airport",124.00,7.00,1.00,0.00,6.00,0.00,0.00,0.00,1.00,256.00,72.00,0.00,184.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK: Ted Stevens Anchorage International",1028.00,108.00,37.19,6.81,28.80,1.73,33.47,28.00,1.00,4644.00,2023.00,445.00,865.00,47.00,1264.00
+2015,12,AS,Alaska Airlines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",181.00,21.00,5.46,0.59,8.20,0.00,6.76,0.00,0.00,829.00,235.00,17.00,326.00,0.00,251.00
+2015,12,AS,Alaska Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",124.00,14.00,2.72,0.00,8.11,0.00,3.16,0.00,0.00,412.00,86.00,0.00,214.00,0.00,112.00
+2015,12,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",812.00,132.00,41.98,3.33,67.38,0.58,18.74,3.00,0.00,4872.00,2071.00,275.00,1687.00,19.00,820.00
+2015,12,AS,Alaska Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",31.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,86.00,86.00,0.00,0.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",62.00,15.00,1.77,0.00,12.11,0.00,1.11,0.00,0.00,596.00,54.00,0.00,517.00,0.00,25.00
+2015,12,AS,Alaska Airlines Inc.,BOS,"Boston, MA: Logan International",115.00,15.00,4.14,0.64,7.21,0.00,3.01,0.00,0.00,464.00,170.00,14.00,180.00,0.00,100.00
+2015,12,AS,Alaska Airlines Inc.,MCO,"Orlando, FL: Orlando International",56.00,13.00,3.26,0.00,8.74,0.00,1.00,0.00,0.00,517.00,122.00,0.00,211.00,0.00,184.00
+2015,12,AS,Alaska Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",149.00,21.00,5.66,0.89,14.45,0.00,0.00,2.00,0.00,1246.00,428.00,282.00,536.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",31.00,11.00,2.40,0.93,7.67,0.00,0.00,0.00,0.00,489.00,152.00,50.00,287.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",31.00,6.00,0.42,0.14,4.90,0.00,0.54,0.00,0.00,181.00,8.00,6.00,146.00,0.00,21.00
+2015,12,AS,Alaska Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",46.00,13.00,4.06,0.00,6.89,0.00,2.05,0.00,0.00,392.00,116.00,0.00,223.00,0.00,53.00
+2015,12,AS,Alaska Airlines Inc.,ADQ,"Kodiak, AK: Kodiak Airport",30.00,3.00,0.89,0.93,1.18,0.00,0.00,4.00,0.00,94.00,34.00,25.00,35.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,BET,"Bethel, AK: Bethel Airport",80.00,11.00,2.47,3.97,4.55,0.00,0.00,5.00,0.00,314.00,75.00,122.00,117.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,BRW,"Barrow, AK: Wiley Post/Will Rogers Memorial",77.00,5.00,0.00,0.00,2.04,0.00,2.96,0.00,0.00,433.00,0.00,0.00,41.00,0.00,392.00
+2015,12,AS,Alaska Airlines Inc.,SCC,"Deadhorse, AK: Deadhorse Airport",77.00,6.00,2.61,0.00,2.13,0.00,1.26,0.00,1.00,236.00,142.00,0.00,51.00,0.00,43.00
+2015,12,AS,Alaska Airlines Inc.,FAI,"Fairbanks, AK: Fairbanks International",170.00,22.00,7.98,1.06,9.32,0.00,3.64,0.00,1.00,736.00,339.00,24.00,224.00,0.00,149.00
+2015,12,AS,Alaska Airlines Inc.,KTN,"Ketchikan, AK: Ketchikan International",184.00,18.00,6.51,0.00,2.12,0.93,8.44,1.00,0.00,1352.00,444.00,0.00,52.00,14.00,842.00
+2015,12,AS,Alaska Airlines Inc.,JNU,"Juneau, AK: Juneau International",296.00,32.00,7.67,5.52,5.40,0.00,13.41,1.00,9.00,1537.00,417.00,194.00,162.00,0.00,764.00
+2015,12,AS,Alaska Airlines Inc.,YAK,"Yakutat, AK: Yakutat Airport",60.00,5.00,0.00,1.73,0.45,0.00,2.83,1.00,0.00,166.00,0.00,71.00,13.00,0.00,82.00
+2015,12,AS,Alaska Airlines Inc.,CDV,"Cordova, AK: Merle K Mudhole Smith",60.00,6.00,1.00,2.02,1.54,0.00,1.44,0.00,2.00,203.00,42.00,94.00,33.00,0.00,34.00
+2015,12,AS,Alaska Airlines Inc.,SIT,"Sitka, AK: Sitka Rocky Gutierrez",90.00,12.00,3.57,0.00,1.72,0.00,6.71,1.00,0.00,695.00,121.00,0.00,57.00,0.00,517.00
+2015,12,AS,Alaska Airlines Inc.,PSG,"Petersburg, AK: Petersburg James A Johnson",60.00,5.00,1.94,0.00,1.30,0.00,1.75,2.00,0.00,259.00,97.00,0.00,36.00,0.00,126.00
+2015,12,AS,Alaska Airlines Inc.,WRG,"Wrangell, AK: Wrangell Airport",60.00,4.00,0.59,0.09,0.62,0.00,2.70,0.00,2.00,370.00,41.00,13.00,48.00,0.00,268.00
+2015,12,AS,Alaska Airlines Inc.,OME,"Nome, AK: Nome Airport",60.00,7.00,1.74,0.00,2.74,0.00,2.52,4.00,2.00,187.00,67.00,0.00,61.00,0.00,59.00
+2015,12,AS,Alaska Airlines Inc.,OTZ,"Kotzebue, AK: Ralph Wien Memorial",60.00,4.00,3.35,0.00,0.65,0.00,0.00,3.00,0.00,94.00,79.00,0.00,15.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",372.00,38.00,9.19,0.00,15.90,0.00,12.92,1.00,0.00,2116.00,965.00,0.00,406.00,0.00,745.00
+2015,12,AS,Alaska Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",301.00,33.00,6.71,0.00,12.30,0.00,13.99,0.00,3.00,2047.00,497.00,0.00,296.00,0.00,1254.00
+2015,12,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",443.00,117.00,15.33,3.87,80.16,0.00,17.63,0.00,10.00,10176.00,1615.00,666.00,6954.00,0.00,941.00
+2015,12,AS,Alaska Airlines Inc.,PSP,"Palm Springs, CA: Palm Springs International",159.00,25.00,10.76,0.00,1.69,0.00,12.55,0.00,1.00,1823.00,450.00,0.00,142.00,0.00,1231.00
+2015,12,AS,Alaska Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",176.00,27.00,4.51,0.65,13.07,0.00,8.77,0.00,0.00,861.00,179.00,14.00,340.00,0.00,328.00
+2015,12,AS,Alaska Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",182.00,16.00,4.39,0.00,0.49,0.00,11.12,0.00,0.00,1330.00,245.00,0.00,18.00,0.00,1067.00
+2015,12,AS,Alaska Airlines Inc.,ONT,"Ontario, CA: Ontario International",74.00,12.00,5.53,0.00,3.37,0.00,3.10,0.00,0.00,660.00,408.00,0.00,140.00,0.00,112.00
+2015,12,AS,Alaska Airlines Inc.,BUR,"Burbank, CA: Bob Hope",89.00,10.00,3.64,0.00,3.50,0.00,2.85,0.00,0.00,431.00,118.00,0.00,75.00,0.00,238.00
+2015,12,AS,Alaska Airlines Inc.,BLI,"Bellingham, WA: Bellingham International",102.00,10.00,3.41,0.00,2.83,0.00,3.77,1.00,1.00,421.00,139.00,0.00,116.00,0.00,166.00
+2015,12,AS,Alaska Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",379.00,35.00,16.64,0.00,13.51,0.00,4.85,0.00,0.00,1217.00,648.00,0.00,291.00,0.00,278.00
+2015,12,AS,Alaska Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",214.00,21.00,13.53,0.00,2.89,0.00,4.58,0.00,0.00,954.00,592.00,0.00,113.00,0.00,249.00
+2015,12,AS,Alaska Airlines Inc.,TUS,"Tucson, AZ: Tucson International",31.00,3.00,1.00,0.00,2.00,0.00,0.00,0.00,0.00,77.00,26.00,0.00,51.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",109.00,19.00,8.27,0.00,9.80,0.00,0.93,0.00,3.00,484.00,227.00,0.00,220.00,0.00,37.00
+2015,12,AS,Alaska Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",31.00,7.00,4.08,0.00,1.61,1.00,0.31,0.00,0.00,213.00,111.00,0.00,43.00,54.00,5.00
+2015,12,AS,Alaska Airlines Inc.,DEN,"Denver, CO: Denver International",122.00,18.00,7.58,1.93,6.10,0.00,2.39,1.00,0.00,1160.00,462.00,422.00,193.00,0.00,83.00
+2015,12,AS,Alaska Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",31.00,5.00,1.72,0.00,2.87,0.00,0.41,0.00,0.00,119.00,31.00,0.00,79.00,0.00,9.00
+2015,12,AS,Alaska Airlines Inc.,GEG,"Spokane, WA: Spokane International",145.00,33.00,11.85,1.70,10.75,0.00,8.71,0.00,1.00,1224.00,542.00,144.00,272.00,0.00,266.00
+2015,12,AS,Alaska Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",31.00,2.00,0.00,0.00,2.00,0.00,0.00,0.00,0.00,40.00,0.00,0.00,40.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,BNA,"Nashville, TN: Nashville International",31.00,7.00,2.18,0.00,3.82,0.00,0.99,0.00,0.00,218.00,88.00,0.00,93.00,0.00,37.00
+2015,12,AS,Alaska Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",61.00,2.00,0.85,0.00,1.15,0.00,0.00,0.00,0.00,69.00,45.00,0.00,24.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",59.00,17.00,10.71,0.00,5.69,0.00,0.60,0.00,0.00,540.00,338.00,0.00,190.00,0.00,12.00
+2015,12,AS,Alaska Airlines Inc.,STL,"St. Louis, MO: St Louis Lambert International",31.00,10.00,3.24,0.30,4.22,0.00,2.25,0.00,0.00,241.00,72.00,8.00,110.00,0.00,51.00
+2015,12,AS,Alaska Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",31.00,3.00,1.22,0.00,0.24,0.00,1.54,0.00,0.00,83.00,30.00,0.00,5.00,0.00,48.00
+2015,12,AS,Alaska Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",31.00,3.00,2.74,0.00,0.26,0.00,0.00,0.00,1.00,119.00,108.00,0.00,11.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",31.00,5.00,1.58,0.00,2.86,0.00,0.56,0.00,0.00,161.00,92.00,0.00,60.00,0.00,9.00
+2015,12,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",31.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,27.00,27.00,0.00,0.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,TPA,"Tampa, FL: Tampa International",31.00,1.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,15.00,0.00,0.00,0.00,0.00,15.00
+2015,12,AS,Alaska Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",31.00,2.00,0.58,0.00,1.42,0.00,0.00,0.00,0.00,58.00,14.00,0.00,44.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",31.00,1.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,25.00,0.00,0.00,25.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,CHS,"Charleston, SC: Charleston AFB/International",17.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,18.00,18.00,0.00,0.00,0.00,0.00
+2015,12,AS,Alaska Airlines Inc.,ADK,"Adak Island, AK: Adak",9.00,1.00,0.00,0.00,1.00,0.00,0.00,3.00,0.00,19.00,0.00,0.00,19.00,0.00,0.00
+2015,12,B6,JetBlue Airways,BDL,"Hartford, CT: Bradley International",341.00,80.00,32.37,0.00,10.67,0.44,36.52,0.00,0.00,5392.00,1988.00,0.00,331.00,11.00,3062.00
+2015,12,B6,JetBlue Airways,DCA,"Washington, DC: Ronald Reagan Washington National",890.00,205.00,70.20,2.57,54.23,0.00,78.00,0.00,5.00,13911.00,4563.00,711.00,2460.00,0.00,6177.00
+2015,12,B6,JetBlue Airways,TPA,"Tampa, FL: Tampa International",519.00,136.00,47.87,4.45,36.49,2.04,45.15,0.00,0.00,8809.00,3134.00,813.00,1169.00,80.00,3613.00
+2015,12,B6,JetBlue Airways,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",2056.00,709.00,251.28,5.21,192.54,9.97,250.01,4.00,0.00,43381.00,13954.00,1165.00,6945.00,360.00,20957.00
+2015,12,B6,JetBlue Airways,PDX,"Portland, OR: Portland International",91.00,22.00,5.08,1.00,8.47,0.00,7.45,0.00,2.00,1278.00,362.00,42.00,180.00,0.00,694.00
+2015,12,B6,JetBlue Airways,LGB,"Long Beach, CA: Long Beach Airport",650.00,179.00,51.41,1.74,30.45,0.00,95.40,1.00,5.00,10257.00,2682.00,156.00,1098.00,0.00,6321.00
+2015,12,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",493.00,185.00,35.00,2.55,101.93,1.03,44.48,4.00,8.00,14546.00,3126.00,323.00,7547.00,20.00,3530.00
+2015,12,B6,JetBlue Airways,JFK,"New York, NY: John F. Kennedy International",3820.00,1188.00,307.90,7.91,385.96,2.40,483.83,14.00,15.00,78169.00,18019.00,1181.00,22241.00,70.00,36658.00
+2015,12,B6,JetBlue Airways,LAS,"Las Vegas, NV: McCarran International",363.00,101.00,38.33,0.07,17.92,2.27,42.41,2.00,1.00,6773.00,2059.00,7.00,732.00,144.00,3831.00
+2015,12,B6,JetBlue Airways,EWR,"Newark, NJ: Newark Liberty International",620.00,210.00,61.70,0.00,85.27,0.00,63.04,2.00,0.00,13599.00,3507.00,0.00,5493.00,0.00,4599.00
+2015,12,B6,JetBlue Airways,BOS,"Boston, MA: Logan International",3358.00,798.00,252.20,9.03,144.65,0.95,391.17,10.00,6.00,57162.00,17048.00,1322.00,6519.00,39.00,32234.00
+2015,12,B6,JetBlue Airways,MCO,"Orlando, FL: Orlando International",1794.00,494.00,173.85,4.23,133.78,3.95,178.18,4.00,1.00,30102.00,10780.00,729.00,5040.00,162.00,13391.00
+2015,12,B6,JetBlue Airways,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",46.00,9.00,2.58,0.59,4.83,0.00,1.00,0.00,0.00,589.00,204.00,138.00,203.00,0.00,44.00
+2015,12,B6,JetBlue Airways,SAN,"San Diego, CA: San Diego International",116.00,27.00,11.79,1.04,9.15,0.25,4.76,0.00,3.00,1820.00,760.00,330.00,451.00,6.00,273.00
+2015,12,B6,JetBlue Airways,SJU,"San Juan, PR: Luis Munoz Marin International",1030.00,330.00,163.16,1.96,73.88,3.76,87.25,1.00,2.00,16871.00,7802.00,143.00,2537.00,161.00,6228.00
+2015,12,B6,JetBlue Airways,HPN,"White Plains, NY: Westchester County",343.00,100.00,49.70,0.00,8.79,0.00,41.52,5.00,12.00,7886.00,3690.00,0.00,409.00,0.00,3787.00
+2015,12,B6,JetBlue Airways,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",766.00,304.00,104.75,2.95,95.04,2.70,98.56,3.00,0.00,22270.00,7129.00,536.00,5467.00,72.00,9066.00
+2015,12,B6,JetBlue Airways,JAX,"Jacksonville, FL: Jacksonville International",308.00,79.00,30.74,1.48,19.02,0.00,27.75,2.00,0.00,5734.00,1935.00,165.00,697.00,0.00,2937.00
+2015,12,B6,JetBlue Airways,SAV,"Savannah, GA: Savannah/Hilton Head International",93.00,27.00,10.64,0.97,10.47,0.00,4.91,0.00,0.00,1199.00,520.00,38.00,344.00,0.00,297.00
+2015,12,B6,JetBlue Airways,SEA,"Seattle, WA: Seattle/Tacoma International",151.00,49.00,14.17,2.14,19.01,0.57,13.11,0.00,2.00,2818.00,879.00,313.00,605.00,23.00,998.00
+2015,12,B6,JetBlue Airways,LGA,"New York, NY: LaGuardia",558.00,188.00,55.83,0.59,57.10,0.00,74.48,4.00,2.00,12472.00,3074.00,20.00,4224.00,0.00,5154.00
+2015,12,B6,JetBlue Airways,CHS,"Charleston, SC: Charleston AFB/International",172.00,40.00,13.92,0.00,14.52,0.42,11.14,0.00,0.00,2460.00,1008.00,0.00,471.00,32.00,949.00
+2015,12,B6,JetBlue Airways,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",207.00,43.00,21.63,1.62,5.53,1.00,13.22,0.00,1.00,2908.00,1223.00,371.00,167.00,26.00,1121.00
+2015,12,B6,JetBlue Airways,DEN,"Denver, CO: Denver International",85.00,25.00,6.64,0.53,9.15,0.58,8.11,0.00,0.00,1162.00,321.00,60.00,292.00,15.00,474.00
+2015,12,B6,JetBlue Airways,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",60.00,22.00,9.04,0.00,4.91,0.99,7.06,0.00,0.00,1372.00,577.00,0.00,222.00,28.00,545.00
+2015,12,B6,JetBlue Airways,LAX,"Los Angeles, CA: Los Angeles International",384.00,107.00,40.30,0.26,43.02,3.89,19.52,0.00,7.00,5554.00,2022.00,49.00,1855.00,189.00,1439.00
+2015,12,B6,JetBlue Airways,HOU,"Houston, TX: William P Hobby",62.00,17.00,5.55,0.27,8.76,0.00,2.42,0.00,0.00,984.00,403.00,43.00,410.00,0.00,128.00
+2015,12,B6,JetBlue Airways,AUS,"Austin, TX: Austin - Bergstrom International",200.00,61.00,26.74,0.95,15.12,0.00,18.18,0.00,0.00,3660.00,1664.00,145.00,494.00,0.00,1357.00
+2015,12,B6,JetBlue Airways,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",93.00,33.00,12.17,0.17,9.38,0.00,11.29,0.00,0.00,1763.00,613.00,21.00,325.00,0.00,804.00
+2015,12,B6,JetBlue Airways,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",55.00,23.00,7.33,0.52,6.92,0.35,7.88,0.00,3.00,1060.00,269.00,78.00,245.00,16.00,452.00
+2015,12,B6,JetBlue Airways,RSW,"Fort Myers, FL: Southwest Florida International",489.00,145.00,54.00,2.96,50.52,0.00,37.51,1.00,0.00,8999.00,3668.00,198.00,2006.00,0.00,3127.00
+2015,12,B6,JetBlue Airways,SLC,"Salt Lake City, UT: Salt Lake City International",124.00,44.00,19.51,0.00,9.84,1.00,13.65,0.00,0.00,1640.00,795.00,0.00,284.00,15.00,546.00
+2015,12,B6,JetBlue Airways,PVD,"Providence, RI: Theodore Francis Green State",93.00,35.00,19.01,1.00,3.16,0.00,11.83,0.00,0.00,3332.00,1413.00,330.00,98.00,0.00,1491.00
+2015,12,B6,JetBlue Airways,STT,"Charlotte Amalie, VI: Cyril E King",94.00,27.00,10.80,1.78,1.84,0.53,12.04,1.00,0.00,1924.00,703.00,415.00,71.00,23.00,712.00
+2015,12,B6,JetBlue Airways,BQN,"Aguadilla, PR: Rafael Hernandez",96.00,34.00,22.79,0.00,3.08,0.00,8.14,0.00,0.00,1759.00,1187.00,0.00,92.00,0.00,480.00
+2015,12,B6,JetBlue Airways,DTW,"Detroit, MI: Detroit Metro Wayne County",118.00,33.00,18.57,0.47,4.51,0.00,9.45,0.00,0.00,2015.00,1043.00,61.00,182.00,0.00,729.00
+2015,12,B6,JetBlue Airways,OAK,"Oakland, CA: Metropolitan Oakland International",120.00,35.00,7.07,0.76,8.80,0.00,18.37,0.00,0.00,1724.00,284.00,19.00,313.00,0.00,1108.00
+2015,12,B6,JetBlue Airways,ORD,"Chicago, IL: Chicago O'Hare International",153.00,46.00,13.10,1.10,23.41,0.52,7.87,0.00,1.00,3071.00,1017.00,114.00,1277.00,11.00,652.00
+2015,12,B6,JetBlue Airways,PHL,"Philadelphia, PA: Philadelphia International",173.00,59.00,14.79,2.64,27.82,0.00,13.76,0.00,0.00,4836.00,950.00,381.00,2192.00,0.00,1313.00
+2015,12,B6,JetBlue Airways,CLE,"Cleveland, OH: Cleveland-Hopkins International",85.00,10.00,5.04,1.38,0.87,0.00,2.72,0.00,0.00,489.00,150.00,205.00,48.00,0.00,86.00
+2015,12,B6,JetBlue Airways,RNO,"Reno, NV: Reno/Tahoe International",31.00,7.00,3.19,0.00,1.37,0.00,2.44,0.00,0.00,398.00,163.00,0.00,46.00,0.00,189.00
+2015,12,B6,JetBlue Airways,SMF,"Sacramento, CA: Sacramento International",88.00,32.00,11.14,0.00,3.96,0.00,16.91,0.00,0.00,1687.00,447.00,0.00,126.00,0.00,1114.00
+2015,12,B6,JetBlue Airways,PIT,"Pittsburgh, PA: Pittsburgh International",114.00,31.00,13.16,0.48,1.15,0.00,16.21,0.00,0.00,2345.00,723.00,84.00,113.00,0.00,1425.00
+2015,12,B6,JetBlue Airways,BUR,"Burbank, CA: Bob Hope",31.00,8.00,3.76,0.00,4.06,0.00,0.18,0.00,0.00,312.00,168.00,0.00,128.00,0.00,16.00
+2015,12,B6,JetBlue Airways,SYR,"Syracuse, NY: Syracuse Hancock International",122.00,41.00,16.17,0.96,7.93,0.73,15.21,2.00,0.00,3465.00,1252.00,47.00,265.00,11.00,1890.00
+2015,12,B6,JetBlue Airways,IAD,"Washington, DC: Washington Dulles International",172.00,39.00,19.67,0.12,4.60,0.00,14.61,1.00,0.00,3640.00,1671.00,18.00,332.00,0.00,1619.00
+2015,12,B6,JetBlue Airways,PWM,"Portland, ME: Portland International Jetport",79.00,26.00,10.69,0.00,5.17,0.00,10.14,0.00,0.00,1612.00,630.00,0.00,200.00,0.00,782.00
+2015,12,B6,JetBlue Airways,BTV,"Burlington, VT: Burlington International",92.00,27.00,8.49,0.00,7.27,0.00,11.24,0.00,0.00,2816.00,1060.00,0.00,217.00,0.00,1539.00
+2015,12,B6,JetBlue Airways,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",216.00,55.00,31.62,0.00,9.13,0.70,13.55,0.00,0.00,3653.00,2107.00,0.00,312.00,44.00,1190.00
+2015,12,B6,JetBlue Airways,ROC,"Rochester, NY: Greater Rochester International",108.00,28.00,8.21,0.00,2.28,0.00,17.51,2.00,0.00,2036.00,474.00,0.00,121.00,0.00,1441.00
+2015,12,B6,JetBlue Airways,BUF,"Buffalo, NY: Buffalo Niagara International",347.00,78.00,41.78,0.93,10.57,0.00,24.72,2.00,1.00,5295.00,2578.00,238.00,477.00,0.00,2002.00
+2015,12,B6,JetBlue Airways,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",106.00,36.00,16.91,0.00,8.98,0.36,9.75,0.00,1.00,1873.00,864.00,0.00,379.00,26.00,604.00
+2015,12,B6,JetBlue Airways,RIC,"Richmond, VA: Richmond International",154.00,39.00,20.32,0.00,3.09,0.00,15.59,0.00,0.00,2378.00,1144.00,0.00,75.00,0.00,1159.00
+2015,12,B6,JetBlue Airways,CLT,"Charlotte, NC: Charlotte Douglas International",105.00,34.00,17.73,0.99,11.01,0.00,4.26,0.00,0.00,2035.00,1260.00,49.00,376.00,0.00,350.00
+2015,12,B6,JetBlue Airways,SWF,"Newburgh/Poughkeepsie, NY: New York Stewart International",62.00,12.00,9.33,1.00,0.23,0.00,1.44,0.00,0.00,861.00,738.00,24.00,16.00,0.00,83.00
+2015,12,B6,JetBlue Airways,STX,"Christiansted, VI: Henry E. Rohlsen",31.00,6.00,3.08,0.00,2.01,0.00,0.91,0.00,0.00,163.00,60.00,0.00,61.00,0.00,42.00
+2015,12,B6,JetBlue Airways,ORH,"Worcester, MA: Worcester Regional",62.00,17.00,8.67,0.72,2.87,0.00,4.73,1.00,2.00,842.00,419.00,13.00,99.00,0.00,311.00
+2015,12,B6,JetBlue Airways,PSE,"Ponce, PR: Mercedita",83.00,38.00,22.06,0.00,3.62,0.78,11.54,0.00,0.00,1830.00,837.00,0.00,130.00,51.00,812.00
+2015,12,B6,JetBlue Airways,ABQ,"Albuquerque, NM: Albuquerque International Sunport",27.00,9.00,2.93,0.00,2.77,0.00,3.31,0.00,0.00,409.00,145.00,0.00,111.00,0.00,153.00
+2015,12,B6,JetBlue Airways,ALB,"Albany, NY: Albany International",44.00,10.00,5.08,0.00,2.61,0.00,2.31,0.00,0.00,503.00,214.00,0.00,57.00,0.00,232.00
+2015,12,DL,Delta Air Lines Inc.,JFK,"New York, NY: John F. Kennedy International",2278.00,414.00,112.44,12.66,159.59,0.00,129.31,5.00,2.00,28900.00,11110.00,1181.00,7069.00,0.00,9540.00
+2015,12,DL,Delta Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",19291.00,2718.00,774.75,105.45,838.56,0.73,998.51,66.00,89.00,238004.00,83815.00,14834.00,57112.00,61.00,82182.00
+2015,12,DL,Delta Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",4721.00,743.00,214.62,41.19,293.65,0.00,193.54,8.00,3.00,42084.00,15403.00,3876.00,10734.00,0.00,12071.00
+2015,12,DL,Delta Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",2915.00,476.00,157.92,24.05,133.13,0.79,160.11,4.00,1.00,27188.00,11032.00,2772.00,4321.00,50.00,9013.00
+2015,12,DL,Delta Air Lines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",607.00,109.00,46.42,8.32,26.42,0.00,27.83,2.00,0.00,6661.00,3071.00,519.00,1160.00,0.00,1911.00
+2015,12,DL,Delta Air Lines Inc.,MCI,"Kansas City, MO: Kansas City International",435.00,67.00,23.44,7.35,14.87,0.00,21.34,0.00,0.00,3542.00,1233.00,533.00,526.00,0.00,1250.00
+2015,12,DL,Delta Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",4399.00,522.00,174.86,23.01,138.50,0.00,185.63,6.00,3.00,35917.00,12863.00,2729.00,6457.00,0.00,13868.00
+2015,12,DL,Delta Air Lines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",643.00,99.00,39.21,7.96,18.38,0.00,33.44,1.00,2.00,5372.00,1927.00,453.00,720.00,0.00,2272.00
+2015,12,DL,Delta Air Lines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",429.00,63.00,17.62,8.55,19.19,0.00,17.64,1.00,4.00,4535.00,940.00,827.00,1245.00,0.00,1523.00
+2015,12,DL,Delta Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",1310.00,224.00,61.72,11.97,92.71,0.00,57.60,1.00,1.00,13472.00,6051.00,1527.00,2759.00,0.00,3135.00
+2015,12,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2543.00,616.00,175.78,20.93,223.43,0.00,195.86,7.00,7.00,39189.00,13089.00,2055.00,8720.00,0.00,15325.00
+2015,12,DL,Delta Air Lines Inc.,SJU,"San Juan, PR: Luis Munoz Marin International",295.00,59.00,22.71,6.15,26.28,0.93,2.92,1.00,2.00,3304.00,1060.00,987.00,974.00,41.00,242.00
+2015,12,DL,Delta Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",223.00,38.00,11.13,5.05,8.03,0.00,13.79,0.00,1.00,2985.00,769.00,565.00,609.00,0.00,1042.00
+2015,12,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",995.00,325.00,62.14,14.79,170.83,0.00,77.24,5.00,0.00,24762.00,4279.00,2272.00,11957.00,0.00,6254.00
+2015,12,DL,Delta Air Lines Inc.,BOS,"Boston, MA: Logan International",1061.00,181.00,56.65,11.00,56.64,1.00,55.70,2.00,0.00,12001.00,3671.00,981.00,2228.00,77.00,5044.00
+2015,12,DL,Delta Air Lines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",518.00,79.00,29.32,10.40,9.89,0.00,29.39,0.00,1.00,5090.00,1697.00,537.00,297.00,0.00,2559.00
+2015,12,DL,Delta Air Lines Inc.,MIA,"Miami, FL: Miami International",893.00,181.00,66.21,15.64,51.55,0.00,47.60,1.00,2.00,10467.00,3950.00,1893.00,1795.00,0.00,2829.00
+2015,12,DL,Delta Air Lines Inc.,TPA,"Tampa, FL: Tampa International",975.00,179.00,60.87,14.68,52.02,0.00,51.43,1.00,0.00,10298.00,3718.00,1735.00,1809.00,0.00,3036.00
+2015,12,DL,Delta Air Lines Inc.,LAS,"Las Vegas, NV: McCarran International",980.00,183.00,45.48,9.60,73.15,0.00,54.77,0.00,0.00,9686.00,2361.00,1268.00,2242.00,0.00,3815.00
+2015,12,DL,Delta Air Lines Inc.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",215.00,23.00,6.91,3.70,5.70,0.00,6.70,2.00,1.00,1156.00,323.00,368.00,154.00,0.00,311.00
+2015,12,DL,Delta Air Lines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",456.00,69.00,30.85,6.86,6.33,0.00,24.96,1.00,0.00,3723.00,1353.00,636.00,263.00,0.00,1471.00
+2015,12,DL,Delta Air Lines Inc.,MCO,"Orlando, FL: Orlando International",1482.00,265.00,82.47,20.57,91.35,0.00,70.60,1.00,0.00,15766.00,4545.00,2722.00,3416.00,0.00,5083.00
+2015,12,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK: Ted Stevens Anchorage International",117.00,28.00,14.39,0.04,4.14,0.00,9.42,0.00,0.00,1571.00,996.00,9.00,144.00,0.00,422.00
+2015,12,DL,Delta Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",732.00,144.00,42.57,9.85,56.96,0.00,34.62,3.00,7.00,8035.00,2011.00,931.00,2302.00,0.00,2791.00
+2015,12,DL,Delta Air Lines Inc.,DEN,"Denver, CO: Denver International",673.00,125.00,39.84,10.58,44.69,0.00,29.89,1.00,0.00,8027.00,2167.00,1276.00,2835.00,0.00,1749.00
+2015,12,DL,Delta Air Lines Inc.,LGA,"New York, NY: LaGuardia",2342.00,445.00,99.96,15.79,191.93,0.00,137.32,9.00,11.00,32539.00,9204.00,1694.00,11064.00,0.00,10577.00
+2015,12,DL,Delta Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",532.00,136.00,21.99,7.34,79.58,0.00,27.09,2.00,0.00,9542.00,1725.00,1091.00,5005.00,0.00,1721.00
+2015,12,DL,Delta Air Lines Inc.,IAD,"Washington, DC: Washington Dulles International",208.00,22.00,6.73,4.09,3.97,0.00,7.21,0.00,0.00,1345.00,231.00,567.00,126.00,0.00,421.00
+2015,12,DL,Delta Air Lines Inc.,STT,"Charlotte Amalie, VI: Cyril E King",90.00,23.00,6.44,3.99,9.79,0.00,2.78,2.00,0.00,1340.00,260.00,332.00,565.00,0.00,183.00
+2015,12,DL,Delta Air Lines Inc.,AVL,"Asheville, NC: Asheville Regional",47.00,6.00,2.00,3.49,0.16,0.00,0.36,1.00,0.00,1853.00,66.00,1767.00,10.00,0.00,10.00
+2015,12,DL,Delta Air Lines Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",31.00,8.00,2.89,2.76,1.27,0.00,1.07,0.00,0.00,529.00,178.00,200.00,32.00,0.00,119.00
+2015,12,DL,Delta Air Lines Inc.,SAN,"San Diego, CA: San Diego International",544.00,84.00,24.12,10.31,41.44,0.00,8.13,0.00,1.00,3445.00,1105.00,517.00,1409.00,0.00,414.00
+2015,12,DL,Delta Air Lines Inc.,BIL,"Billings, MT: Billings Logan International",66.00,12.00,4.45,1.00,5.55,0.00,1.00,0.00,0.00,518.00,274.00,72.00,150.00,0.00,22.00
+2015,12,DL,Delta Air Lines Inc.,CMH,"Columbus, OH: John Glenn Columbus International",270.00,38.00,17.49,5.35,2.97,0.00,12.19,0.00,1.00,1877.00,635.00,366.00,83.00,0.00,793.00
+2015,12,DL,Delta Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",575.00,91.00,20.64,13.35,37.33,1.00,18.69,4.00,1.00,5909.00,1602.00,1300.00,1854.00,92.00,1061.00
+2015,12,DL,Delta Air Lines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",274.00,40.00,14.59,6.84,8.53,0.00,10.04,0.00,0.00,2847.00,898.00,756.00,358.00,0.00,835.00
+2015,12,DL,Delta Air Lines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",224.00,40.00,15.73,4.73,9.89,0.00,9.65,1.00,0.00,2616.00,665.00,978.00,512.00,0.00,461.00
+2015,12,DL,Delta Air Lines Inc.,ECP,"Panama City, FL: Northwest Florida Beaches International",131.00,18.00,3.37,2.86,5.17,0.00,6.61,1.00,0.00,1193.00,168.00,325.00,169.00,0.00,531.00
+2015,12,DL,Delta Air Lines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",89.00,10.00,2.83,2.80,0.20,0.00,4.17,1.00,0.00,435.00,91.00,131.00,6.00,0.00,207.00
+2015,12,DL,Delta Air Lines Inc.,ORF,"Norfolk, VA: Norfolk International",204.00,27.00,10.44,7.19,1.60,0.00,7.77,0.00,0.00,1563.00,692.00,441.00,57.00,0.00,373.00
+2015,12,DL,Delta Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",418.00,115.00,22.91,6.49,67.85,0.00,17.75,2.00,0.00,7122.00,1922.00,571.00,3335.00,0.00,1294.00
+2015,12,DL,Delta Air Lines Inc.,HNL,"Honolulu, HI: Daniel K Inouye International",294.00,46.00,20.05,0.91,15.17,1.00,8.86,1.00,0.00,2333.00,997.00,36.00,427.00,34.00,839.00
+2015,12,DL,Delta Air Lines Inc.,PDX,"Portland, OR: Portland International",537.00,109.00,46.64,4.22,36.72,0.00,21.42,0.00,4.00,6690.00,3370.00,198.00,1377.00,0.00,1745.00
+2015,12,DL,Delta Air Lines Inc.,BZN,"Bozeman, MT: Bozeman Yellowstone International",69.00,20.00,8.08,2.86,5.00,0.00,4.06,0.00,1.00,1949.00,599.00,990.00,133.00,0.00,227.00
+2015,12,DL,Delta Air Lines Inc.,CAE,"Columbia, SC: Columbia Metropolitan",83.00,9.00,4.97,1.08,0.94,0.00,2.01,0.00,0.00,464.00,207.00,86.00,33.00,0.00,138.00
+2015,12,DL,Delta Air Lines Inc.,IND,"Indianapolis, IN: Indianapolis International",385.00,54.00,19.66,8.69,6.67,0.00,18.99,1.00,0.00,3354.00,955.00,700.00,306.00,0.00,1393.00
+2015,12,DL,Delta Air Lines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",596.00,102.00,34.00,10.38,27.26,0.00,30.37,2.00,1.00,6976.00,2222.00,1354.00,1129.00,0.00,2271.00
+2015,12,DL,Delta Air Lines Inc.,RIC,"Richmond, VA: Richmond International",214.00,32.00,12.68,5.41,4.69,0.00,9.22,1.00,0.00,1767.00,544.00,718.00,165.00,0.00,340.00
+2015,12,DL,Delta Air Lines Inc.,FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",47.00,7.00,2.00,2.52,0.28,0.00,2.20,1.00,0.00,350.00,45.00,143.00,8.00,0.00,154.00
+2015,12,DL,Delta Air Lines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",163.00,24.00,9.54,5.27,2.85,0.00,6.34,1.00,0.00,1991.00,824.00,411.00,138.00,0.00,618.00
+2015,12,DL,Delta Air Lines Inc.,ILM,"Wilmington, NC: Wilmington International",31.00,6.00,2.00,0.21,2.80,0.00,0.98,0.00,0.00,264.00,53.00,10.00,70.00,0.00,131.00
+2015,12,DL,Delta Air Lines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",160.00,19.00,8.80,2.42,1.24,0.00,6.54,1.00,0.00,1417.00,391.00,573.00,67.00,0.00,386.00
+2015,12,DL,Delta Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",537.00,70.00,22.76,8.76,15.12,0.00,23.37,2.00,0.00,4695.00,1426.00,894.00,646.00,0.00,1729.00
+2015,12,DL,Delta Air Lines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",130.00,9.00,2.68,2.44,1.64,0.00,2.25,0.00,0.00,679.00,154.00,245.00,65.00,0.00,215.00
+2015,12,DL,Delta Air Lines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",117.00,20.00,6.68,4.20,2.93,0.00,6.19,0.00,1.00,1957.00,285.00,1066.00,230.00,0.00,376.00
+2015,12,DL,Delta Air Lines Inc.,PNS,"Pensacola, FL: Pensacola International",205.00,36.00,10.32,5.83,6.34,0.00,13.50,2.00,1.00,1946.00,454.00,363.00,164.00,0.00,965.00
+2015,12,DL,Delta Air Lines Inc.,MDT,"Harrisburg, PA: Harrisburg International",57.00,8.00,3.68,2.19,1.32,0.00,0.81,0.00,0.00,470.00,176.00,225.00,26.00,0.00,43.00
+2015,12,DL,Delta Air Lines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",433.00,75.00,18.13,7.01,32.31,0.00,17.55,0.00,0.00,3814.00,800.00,689.00,1050.00,0.00,1275.00
+2015,12,DL,Delta Air Lines Inc.,TUS,"Tucson, AZ: Tucson International",69.00,8.00,2.22,1.35,2.69,0.00,1.73,0.00,0.00,502.00,160.00,139.00,83.00,0.00,120.00
+2015,12,DL,Delta Air Lines Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",35.00,2.00,0.00,0.00,2.00,0.00,0.00,0.00,0.00,31.00,0.00,0.00,31.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,PWM,"Portland, ME: Portland International Jetport",28.00,4.00,2.00,1.84,0.00,0.00,0.16,0.00,1.00,251.00,182.00,64.00,0.00,0.00,5.00
+2015,12,DL,Delta Air Lines Inc.,PVD,"Providence, RI: Theodore Francis Green State",138.00,15.00,7.02,2.00,2.57,0.00,3.42,1.00,0.00,1428.00,724.00,319.00,93.00,0.00,292.00
+2015,12,DL,Delta Air Lines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",101.00,12.00,3.63,0.40,3.00,0.00,4.97,1.00,0.00,878.00,312.00,30.00,96.00,0.00,440.00
+2015,12,DL,Delta Air Lines Inc.,BNA,"Nashville, TN: Nashville International",407.00,46.00,18.42,5.70,3.10,0.00,18.77,1.00,0.00,2947.00,1169.00,362.00,130.00,0.00,1286.00
+2015,12,DL,Delta Air Lines Inc.,JAX,"Jacksonville, FL: Jacksonville International",394.00,74.00,34.23,11.27,10.70,0.00,17.80,2.00,0.00,4445.00,1651.00,1061.00,492.00,0.00,1241.00
+2015,12,DL,Delta Air Lines Inc.,SAV,"Savannah, GA: Savannah/Hilton Head International",261.00,35.00,14.87,4.52,4.06,0.00,11.54,1.00,0.00,2651.00,831.00,622.00,157.00,0.00,1041.00
+2015,12,DL,Delta Air Lines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",221.00,25.00,12.46,4.45,1.36,0.00,6.73,0.00,1.00,1911.00,664.00,750.00,50.00,0.00,447.00
+2015,12,DL,Delta Air Lines Inc.,GRB,"Green Bay, WI: Green Bay Austin Straubel International",36.00,5.00,3.00,0.09,0.84,0.00,1.07,0.00,0.00,295.00,190.00,4.00,38.00,0.00,63.00
+2015,12,DL,Delta Air Lines Inc.,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",18.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,DAL,"Dallas, TX: Dallas Love Field",118.00,14.00,3.58,2.12,4.98,0.00,3.32,1.00,0.00,764.00,114.00,234.00,181.00,0.00,235.00
+2015,12,DL,Delta Air Lines Inc.,MEM,"Memphis, TN: Memphis International",332.00,45.00,14.11,10.02,7.45,0.00,13.43,2.00,0.00,2745.00,603.00,789.00,335.00,0.00,1018.00
+2015,12,DL,Delta Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1091.00,174.00,55.53,17.10,49.75,0.00,51.62,3.00,0.00,10880.00,3102.00,1892.00,1850.00,0.00,4036.00
+2015,12,DL,Delta Air Lines Inc.,TYS,"Knoxville, TN: McGhee Tyson",89.00,10.00,6.08,2.03,1.26,0.00,0.63,0.00,0.00,477.00,246.00,137.00,72.00,0.00,22.00
+2015,12,DL,Delta Air Lines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",336.00,45.00,16.34,5.00,9.35,0.00,14.31,2.00,0.00,2709.00,887.00,318.00,289.00,0.00,1215.00
+2015,12,DL,Delta Air Lines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",205.00,30.00,10.22,3.41,3.41,0.00,12.96,0.00,0.00,2009.00,358.00,356.00,139.00,0.00,1156.00
+2015,12,DL,Delta Air Lines Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",209.00,21.00,6.94,6.02,3.49,0.00,4.56,1.00,1.00,1246.00,406.00,465.00,98.00,0.00,277.00
+2015,12,DL,Delta Air Lines Inc.,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",119.00,18.00,5.22,2.87,3.12,0.00,6.80,0.00,1.00,1329.00,292.00,494.00,115.00,0.00,428.00
+2015,12,DL,Delta Air Lines Inc.,BOI,"Boise, ID: Boise Air Terminal",56.00,9.00,2.65,0.42,5.13,0.00,0.80,0.00,0.00,266.00,53.00,40.00,153.00,0.00,20.00
+2015,12,DL,Delta Air Lines Inc.,OMA,"Omaha, NE: Eppley Airfield",180.00,21.00,10.91,2.82,2.50,0.00,4.76,1.00,0.00,1791.00,755.00,589.00,167.00,0.00,280.00
+2015,12,DL,Delta Air Lines Inc.,RNO,"Reno, NV: Reno/Tahoe International",86.00,15.00,2.68,1.08,6.45,0.00,4.79,0.00,0.00,715.00,91.00,43.00,216.00,0.00,365.00
+2015,12,DL,Delta Air Lines Inc.,CHA,"Chattanooga, TN: Lovell Field",48.00,6.00,3.26,0.55,0.00,0.00,2.19,0.00,0.00,723.00,352.00,21.00,1.00,0.00,349.00
+2015,12,DL,Delta Air Lines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",127.00,15.00,9.22,1.03,1.86,0.00,2.89,1.00,0.00,667.00,427.00,47.00,52.00,0.00,141.00
+2015,12,DL,Delta Air Lines Inc.,CHS,"Charleston, SC: Charleston AFB/International",295.00,36.00,13.35,6.60,7.49,0.00,8.56,0.00,0.00,1888.00,755.00,393.00,296.00,0.00,444.00
+2015,12,DL,Delta Air Lines Inc.,EYW,"Key West, FL: Key West International",86.00,12.00,3.74,1.93,1.89,0.00,4.44,1.00,0.00,822.00,186.00,151.00,109.00,0.00,376.00
+2015,12,DL,Delta Air Lines Inc.,TLH,"Tallahassee, FL: Tallahassee International",88.00,4.00,0.00,1.30,0.11,0.00,2.59,0.00,0.00,442.00,0.00,193.00,14.00,0.00,235.00
+2015,12,DL,Delta Air Lines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",690.00,127.00,43.86,8.69,43.33,0.00,31.11,0.00,0.00,6808.00,2859.00,635.00,1479.00,0.00,1835.00
+2015,12,DL,Delta Air Lines Inc.,ROC,"Rochester, NY: Greater Rochester International",124.00,18.00,5.54,2.29,1.45,0.00,8.73,0.00,1.00,1491.00,308.00,103.00,37.00,0.00,1043.00
+2015,12,DL,Delta Air Lines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",88.00,21.00,8.14,0.36,9.70,0.00,2.80,0.00,0.00,797.00,403.00,6.00,292.00,0.00,96.00
+2015,12,DL,Delta Air Lines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",155.00,27.00,12.57,3.48,1.82,0.00,9.13,0.00,0.00,1543.00,559.00,425.00,42.00,0.00,517.00
+2015,12,DL,Delta Air Lines Inc.,HOU,"Houston, TX: William P Hobby",157.00,16.00,4.23,3.16,2.26,0.00,6.35,0.00,0.00,1076.00,142.00,188.00,71.00,0.00,675.00
+2015,12,DL,Delta Air Lines Inc.,STL,"St. Louis, MO: St Louis Lambert International",401.00,53.00,26.29,4.50,9.49,0.00,12.72,2.00,1.00,3363.00,1374.00,621.00,360.00,0.00,1008.00
+2015,12,DL,Delta Air Lines Inc.,BDL,"Hartford, CT: Bradley International",342.00,55.00,24.34,6.52,10.06,0.00,14.09,0.00,0.00,3000.00,1248.00,422.00,385.00,0.00,945.00
+2015,12,DL,Delta Air Lines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",127.00,34.00,13.95,2.50,8.77,0.00,8.78,0.00,0.00,2115.00,818.00,366.00,291.00,0.00,640.00
+2015,12,DL,Delta Air Lines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",173.00,17.00,6.27,2.34,1.06,0.00,7.33,0.00,0.00,1169.00,466.00,91.00,118.00,0.00,494.00
+2015,12,DL,Delta Air Lines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",159.00,19.00,3.95,4.23,2.99,0.00,7.83,0.00,0.00,1378.00,231.00,438.00,112.00,0.00,597.00
+2015,12,DL,Delta Air Lines Inc.,GEG,"Spokane, WA: Spokane International",108.00,16.00,4.85,0.32,9.03,0.00,1.80,0.00,0.00,762.00,373.00,7.00,279.00,0.00,103.00
+2015,12,DL,Delta Air Lines Inc.,MKE,"Milwaukee, WI: General Mitchell International",431.00,37.00,11.87,6.54,8.00,0.00,10.59,1.00,0.00,2544.00,593.00,463.00,271.00,0.00,1217.00
+2015,12,DL,Delta Air Lines Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",221.00,21.00,7.61,2.71,3.43,0.00,7.26,1.00,0.00,1174.00,394.00,191.00,129.00,0.00,460.00
+2015,12,DL,Delta Air Lines Inc.,DSM,"Des Moines, IA: Des Moines International",51.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,23.00,23.00,0.00,0.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,ALB,"Albany, NY: Albany International",129.00,16.00,7.67,1.06,3.23,0.00,4.04,0.00,0.00,1356.00,388.00,165.00,123.00,0.00,680.00
+2015,12,DL,Delta Air Lines Inc.,MYR,"Myrtle Beach, SC: Myrtle Beach International",40.00,5.00,1.92,1.16,0.30,0.00,1.62,1.00,0.00,235.00,74.00,49.00,9.00,0.00,103.00
+2015,12,DL,Delta Air Lines Inc.,SAT,"San Antonio, TX: San Antonio International",240.00,30.00,11.36,3.30,5.65,0.00,9.69,1.00,0.00,2484.00,979.00,301.00,179.00,0.00,1025.00
+2015,12,DL,Delta Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway International",174.00,18.00,9.16,0.33,2.83,0.00,5.68,0.00,0.00,774.00,440.00,11.00,102.00,0.00,221.00
+2015,12,DL,Delta Air Lines Inc.,FSD,"Sioux Falls, SD: Joe Foss Field",62.00,11.00,1.87,0.00,7.16,0.00,1.97,0.00,0.00,492.00,183.00,0.00,238.00,0.00,71.00
+2015,12,DL,Delta Air Lines Inc.,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",185.00,33.00,15.99,0.18,9.16,0.00,7.67,1.00,0.00,2328.00,1477.00,12.00,320.00,0.00,519.00
+2015,12,DL,Delta Air Lines Inc.,ATW,"Appleton, WI: Appleton International",50.00,8.00,3.96,1.36,1.84,0.00,0.84,0.00,0.00,661.00,392.00,80.00,58.00,0.00,131.00
+2015,12,DL,Delta Air Lines Inc.,LIH,"Lihue, HI: Lihue Airport",31.00,6.00,3.86,0.00,1.00,0.00,1.14,0.00,0.00,529.00,346.00,0.00,24.00,0.00,159.00
+2015,12,DL,Delta Air Lines Inc.,SMF,"Sacramento, CA: Sacramento International",167.00,27.00,13.73,0.76,11.47,0.00,1.05,1.00,0.00,1412.00,876.00,41.00,441.00,0.00,54.00
+2015,12,DL,Delta Air Lines Inc.,FAR,"Fargo, ND: Hector International",76.00,12.00,4.27,0.22,3.89,0.00,3.62,1.00,0.00,497.00,196.00,16.00,133.00,0.00,152.00
+2015,12,DL,Delta Air Lines Inc.,FNT,"Flint, MI: Bishop International",86.00,11.00,3.98,2.03,1.57,0.00,3.43,1.00,1.00,1297.00,79.00,836.00,31.00,0.00,351.00
+2015,12,DL,Delta Air Lines Inc.,OGG,"Kahului, HI: Kahului Airport",82.00,16.00,9.43,0.00,3.57,0.00,3.00,0.00,0.00,629.00,437.00,0.00,93.00,0.00,99.00
+2015,12,DL,Delta Air Lines Inc.,SGF,"Springfield, MO: Springfield-Branson National",31.00,5.00,2.52,1.19,0.48,0.00,0.81,0.00,0.00,292.00,198.00,32.00,41.00,0.00,21.00
+2015,12,DL,Delta Air Lines Inc.,MLB,"Melbourne, FL: Melbourne International",105.00,20.00,6.89,1.99,1.45,0.00,9.67,0.00,0.00,1256.00,359.00,68.00,70.00,0.00,759.00
+2015,12,DL,Delta Air Lines Inc.,TUL,"Tulsa, OK: Tulsa International",95.00,3.00,2.00,0.56,0.00,0.00,0.44,0.00,0.00,89.00,71.00,10.00,0.00,0.00,8.00
+2015,12,DL,Delta Air Lines Inc.,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",213.00,30.00,13.52,2.67,7.77,0.00,6.04,1.00,4.00,1637.00,577.00,267.00,246.00,0.00,547.00
+2015,12,DL,Delta Air Lines Inc.,MHT,"Manchester, NH: Manchester-Boston Regional",30.00,3.00,0.76,1.00,0.24,0.00,1.00,1.00,0.00,121.00,65.00,20.00,21.00,0.00,15.00
+2015,12,DL,Delta Air Lines Inc.,RAP,"Rapid City, SD: Rapid City Regional",18.00,3.00,1.00,2.00,0.00,0.00,0.00,0.00,1.00,906.00,20.00,886.00,0.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,CAK,"Akron, OH: Akron-Canton Regional",105.00,7.00,0.65,1.22,0.41,0.00,4.71,0.00,1.00,721.00,40.00,126.00,24.00,0.00,531.00
+2015,12,DL,Delta Air Lines Inc.,DLH,"Duluth, MN: Duluth International",18.00,2.00,1.48,0.00,0.52,0.00,0.00,0.00,0.00,75.00,64.00,0.00,11.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",27.00,6.00,2.54,0.00,2.94,0.00,0.52,0.00,0.00,322.00,184.00,0.00,108.00,0.00,30.00
+2015,12,DL,Delta Air Lines Inc.,ELP,"El Paso, TX: El Paso International",67.00,11.00,5.69,2.61,2.14,0.00,0.56,0.00,0.00,1120.00,334.00,713.00,61.00,0.00,12.00
+2015,12,DL,Delta Air Lines Inc.,MOB,"Mobile, AL: Mobile Regional",18.00,1.00,0.67,0.00,0.33,0.00,0.00,0.00,0.00,30.00,20.00,0.00,10.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,DAB,"Daytona Beach, FL: Daytona Beach International",128.00,24.00,6.68,2.79,1.65,0.00,12.88,0.00,0.00,1801.00,239.00,334.00,107.00,0.00,1121.00
+2015,12,DL,Delta Air Lines Inc.,LEX,"Lexington, KY: Blue Grass",87.00,8.00,3.08,1.28,1.00,0.00,2.63,0.00,0.00,565.00,221.00,64.00,37.00,0.00,243.00
+2015,12,DL,Delta Air Lines Inc.,BGR,"Bangor, ME: Bangor International",11.00,3.00,2.00,0.00,0.00,0.00,1.00,0.00,0.00,75.00,38.00,0.00,0.00,0.00,37.00
+2015,12,DL,Delta Air Lines Inc.,CRW,"Charleston/Dunbar, WV: Yeager",17.00,1.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,44.00,0.00,0.00,0.00,0.00,44.00
+2015,12,DL,Delta Air Lines Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",48.00,3.00,1.65,0.76,0.59,0.00,0.00,0.00,0.00,135.00,55.00,45.00,35.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",28.00,7.00,4.90,0.54,0.75,0.00,0.81,0.00,0.00,655.00,418.00,55.00,43.00,0.00,139.00
+2015,12,DL,Delta Air Lines Inc.,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",44.00,6.00,3.00,0.00,0.10,0.00,2.90,0.00,0.00,566.00,487.00,0.00,3.00,0.00,76.00
+2015,12,DL,Delta Air Lines Inc.,ONT,"Ontario, CA: Ontario International",41.00,9.00,1.18,0.08,6.08,0.00,1.66,0.00,0.00,284.00,53.00,3.00,153.00,0.00,75.00
+2015,12,DL,Delta Air Lines Inc.,GNV,"Gainesville, FL: Gainesville Regional",34.00,5.00,2.31,0.44,0.41,0.00,1.84,0.00,0.00,137.00,79.00,8.00,14.00,0.00,36.00
+2015,12,DL,Delta Air Lines Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",86.00,9.00,4.30,0.12,0.45,0.00,4.13,1.00,0.00,664.00,194.00,26.00,26.00,0.00,418.00
+2015,12,DL,Delta Air Lines Inc.,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",31.00,3.00,2.00,0.15,0.03,0.00,0.83,0.00,0.00,312.00,209.00,15.00,3.00,0.00,85.00
+2015,12,DL,Delta Air Lines Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",31.00,5.00,3.56,1.08,0.22,0.00,0.14,0.00,2.00,705.00,155.00,537.00,8.00,0.00,5.00
+2015,12,DL,Delta Air Lines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas Regional",44.00,3.00,1.00,0.27,0.13,0.00,1.60,0.00,0.00,126.00,16.00,14.00,10.00,0.00,86.00
+2015,12,DL,Delta Air Lines Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",18.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,MSO,"Missoula, MT: Missoula International",41.00,6.00,2.03,0.00,2.00,0.00,1.97,0.00,0.00,153.00,52.00,0.00,51.00,0.00,50.00
+2015,12,DL,Delta Air Lines Inc.,EVV,"Evansville, IN: Evansville Regional",31.00,4.00,1.00,0.28,0.16,0.00,2.57,0.00,1.00,326.00,52.00,11.00,9.00,0.00,254.00
+2015,12,DL,Delta Air Lines Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",29.00,3.00,0.00,0.69,0.14,0.00,2.18,0.00,1.00,177.00,0.00,51.00,11.00,0.00,115.00
+2015,12,DL,Delta Air Lines Inc.,JNU,"Juneau, AK: Juneau International",31.00,4.00,1.11,0.98,0.24,0.00,1.66,0.00,1.00,853.00,68.00,666.00,25.00,0.00,94.00
+2015,12,DL,Delta Air Lines Inc.,JAC,"Jackson, WY: Jackson Hole",67.00,13.00,4.09,1.30,3.82,0.00,3.79,0.00,0.00,1248.00,164.00,734.00,195.00,0.00,155.00
+2015,12,DL,Delta Air Lines Inc.,HDN,"Hayden, CO: Yampa Valley",13.00,2.00,0.00,0.30,0.05,0.00,1.65,0.00,0.00,293.00,0.00,33.00,2.00,0.00,258.00
+2015,12,DL,Delta Air Lines Inc.,MTJ,"Montrose/Delta, CO: Montrose Regional",12.00,4.00,0.22,1.19,0.31,0.00,2.28,0.00,0.00,408.00,4.00,264.00,32.00,0.00,108.00
+2015,12,DL,Delta Air Lines Inc.,PSP,"Palm Springs, CA: Palm Springs International",12.00,3.00,0.57,0.00,2.43,0.00,0.00,0.00,0.00,55.00,13.00,0.00,42.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,EGE,"Eagle, CO: Eagle County Regional",12.00,2.00,0.00,0.27,1.73,0.00,0.00,0.00,0.00,69.00,0.00,6.00,63.00,0.00,0.00
+2015,12,DL,Delta Air Lines Inc.,STX,"Christiansted, VI: Henry E. Rohlsen",4.00,3.00,0.00,0.65,1.97,0.00,0.38,0.00,0.00,142.00,0.00,45.00,88.00,0.00,9.00
+2015,12,DL,Delta Air Lines Inc.,TVC,"Traverse City, MI: Cherry Capital",1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",550.00,104.00,44.12,0.78,18.66,0.00,40.44,14.00,0.00,7007.00,3060.00,79.00,889.00,0.00,2979.00
+2015,12,EV,ExpressJet Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",2730.00,365.00,103.36,0.00,55.35,0.00,206.28,97.00,15.00,35028.00,14638.00,0.00,2983.00,0.00,17407.00
+2015,12,EV,ExpressJet Airlines Inc.,TYR,"Tyler, TX: Tyler Pounds Regional",176.00,10.00,2.71,0.00,4.15,0.00,3.14,3.00,0.00,782.00,186.00,0.00,232.00,0.00,364.00
+2015,12,EV,ExpressJet Airlines Inc.,FSM,"Fort Smith, AR: Fort Smith Regional",148.00,33.00,13.50,0.00,5.04,0.00,14.47,3.00,0.00,3101.00,1793.00,0.00,143.00,0.00,1165.00
+2015,12,EV,ExpressJet Airlines Inc.,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",229.00,35.00,13.39,1.00,9.95,0.00,10.66,8.00,0.00,2072.00,1200.00,32.00,382.00,0.00,458.00
+2015,12,EV,ExpressJet Airlines Inc.,MEI,"Meridian, MS: Key Field",86.00,17.00,8.97,0.00,4.83,0.00,3.20,0.00,2.00,1167.00,813.00,0.00,224.00,0.00,130.00
+2015,12,EV,ExpressJet Airlines Inc.,PIB,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",54.00,5.00,0.42,0.00,0.61,0.00,3.97,0.00,1.00,355.00,33.00,0.00,48.00,0.00,274.00
+2015,12,EV,ExpressJet Airlines Inc.,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",300.00,54.00,23.88,0.00,14.04,0.00,16.08,11.00,3.00,3073.00,1539.00,0.00,466.00,0.00,1068.00
+2015,12,EV,ExpressJet Airlines Inc.,GRK,"Killeen, TX: Robert Gray AAF",260.00,44.00,17.97,0.00,8.02,0.00,18.01,7.00,0.00,2873.00,1512.00,0.00,275.00,0.00,1086.00
+2015,12,EV,ExpressJet Airlines Inc.,TYS,"Knoxville, TN: McGhee Tyson",440.00,109.00,42.16,0.30,22.12,0.00,44.43,13.00,1.00,7179.00,3238.00,46.00,815.00,0.00,3080.00
+2015,12,EV,ExpressJet Airlines Inc.,ACT,"Waco, TX: Waco Regional",146.00,19.00,7.50,0.00,2.23,0.00,9.27,1.00,0.00,1062.00,404.00,0.00,168.00,0.00,490.00
+2015,12,EV,ExpressJet Airlines Inc.,BRO,"Brownsville, TX: Brownsville South Padre Island International",181.00,16.00,5.32,0.00,5.57,0.00,5.11,13.00,4.00,863.00,446.00,0.00,168.00,0.00,249.00
+2015,12,EV,ExpressJet Airlines Inc.,ROW,"Roswell, NM: Roswell International Air Center",2.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,74.00,74.00,0.00,0.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,AEX,"Alexandria, LA: Alexandria International",225.00,45.00,19.91,0.00,7.72,0.00,17.37,4.00,0.00,2895.00,1113.00,0.00,212.00,0.00,1570.00
+2015,12,EV,ExpressJet Airlines Inc.,BPT,"Beaumont/Port Arthur, TX: Jack Brooks Regional",89.00,19.00,12.56,0.00,2.79,0.00,3.65,5.00,0.00,2089.00,1349.00,0.00,233.00,0.00,507.00
+2015,12,EV,ExpressJet Airlines Inc.,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",47.00,4.00,1.43,0.86,1.71,0.00,0.00,4.00,0.00,276.00,40.00,166.00,70.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",89.00,6.00,4.00,0.00,0.00,0.00,2.00,5.00,0.00,211.00,124.00,0.00,0.00,0.00,87.00
+2015,12,EV,ExpressJet Airlines Inc.,LRD,"Laredo, TX: Laredo International",144.00,24.00,12.65,0.94,3.27,0.00,7.15,4.00,1.00,1495.00,879.00,102.00,237.00,0.00,277.00
+2015,12,EV,ExpressJet Airlines Inc.,PIA,"Peoria, IL: General Downing - Peoria International",255.00,39.00,16.05,0.87,8.48,0.00,13.60,9.00,4.00,1886.00,927.00,34.00,329.00,0.00,596.00
+2015,12,EV,ExpressJet Airlines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",181.00,23.00,9.19,0.00,5.75,0.00,8.05,3.00,0.00,1090.00,506.00,0.00,245.00,0.00,339.00
+2015,12,EV,ExpressJet Airlines Inc.,PNS,"Pensacola, FL: Pensacola International",177.00,29.00,7.07,1.48,12.49,0.00,7.97,6.00,0.00,1249.00,416.00,58.00,489.00,0.00,286.00
+2015,12,EV,ExpressJet Airlines Inc.,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",148.00,26.00,8.35,0.97,7.94,0.00,8.75,5.00,2.00,1215.00,527.00,34.00,267.00,0.00,387.00
+2015,12,EV,ExpressJet Airlines Inc.,MLU,"Monroe, LA: Monroe Regional",256.00,40.00,12.53,0.17,8.20,0.00,19.10,4.00,0.00,2549.00,831.00,19.00,377.00,0.00,1322.00
+2015,12,EV,ExpressJet Airlines Inc.,TXK,"Texarkana, AR: Texarkana Regional-Webb Field",89.00,17.00,10.65,0.00,3.96,0.00,2.39,3.00,0.00,884.00,561.00,0.00,198.00,0.00,125.00
+2015,12,EV,ExpressJet Airlines Inc.,CAE,"Columbia, SC: Columbia Metropolitan",342.00,89.00,36.87,2.90,21.28,0.00,27.95,5.00,1.00,6816.00,2831.00,416.00,792.00,0.00,2777.00
+2015,12,EV,ExpressJet Airlines Inc.,JLN,"Joplin, MO: Joplin Regional",62.00,8.00,3.31,0.00,0.20,0.00,4.50,1.00,0.00,1062.00,617.00,0.00,17.00,0.00,428.00
+2015,12,EV,ExpressJet Airlines Inc.,SHV,"Shreveport, LA: Shreveport Regional",488.00,80.00,37.78,0.75,12.88,0.00,28.60,9.00,3.00,5034.00,2316.00,81.00,477.00,0.00,2160.00
+2015,12,EV,ExpressJet Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",161.00,16.00,5.72,0.96,3.25,0.00,6.07,3.00,1.00,1185.00,571.00,104.00,172.00,0.00,338.00
+2015,12,EV,ExpressJet Airlines Inc.,HOU,"Houston, TX: William P Hobby",69.00,18.00,9.10,0.00,2.42,0.00,6.48,1.00,0.00,1560.00,868.00,0.00,128.00,0.00,564.00
+2015,12,EV,ExpressJet Airlines Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",196.00,32.00,11.25,1.58,8.62,0.00,10.56,8.00,0.00,1536.00,527.00,53.00,339.00,0.00,617.00
+2015,12,EV,ExpressJet Airlines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",392.00,69.00,34.62,1.59,9.75,0.00,23.04,11.00,2.00,4512.00,2506.00,29.00,459.00,0.00,1518.00
+2015,12,EV,ExpressJet Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",3102.00,803.00,88.55,10.39,472.90,0.00,231.17,198.00,7.00,52489.00,6312.00,786.00,30878.00,0.00,14513.00
+2015,12,EV,ExpressJet Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",3746.00,667.00,92.28,17.00,294.28,0.00,263.44,175.00,9.00,39242.00,7895.00,1760.00,14070.00,0.00,15517.00
+2015,12,EV,ExpressJet Airlines Inc.,BTV,"Burlington, VT: Burlington International",258.00,48.00,14.46,0.83,9.64,0.00,23.08,11.00,2.00,2929.00,948.00,20.00,524.00,0.00,1437.00
+2015,12,EV,ExpressJet Airlines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",818.00,129.00,38.42,0.00,27.62,0.00,62.96,25.00,3.00,9754.00,4097.00,0.00,1375.00,0.00,4282.00
+2015,12,EV,ExpressJet Airlines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",304.00,55.00,19.58,2.39,14.86,0.00,18.17,10.00,3.00,3130.00,1343.00,177.00,553.00,0.00,1057.00
+2015,12,EV,ExpressJet Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",221.00,59.00,12.54,0.39,24.56,0.00,21.50,9.00,0.00,3117.00,1054.00,20.00,828.00,0.00,1215.00
+2015,12,EV,ExpressJet Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",4198.00,636.00,111.78,18.33,293.12,0.00,212.76,129.00,22.00,42039.00,10824.00,1749.00,16126.00,0.00,13340.00
+2015,12,EV,ExpressJet Airlines Inc.,SAV,"Savannah, GA: Savannah/Hilton Head International",209.00,49.00,12.04,1.10,20.72,0.00,15.15,8.00,0.00,2614.00,588.00,27.00,725.00,0.00,1274.00
+2015,12,EV,ExpressJet Airlines Inc.,TVC,"Traverse City, MI: Cherry Capital",103.00,21.00,5.17,1.12,7.02,0.00,7.68,4.00,0.00,945.00,301.00,71.00,268.00,0.00,305.00
+2015,12,EV,ExpressJet Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",316.00,80.00,27.64,2.60,28.40,0.00,21.36,8.00,2.00,4619.00,1787.00,139.00,1031.00,0.00,1662.00
+2015,12,EV,ExpressJet Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",18.00,4.00,2.80,0.00,0.88,0.00,0.32,1.00,0.00,293.00,215.00,0.00,59.00,0.00,19.00
+2015,12,EV,ExpressJet Airlines Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",85.00,12.00,1.79,0.00,1.42,0.00,8.79,3.00,0.00,479.00,93.00,0.00,40.00,0.00,346.00
+2015,12,EV,ExpressJet Airlines Inc.,ERI,"Erie, PA: Erie International/Tom Ridge Field",57.00,7.00,1.12,0.00,2.69,0.00,3.19,2.00,1.00,419.00,42.00,0.00,235.00,0.00,142.00
+2015,12,EV,ExpressJet Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",1586.00,223.00,63.77,0.00,54.09,0.00,105.14,27.00,2.00,16907.00,7817.00,0.00,1826.00,0.00,7264.00
+2015,12,EV,ExpressJet Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell International",178.00,26.00,3.66,0.33,8.21,0.00,13.80,5.00,2.00,1414.00,367.00,83.00,295.00,0.00,669.00
+2015,12,EV,ExpressJet Airlines Inc.,BOS,"Boston, MA: Logan International",152.00,20.00,9.56,0.00,7.17,0.00,3.27,1.00,0.00,1765.00,1350.00,0.00,303.00,0.00,112.00
+2015,12,EV,ExpressJet Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",126.00,22.00,8.21,0.00,8.00,0.00,5.79,6.00,0.00,1510.00,443.00,0.00,335.00,0.00,732.00
+2015,12,EV,ExpressJet Airlines Inc.,TUL,"Tulsa, OK: Tulsa International",283.00,60.00,24.85,0.60,16.41,0.00,18.14,4.00,0.00,3867.00,1604.00,12.00,935.00,0.00,1316.00
+2015,12,EV,ExpressJet Airlines Inc.,TLH,"Tallahassee, FL: Tallahassee International",162.00,34.00,19.85,0.00,3.40,0.00,10.75,2.00,0.00,2930.00,1489.00,0.00,289.00,0.00,1152.00
+2015,12,EV,ExpressJet Airlines Inc.,CHA,"Chattanooga, TN: Lovell Field",293.00,59.00,23.85,0.00,4.61,0.00,30.54,4.00,1.00,3578.00,1397.00,0.00,207.00,0.00,1974.00
+2015,12,EV,ExpressJet Airlines Inc.,CHS,"Charleston, SC: Charleston AFB/International",255.00,47.00,15.50,1.25,16.23,0.00,14.02,11.00,0.00,2431.00,875.00,190.00,564.00,0.00,802.00
+2015,12,EV,ExpressJet Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",5331.00,1202.00,293.27,0.00,301.83,0.00,606.90,105.00,24.00,102394.00,36588.00,0.00,14504.00,0.00,51302.00
+2015,12,EV,ExpressJet Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",146.00,36.00,5.70,1.41,13.57,0.00,15.32,11.00,1.00,1891.00,320.00,187.00,426.00,0.00,958.00
+2015,12,EV,ExpressJet Airlines Inc.,SBN,"South Bend, IN: South Bend International",75.00,20.00,4.75,1.16,6.70,0.00,7.39,5.00,0.00,1140.00,418.00,26.00,249.00,0.00,447.00
+2015,12,EV,ExpressJet Airlines Inc.,FNT,"Flint, MI: Bishop International",83.00,15.00,3.54,1.00,6.17,0.00,4.30,7.00,1.00,833.00,303.00,27.00,196.00,0.00,307.00
+2015,12,EV,ExpressJet Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",314.00,64.00,15.01,3.90,19.72,0.00,25.38,16.00,3.00,3748.00,837.00,400.00,827.00,0.00,1684.00
+2015,12,EV,ExpressJet Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",195.00,32.00,8.57,1.61,15.96,0.00,5.86,15.00,1.00,1845.00,794.00,113.00,492.00,0.00,446.00
+2015,12,EV,ExpressJet Airlines Inc.,RIC,"Richmond, VA: Richmond International",502.00,126.00,40.00,0.00,36.29,0.00,49.71,20.00,2.00,8786.00,2726.00,0.00,1359.00,0.00,4701.00
+2015,12,EV,ExpressJet Airlines Inc.,SPI,"Springfield, IL: Abraham Lincoln Capital",57.00,12.00,7.27,0.00,1.44,0.00,3.29,1.00,0.00,506.00,244.00,0.00,32.00,0.00,230.00
+2015,12,EV,ExpressJet Airlines Inc.,ROC,"Rochester, NY: Greater Rochester International",115.00,23.00,8.42,1.00,3.84,0.00,9.74,4.00,0.00,1560.00,480.00,18.00,144.00,0.00,918.00
+2015,12,EV,ExpressJet Airlines Inc.,LGA,"New York, NY: LaGuardia",763.00,144.00,48.70,0.00,51.93,0.00,43.37,44.00,7.00,11728.00,4708.00,0.00,3954.00,0.00,3066.00
+2015,12,EV,ExpressJet Airlines Inc.,LEX,"Lexington, KY: Blue Grass",271.00,39.00,17.23,0.50,6.70,0.00,14.57,5.00,1.00,1877.00,1035.00,10.00,210.00,0.00,622.00
+2015,12,EV,ExpressJet Airlines Inc.,HPN,"White Plains, NY: Westchester County",199.00,41.00,24.10,1.68,7.51,0.00,7.71,14.00,9.00,2062.00,1157.00,174.00,243.00,0.00,488.00
+2015,12,EV,ExpressJet Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",60.00,15.00,6.62,1.09,2.36,0.00,4.93,3.00,0.00,1001.00,465.00,42.00,123.00,0.00,371.00
+2015,12,EV,ExpressJet Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",214.00,35.00,13.17,0.16,12.15,0.00,9.52,5.00,1.00,1997.00,761.00,3.00,560.00,0.00,673.00
+2015,12,EV,ExpressJet Airlines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas Regional",234.00,44.00,14.65,4.18,14.48,0.00,10.70,7.00,2.00,2590.00,619.00,717.00,732.00,0.00,522.00
+2015,12,EV,ExpressJet Airlines Inc.,ALB,"Albany, NY: Albany International",78.00,14.00,3.24,0.41,3.72,0.00,6.64,5.00,0.00,533.00,96.00,32.00,122.00,0.00,283.00
+2015,12,EV,ExpressJet Airlines Inc.,CLL,"College Station/Bryan, TX: Easterwood Field",56.00,4.00,1.64,0.00,1.18,0.00,1.19,1.00,0.00,265.00,65.00,0.00,137.00,0.00,63.00
+2015,12,EV,ExpressJet Airlines Inc.,MEM,"Memphis, TN: Memphis International",230.00,47.00,13.66,2.00,22.40,0.00,8.93,6.00,0.00,2119.00,672.00,117.00,874.00,0.00,456.00
+2015,12,EV,ExpressJet Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",354.00,67.00,25.55,1.22,16.79,0.00,23.44,6.00,1.00,3703.00,1565.00,68.00,605.00,0.00,1465.00
+2015,12,EV,ExpressJet Airlines Inc.,MCO,"Orlando, FL: Orlando International",5.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",246.00,59.00,25.60,0.14,17.47,0.00,15.79,12.00,1.00,3116.00,1216.00,11.00,759.00,0.00,1130.00
+2015,12,EV,ExpressJet Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",189.00,27.00,5.76,0.40,11.49,0.00,9.35,5.00,0.00,1092.00,322.00,38.00,334.00,0.00,398.00
+2015,12,EV,ExpressJet Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",295.00,66.00,23.55,1.60,17.72,0.00,23.13,11.00,0.00,3266.00,1290.00,197.00,583.00,0.00,1196.00
+2015,12,EV,ExpressJet Airlines Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",153.00,35.00,7.99,0.88,14.59,0.00,11.53,4.00,0.00,1788.00,481.00,50.00,508.00,0.00,749.00
+2015,12,EV,ExpressJet Airlines Inc.,AMA,"Amarillo, TX: Rick Husband Amarillo International",65.00,2.00,0.20,0.00,0.80,0.00,1.00,7.00,0.00,32.00,3.00,0.00,12.00,0.00,17.00
+2015,12,EV,ExpressJet Airlines Inc.,STL,"St. Louis, MO: St Louis Lambert International",279.00,60.00,15.70,0.00,25.19,0.00,19.11,11.00,1.00,2694.00,965.00,0.00,854.00,0.00,875.00
+2015,12,EV,ExpressJet Airlines Inc.,CAK,"Akron, OH: Akron-Canton Regional",172.00,29.00,9.42,1.00,9.49,0.00,9.09,11.00,1.00,1475.00,516.00,53.00,306.00,0.00,600.00
+2015,12,EV,ExpressJet Airlines Inc.,BNA,"Nashville, TN: Nashville International",234.00,53.00,14.93,1.87,17.22,0.00,18.97,13.00,0.00,2937.00,987.00,108.00,651.00,0.00,1191.00
+2015,12,EV,ExpressJet Airlines Inc.,PWM,"Portland, ME: Portland International Jetport",194.00,47.00,18.24,0.96,9.21,0.00,18.59,9.00,1.00,2673.00,1207.00,117.00,505.00,0.00,844.00
+2015,12,EV,ExpressJet Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",168.00,21.00,7.16,0.39,5.61,0.00,7.84,6.00,0.00,864.00,297.00,14.00,157.00,0.00,396.00
+2015,12,EV,ExpressJet Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",183.00,30.00,10.79,1.05,6.94,0.00,11.22,7.00,0.00,1470.00,615.00,30.00,257.00,0.00,568.00
+2015,12,EV,ExpressJet Airlines Inc.,SAF,"Santa Fe, NM: Santa Fe Municipal",31.00,5.00,2.99,0.00,0.93,0.00,1.08,1.00,0.00,285.00,219.00,0.00,28.00,0.00,38.00
+2015,12,EV,ExpressJet Airlines Inc.,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",134.00,25.00,8.01,3.62,4.77,0.00,8.60,3.00,0.00,1429.00,485.00,361.00,168.00,0.00,415.00
+2015,12,EV,ExpressJet Airlines Inc.,BDL,"Hartford, CT: Bradley International",78.00,18.00,6.10,0.61,3.98,0.00,7.30,2.00,0.00,960.00,505.00,30.00,112.00,0.00,313.00
+2015,12,EV,ExpressJet Airlines Inc.,MHT,"Manchester, NH: Manchester-Boston Regional",130.00,17.00,3.68,2.20,5.63,0.00,5.49,2.00,1.00,676.00,127.00,132.00,192.00,0.00,225.00
+2015,12,EV,ExpressJet Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",52.00,10.00,3.80,0.00,4.20,0.00,2.00,0.00,0.00,349.00,157.00,0.00,147.00,0.00,45.00
+2015,12,EV,ExpressJet Airlines Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",128.00,27.00,8.01,1.38,8.53,0.00,9.07,8.00,0.00,1061.00,345.00,32.00,262.00,0.00,422.00
+2015,12,EV,ExpressJet Airlines Inc.,LAN,"Lansing, MI: Capital Region International",76.00,12.00,4.27,0.00,4.94,0.00,2.79,6.00,0.00,497.00,174.00,0.00,133.00,0.00,190.00
+2015,12,EV,ExpressJet Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",68.00,15.00,6.40,0.00,3.93,0.00,4.68,0.00,0.00,914.00,440.00,0.00,164.00,0.00,310.00
+2015,12,EV,ExpressJet Airlines Inc.,HOB,"Hobbs, NM: Lea County Regional",52.00,4.00,2.00,0.00,0.04,0.00,1.96,8.00,0.00,256.00,45.00,0.00,7.00,0.00,204.00
+2015,12,EV,ExpressJet Airlines Inc.,LCH,"Lake Charles, LA: Lake Charles Regional",88.00,7.00,1.94,0.39,2.03,0.00,2.64,1.00,0.00,282.00,51.00,12.00,158.00,0.00,61.00
+2015,12,EV,ExpressJet Airlines Inc.,HRL,"Harlingen/San Benito, TX: Valley International",101.00,8.00,1.34,0.00,4.84,0.00,1.82,2.00,3.00,263.00,57.00,0.00,134.00,0.00,72.00
+2015,12,EV,ExpressJet Airlines Inc.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",250.00,55.00,14.56,0.89,19.04,0.00,20.51,10.00,3.00,2934.00,778.00,113.00,631.00,0.00,1412.00
+2015,12,EV,ExpressJet Airlines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",178.00,30.00,8.07,2.00,9.51,0.00,10.42,11.00,3.00,1703.00,294.00,92.00,494.00,0.00,823.00
+2015,12,EV,ExpressJet Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",486.00,127.00,45.19,0.00,37.73,0.00,44.08,9.00,1.00,10063.00,4661.00,0.00,1255.00,0.00,4147.00
+2015,12,EV,ExpressJet Airlines Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",72.00,4.00,0.85,0.00,0.27,0.00,2.88,4.00,0.00,184.00,51.00,0.00,18.00,0.00,115.00
+2015,12,EV,ExpressJet Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",186.00,39.00,8.70,1.08,14.47,0.00,14.76,6.00,0.00,2549.00,603.00,188.00,655.00,0.00,1103.00
+2015,12,EV,ExpressJet Airlines Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",172.00,36.00,17.32,0.42,7.45,0.00,10.81,12.00,4.00,2369.00,1168.00,11.00,252.00,0.00,938.00
+2015,12,EV,ExpressJet Airlines Inc.,CMH,"Columbus, OH: John Glenn Columbus International",184.00,31.00,10.71,1.75,9.18,0.00,9.36,5.00,0.00,1837.00,766.00,215.00,454.00,0.00,402.00
+2015,12,EV,ExpressJet Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",28.00,1.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,30.00,0.00,0.00,30.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International",79.00,10.00,3.29,1.23,0.77,0.00,4.71,4.00,0.00,1099.00,460.00,176.00,15.00,0.00,448.00
+2015,12,EV,ExpressJet Airlines Inc.,PVD,"Providence, RI: Theodore Francis Green State",117.00,22.00,6.13,0.97,3.79,0.00,11.11,6.00,1.00,1454.00,523.00,112.00,147.00,0.00,672.00
+2015,12,EV,ExpressJet Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",137.00,40.00,11.30,0.91,12.27,0.00,15.52,7.00,3.00,2486.00,841.00,145.00,499.00,0.00,1001.00
+2015,12,EV,ExpressJet Airlines Inc.,ELP,"El Paso, TX: El Paso International",64.00,7.00,1.93,0.94,3.54,0.00,0.59,2.00,0.00,314.00,103.00,101.00,91.00,0.00,19.00
+2015,12,EV,ExpressJet Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",17.00,2.00,0.38,0.00,1.62,0.00,0.00,2.00,1.00,198.00,62.00,0.00,136.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,ATW,"Appleton, WI: Appleton International",138.00,24.00,6.14,1.82,10.23,0.00,5.80,6.00,2.00,1407.00,463.00,125.00,286.00,0.00,533.00
+2015,12,EV,ExpressJet Airlines Inc.,CRP,"Corpus Christi, TX: Corpus Christi International",122.00,16.00,2.81,0.00,7.10,0.00,6.08,6.00,1.00,653.00,155.00,0.00,289.00,0.00,209.00
+2015,12,EV,ExpressJet Airlines Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",135.00,25.00,13.99,0.00,0.73,0.00,10.28,5.00,0.00,1630.00,915.00,0.00,103.00,0.00,612.00
+2015,12,EV,ExpressJet Airlines Inc.,ORF,"Norfolk, VA: Norfolk International",234.00,61.00,24.86,1.91,19.41,0.00,14.82,8.00,0.00,3811.00,2189.00,87.00,652.00,0.00,883.00
+2015,12,EV,ExpressJet Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",88.00,18.00,5.89,1.00,5.22,0.00,5.90,7.00,0.00,1403.00,830.00,23.00,189.00,0.00,361.00
+2015,12,EV,ExpressJet Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",125.00,34.00,16.20,1.80,11.90,0.00,4.10,4.00,0.00,2260.00,1395.00,100.00,517.00,0.00,248.00
+2015,12,EV,ExpressJet Airlines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,FSD,"Sioux Falls, SD: Joe Foss Field",91.00,22.00,5.25,0.14,10.06,0.00,6.55,4.00,0.00,1125.00,445.00,4.00,415.00,0.00,261.00
+2015,12,EV,ExpressJet Airlines Inc.,LNK,"Lincoln, NE: Lincoln Airport",96.00,22.00,10.33,0.74,7.36,0.00,3.57,5.00,0.00,1406.00,894.00,20.00,262.00,0.00,230.00
+2015,12,EV,ExpressJet Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",6.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,AVL,"Asheville, NC: Asheville Regional",132.00,33.00,12.32,0.00,6.16,0.00,14.53,7.00,1.00,2018.00,831.00,0.00,241.00,0.00,946.00
+2015,12,EV,ExpressJet Airlines Inc.,MLI,"Moline, IL: Quad City International",69.00,17.00,7.31,0.16,3.04,0.00,6.49,2.00,0.00,1002.00,489.00,6.00,186.00,0.00,321.00
+2015,12,EV,ExpressJet Airlines Inc.,TUS,"Tucson, AZ: Tucson International",30.00,4.00,2.10,0.00,1.90,0.00,0.00,0.00,1.00,221.00,70.00,0.00,151.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,GJT,"Grand Junction, CO: Grand Junction Regional",22.00,4.00,0.94,0.00,2.11,0.00,0.95,1.00,0.00,226.00,16.00,0.00,56.00,0.00,154.00
+2015,12,EV,ExpressJet Airlines Inc.,LBB,"Lubbock, TX: Lubbock Preston Smith International",99.00,12.00,3.44,0.00,5.45,0.00,3.11,8.00,0.00,375.00,110.00,0.00,161.00,0.00,104.00
+2015,12,EV,ExpressJet Airlines Inc.,ECP,"Panama City, FL: Northwest Florida Beaches International",78.00,9.00,4.32,0.00,0.74,0.00,3.94,1.00,0.00,650.00,379.00,0.00,31.00,0.00,240.00
+2015,12,EV,ExpressJet Airlines Inc.,SGF,"Springfield, MO: Springfield-Branson National",113.00,26.00,11.13,0.00,4.84,0.00,10.02,2.00,1.00,2180.00,977.00,0.00,159.00,0.00,1044.00
+2015,12,EV,ExpressJet Airlines Inc.,GRB,"Green Bay, WI: Green Bay Austin Straubel International",91.00,10.00,1.65,1.13,3.83,0.00,3.39,2.00,0.00,429.00,82.00,40.00,178.00,0.00,129.00
+2015,12,EV,ExpressJet Airlines Inc.,EVV,"Evansville, IN: Evansville Regional",188.00,23.00,7.67,1.00,3.96,0.00,10.37,5.00,0.00,1571.00,818.00,52.00,103.00,0.00,598.00
+2015,12,EV,ExpressJet Airlines Inc.,FAR,"Fargo, ND: Hector International",126.00,19.00,5.02,0.65,2.06,0.00,11.27,2.00,0.00,1388.00,258.00,43.00,39.00,0.00,1048.00
+2015,12,EV,ExpressJet Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",17.00,6.00,0.58,0.00,5.42,0.00,0.00,0.00,0.00,254.00,21.00,0.00,233.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,DAL,"Dallas, TX: Dallas Love Field",22.00,6.00,3.53,0.00,1.48,0.00,1.00,0.00,2.00,356.00,281.00,0.00,53.00,0.00,22.00
+2015,12,EV,ExpressJet Airlines Inc.,GNV,"Gainesville, FL: Gainesville Regional",160.00,27.00,10.86,0.00,2.93,0.00,13.21,1.00,1.00,1790.00,759.00,0.00,87.00,0.00,944.00
+2015,12,EV,ExpressJet Airlines Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",130.00,13.00,5.22,0.00,0.39,0.00,7.39,2.00,0.00,830.00,300.00,0.00,7.00,0.00,523.00
+2015,12,EV,ExpressJet Airlines Inc.,CSG,"Columbus, GA: Columbus Airport",74.00,17.00,6.28,0.00,1.43,0.00,9.29,0.00,1.00,1127.00,477.00,0.00,87.00,0.00,563.00
+2015,12,EV,ExpressJet Airlines Inc.,CWA,"Mosinee, WI: Central Wisconsin",56.00,10.00,1.53,0.00,4.38,0.00,4.09,2.00,0.00,558.00,146.00,0.00,141.00,0.00,271.00
+2015,12,EV,ExpressJet Airlines Inc.,PHF,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",106.00,26.00,9.60,0.00,1.01,0.00,15.39,2.00,1.00,1562.00,518.00,0.00,32.00,0.00,1012.00
+2015,12,EV,ExpressJet Airlines Inc.,MGM,"Montgomery, AL: Montgomery Regional",201.00,42.00,19.07,0.00,5.86,0.00,17.07,2.00,0.00,2943.00,1675.00,0.00,269.00,0.00,999.00
+2015,12,EV,ExpressJet Airlines Inc.,OAJ,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",98.00,19.00,6.83,0.00,4.32,0.00,7.85,3.00,1.00,1388.00,501.00,0.00,229.00,0.00,658.00
+2015,12,EV,ExpressJet Airlines Inc.,GTR,"Columbus, MS: Golden Triangle Regional",76.00,10.00,4.75,0.00,0.83,0.00,4.42,1.00,0.00,686.00,243.00,0.00,31.00,0.00,412.00
+2015,12,EV,ExpressJet Airlines Inc.,RST,"Rochester, MN: Rochester International",37.00,4.00,0.90,0.00,0.17,0.00,2.93,1.00,1.00,200.00,18.00,0.00,8.00,0.00,174.00
+2015,12,EV,ExpressJet Airlines Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",32.00,5.00,0.42,0.00,0.97,0.00,3.62,0.00,1.00,435.00,10.00,0.00,31.00,0.00,394.00
+2015,12,EV,ExpressJet Airlines Inc.,ELM,"Elmira/Corning, NY: Elmira/Corning Regional",172.00,22.00,11.41,0.00,6.10,0.00,4.49,5.00,2.00,1083.00,653.00,0.00,220.00,0.00,210.00
+2015,12,EV,ExpressJet Airlines Inc.,MYR,"Myrtle Beach, SC: Myrtle Beach International",47.00,13.00,6.77,0.00,0.69,0.00,5.55,1.00,0.00,906.00,597.00,0.00,27.00,0.00,282.00
+2015,12,EV,ExpressJet Airlines Inc.,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",75.00,13.00,5.87,0.00,2.34,0.00,4.78,3.00,0.00,1055.00,272.00,0.00,57.00,0.00,726.00
+2015,12,EV,ExpressJet Airlines Inc.,CRW,"Charleston/Dunbar, WV: Yeager",193.00,27.00,13.57,1.45,2.43,0.00,9.55,5.00,0.00,1939.00,956.00,338.00,109.00,0.00,536.00
+2015,12,EV,ExpressJet Airlines Inc.,FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",105.00,20.00,13.35,0.00,1.04,0.00,5.61,1.00,0.00,1849.00,1399.00,0.00,82.00,0.00,368.00
+2015,12,EV,ExpressJet Airlines Inc.,DHN,"Dothan, AL: Dothan Regional",115.00,31.00,13.48,0.00,3.43,0.00,14.10,2.00,0.00,1995.00,805.00,0.00,171.00,0.00,1019.00
+2015,12,EV,ExpressJet Airlines Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",184.00,36.00,17.08,0.00,3.76,0.00,15.16,3.00,0.00,2404.00,1248.00,0.00,146.00,0.00,1010.00
+2015,12,EV,ExpressJet Airlines Inc.,VLD,"Valdosta, GA: Valdosta Regional",85.00,14.00,7.37,0.00,2.52,0.00,4.11,2.00,1.00,1070.00,458.00,0.00,115.00,0.00,497.00
+2015,12,EV,ExpressJet Airlines Inc.,EYW,"Key West, FL: Key West International",60.00,12.00,7.14,0.00,1.10,0.00,3.76,1.00,0.00,1901.00,1600.00,0.00,58.00,0.00,243.00
+2015,12,EV,ExpressJet Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",90.00,21.00,11.32,0.00,3.72,0.00,5.96,3.00,0.00,1680.00,1068.00,0.00,158.00,0.00,454.00
+2015,12,EV,ExpressJet Airlines Inc.,EWN,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",57.00,11.00,5.09,0.00,1.48,0.00,4.43,2.00,1.00,520.00,284.00,0.00,53.00,0.00,183.00
+2015,12,EV,ExpressJet Airlines Inc.,ILM,"Wilmington, NC: Wilmington International",104.00,20.00,9.48,0.00,3.50,0.00,7.02,2.00,0.00,1349.00,735.00,0.00,142.00,0.00,472.00
+2015,12,EV,ExpressJet Airlines Inc.,ABY,"Albany, GA: Southwest Georgia Regional",75.00,25.00,10.69,0.00,5.57,0.00,8.74,0.00,0.00,1121.00,458.00,0.00,163.00,0.00,500.00
+2015,12,EV,ExpressJet Airlines Inc.,BGR,"Bangor, ME: Bangor International",14.00,3.00,2.99,0.00,0.00,0.00,0.01,2.00,0.00,338.00,337.00,0.00,0.00,0.00,1.00
+2015,12,EV,ExpressJet Airlines Inc.,BQK,"Brunswick, GA: Brunswick Golden Isles",84.00,18.00,7.00,0.00,3.07,0.00,7.93,0.00,1.00,1043.00,460.00,0.00,67.00,0.00,516.00
+2015,12,EV,ExpressJet Airlines Inc.,MLB,"Melbourne, FL: Melbourne International",25.00,11.00,4.74,0.00,1.83,0.00,4.42,1.00,0.00,582.00,286.00,0.00,74.00,0.00,222.00
+2015,12,EV,ExpressJet Airlines Inc.,SCE,"State College, PA: University Park",71.00,13.00,1.97,0.70,4.85,0.00,5.48,5.00,2.00,649.00,64.00,37.00,145.00,0.00,403.00
+2015,12,EV,ExpressJet Airlines Inc.,RAP,"Rapid City, SD: Rapid City Regional",10.00,5.00,2.87,0.00,0.54,0.00,1.59,0.00,0.00,638.00,275.00,0.00,49.00,0.00,314.00
+2015,12,EV,ExpressJet Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",2.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,EV,ExpressJet Airlines Inc.,DAB,"Daytona Beach, FL: Daytona Beach International",2.00,1.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,83.00,0.00,0.00,0.00,0.00,83.00
+2015,12,EV,ExpressJet Airlines Inc.,ISN,"Williston, ND: Sloulin Field International",26.00,3.00,1.00,0.00,2.00,0.00,0.00,0.00,1.00,97.00,59.00,0.00,38.00,0.00,0.00
+2015,12,F9,Frontier Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",106.00,28.00,8.58,0.12,9.52,0.00,9.78,1.00,0.00,2051.00,338.00,28.00,705.00,0.00,980.00
+2015,12,F9,Frontier Airlines Inc.,DEN,"Denver, CO: Denver International",2009.00,453.00,83.76,14.28,161.32,0.00,193.63,24.00,1.00,39192.00,5081.00,3030.00,10999.00,0.00,20082.00
+2015,12,F9,Frontier Airlines Inc.,PDX,"Portland, OR: Portland International",75.00,21.00,9.33,1.26,6.11,0.00,4.31,0.00,0.00,1686.00,715.00,150.00,502.00,0.00,319.00
+2015,12,F9,Frontier Airlines Inc.,BNA,"Nashville, TN: Nashville International",29.00,5.00,1.14,0.00,1.28,0.00,2.57,1.00,0.00,298.00,63.00,0.00,95.00,0.00,140.00
+2015,12,F9,Frontier Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",557.00,137.00,33.30,2.41,39.49,0.00,61.80,5.00,1.00,9414.00,1924.00,303.00,2586.00,0.00,4601.00
+2015,12,F9,Frontier Airlines Inc.,STL,"St. Louis, MO: St Louis Lambert International",120.00,27.00,4.27,0.22,9.15,0.00,13.36,1.00,0.00,2193.00,199.00,12.00,566.00,0.00,1416.00
+2015,12,F9,Frontier Airlines Inc.,MIA,"Miami, FL: Miami International",200.00,39.00,13.04,0.72,12.68,0.00,12.56,2.00,1.00,3054.00,1008.00,43.00,784.00,0.00,1219.00
+2015,12,F9,Frontier Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",432.00,115.00,31.61,0.92,36.91,0.00,45.55,2.00,2.00,9371.00,2790.00,60.00,2893.00,0.00,3628.00
+2015,12,F9,Frontier Airlines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",217.00,36.00,7.24,0.00,8.74,0.00,20.02,0.00,0.00,3382.00,772.00,0.00,705.00,0.00,1905.00
+2015,12,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",248.00,106.00,10.18,1.77,65.83,0.00,28.22,3.00,1.00,10552.00,852.00,134.00,6362.00,0.00,3204.00
+2015,12,F9,Frontier Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",93.00,22.00,7.48,2.10,8.61,0.00,3.81,0.00,0.00,1423.00,237.00,266.00,397.00,0.00,523.00
+2015,12,F9,Frontier Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",497.00,116.00,28.77,1.16,52.61,0.00,33.46,13.00,1.00,6788.00,1380.00,92.00,2333.00,0.00,2983.00
+2015,12,F9,Frontier Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",186.00,57.00,17.97,1.99,21.82,0.00,15.21,1.00,2.00,3212.00,1102.00,145.00,895.00,0.00,1070.00
+2015,12,F9,Frontier Airlines Inc.,SAN,"San Diego, CA: San Diego International",56.00,9.00,2.47,0.00,2.74,0.00,3.79,1.00,0.00,800.00,131.00,0.00,128.00,0.00,541.00
+2015,12,F9,Frontier Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",116.00,22.00,4.97,0.37,6.43,0.00,10.23,2.00,0.00,1474.00,253.00,52.00,316.00,0.00,853.00
+2015,12,F9,Frontier Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",119.00,25.00,7.23,0.02,8.75,0.00,9.01,0.00,1.00,1967.00,353.00,6.00,446.00,0.00,1162.00
+2015,12,F9,Frontier Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",59.00,10.00,1.61,0.18,4.09,0.00,4.12,1.00,0.00,633.00,61.00,13.00,210.00,0.00,349.00
+2015,12,F9,Frontier Airlines Inc.,MCO,"Orlando, FL: Orlando International",662.00,125.00,36.29,0.25,40.92,0.00,47.54,3.00,2.00,8184.00,2398.00,24.00,1786.00,0.00,3976.00
+2015,12,F9,Frontier Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",80.00,15.00,6.26,0.40,3.59,0.00,4.74,0.00,0.00,997.00,424.00,44.00,180.00,0.00,349.00
+2015,12,F9,Frontier Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",306.00,93.00,18.14,0.00,47.04,0.00,27.82,1.00,0.00,5773.00,867.00,0.00,3226.00,0.00,1680.00
+2015,12,F9,Frontier Airlines Inc.,LGA,"New York, NY: LaGuardia",58.00,19.00,4.90,0.76,11.24,0.00,2.09,0.00,1.00,1428.00,573.00,26.00,718.00,0.00,111.00
+2015,12,F9,Frontier Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",195.00,51.00,28.06,0.38,12.99,0.00,9.57,2.00,0.00,2867.00,1333.00,26.00,458.00,0.00,1050.00
+2015,12,F9,Frontier Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",155.00,30.00,11.39,0.53,5.90,0.00,12.19,0.00,0.00,2298.00,1046.00,22.00,231.00,0.00,999.00
+2015,12,F9,Frontier Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124.00,45.00,11.99,0.05,16.75,0.00,16.22,3.00,0.00,2715.00,710.00,2.00,919.00,0.00,1084.00
+2015,12,F9,Frontier Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",91.00,15.00,5.29,0.57,6.66,0.00,2.48,1.00,0.00,763.00,269.00,79.00,303.00,0.00,112.00
+2015,12,F9,Frontier Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",168.00,48.00,12.00,0.48,20.26,0.00,15.26,0.00,0.00,3561.00,768.00,52.00,1310.00,0.00,1431.00
+2015,12,F9,Frontier Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",62.00,10.00,3.32,0.06,2.44,0.00,4.17,0.00,0.00,876.00,91.00,6.00,500.00,0.00,279.00
+2015,12,F9,Frontier Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",93.00,24.00,5.80,0.00,5.96,0.00,12.24,0.00,0.00,1627.00,520.00,0.00,280.00,0.00,827.00
+2015,12,F9,Frontier Airlines Inc.,TPA,"Tampa, FL: Tampa International",145.00,37.00,12.95,0.29,13.19,0.00,10.57,2.00,0.00,2472.00,536.00,29.00,769.00,0.00,1138.00
+2015,12,F9,Frontier Airlines Inc.,FSD,"Sioux Falls, SD: Joe Foss Field",14.00,5.00,1.64,0.46,1.48,0.00,1.43,0.00,0.00,224.00,50.00,33.00,62.00,0.00,79.00
+2015,12,F9,Frontier Airlines Inc.,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",14.00,3.00,1.28,0.00,0.18,0.00,1.53,1.00,0.00,81.00,26.00,0.00,6.00,0.00,49.00
+2015,12,F9,Frontier Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",60.00,19.00,9.92,0.24,3.77,0.00,5.06,1.00,0.00,954.00,511.00,10.00,160.00,0.00,273.00
+2015,12,F9,Frontier Airlines Inc.,TTN,"Trenton, NJ: Trenton Mercer",278.00,52.00,9.92,0.96,12.75,0.00,28.36,7.00,2.00,5053.00,1369.00,67.00,1243.00,0.00,2374.00
+2015,12,F9,Frontier Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",31.00,4.00,2.41,0.06,1.38,0.00,0.14,0.00,0.00,449.00,308.00,8.00,116.00,0.00,17.00
+2015,12,F9,Frontier Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell International",76.00,18.00,5.70,0.01,8.24,0.00,4.05,0.00,1.00,1228.00,380.00,3.00,458.00,0.00,387.00
+2015,12,F9,Frontier Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",58.00,11.00,4.71,0.25,5.25,0.00,0.79,1.00,0.00,486.00,151.00,27.00,237.00,0.00,71.00
+2015,12,F9,Frontier Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",61.00,10.00,4.11,0.00,4.82,0.00,1.07,2.00,0.00,973.00,211.00,0.00,682.00,0.00,80.00
+2015,12,F9,Frontier Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",62.00,18.00,4.02,0.68,4.87,0.00,8.43,0.00,0.00,1728.00,169.00,37.00,275.00,0.00,1247.00
+2015,12,F9,Frontier Airlines Inc.,TYS,"Knoxville, TN: McGhee Tyson",14.00,3.00,1.09,0.40,0.98,0.00,0.53,0.00,0.00,180.00,97.00,21.00,44.00,0.00,18.00
+2015,12,F9,Frontier Airlines Inc.,MSO,"Missoula, MT: Missoula International",14.00,4.00,3.18,0.00,0.77,0.00,0.05,1.00,0.00,210.00,160.00,0.00,47.00,0.00,3.00
+2015,12,F9,Frontier Airlines Inc.,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",14.00,1.00,0.94,0.00,0.06,0.00,0.00,1.00,0.00,16.00,15.00,0.00,1.00,0.00,0.00
+2015,12,F9,Frontier Airlines Inc.,MEM,"Memphis, TN: Memphis International",28.00,6.00,1.49,0.00,1.89,0.00,2.62,1.00,0.00,296.00,87.00,0.00,124.00,0.00,85.00
+2015,12,F9,Frontier Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",17.00,4.00,1.35,0.00,1.67,0.00,0.98,0.00,0.00,116.00,30.00,0.00,39.00,0.00,47.00
+2015,12,F9,Frontier Airlines Inc.,BZN,"Bozeman, MT: Bozeman Yellowstone International",17.00,8.00,2.87,0.10,3.40,0.00,1.63,0.00,0.00,214.00,85.00,3.00,69.00,0.00,57.00
+2015,12,F9,Frontier Airlines Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",17.00,3.00,1.29,0.28,1.43,0.00,0.00,1.00,0.00,129.00,42.00,16.00,71.00,0.00,0.00
+2015,12,F9,Frontier Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",17.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,18.00,18.00,0.00,0.00,0.00,0.00
+2015,12,F9,Frontier Airlines Inc.,UST,"St. Augustine, FL: Northeast Florida Regional",17.00,2.00,0.74,1.00,0.26,0.00,0.00,0.00,1.00,161.00,67.00,71.00,23.00,0.00,0.00
+2015,12,F9,Frontier Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",16.00,3.00,1.85,0.00,1.15,0.00,0.00,0.00,0.00,173.00,125.00,0.00,48.00,0.00,0.00
+2015,12,F9,Frontier Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",17.00,5.00,0.60,0.12,2.24,0.00,2.04,0.00,0.00,313.00,24.00,19.00,91.00,0.00,179.00
+2015,12,F9,Frontier Airlines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",20.00,9.00,4.44,0.00,3.37,0.00,1.19,0.00,0.00,700.00,155.00,0.00,194.00,0.00,351.00
+2015,12,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",146.00,19.00,14.50,0.00,0.00,0.69,3.81,2.00,0.00,1082.00,527.00,0.00,0.00,25.00,530.00
+2015,12,HA,Hawaiian Airlines Inc.,ITO,"Hilo, HI: Hilo International",478.00,26.00,14.63,0.00,0.00,0.00,11.37,0.00,0.00,718.00,452.00,0.00,0.00,0.00,266.00
+2015,12,HA,Hawaiian Airlines Inc.,HNL,"Honolulu, HI: Daniel K Inouye International",2685.00,188.00,104.61,2.13,2.81,0.00,78.46,1.00,0.00,8485.00,6176.00,100.00,65.00,0.00,2144.00
+2015,12,HA,Hawaiian Airlines Inc.,OGG,"Kahului, HI: Kahului Airport",1190.00,54.00,42.33,1.37,0.89,0.24,9.16,1.00,0.00,3202.00,2816.00,72.00,39.00,6.00,269.00
+2015,12,HA,Hawaiian Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",75.00,10.00,9.84,0.00,0.16,0.00,0.00,0.00,0.00,258.00,254.00,0.00,4.00,0.00,0.00
+2015,12,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",62.00,11.00,11.00,0.00,0.00,0.00,0.00,0.00,0.00,331.00,331.00,0.00,0.00,0.00,0.00
+2015,12,HA,Hawaiian Airlines Inc.,SAN,"San Diego, CA: San Diego International",31.00,5.00,5.00,0.00,0.00,0.00,0.00,0.00,0.00,105.00,105.00,0.00,0.00,0.00,0.00
+2015,12,HA,Hawaiian Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",31.00,6.00,6.00,0.00,0.00,0.00,0.00,0.00,0.00,410.00,410.00,0.00,0.00,0.00,0.00
+2015,12,HA,Hawaiian Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",62.00,22.00,17.29,0.00,0.10,0.00,4.61,0.00,0.00,1053.00,624.00,0.00,2.00,0.00,427.00
+2015,12,HA,Hawaiian Airlines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",62.00,10.00,9.41,0.00,0.00,0.00,0.59,1.00,0.00,242.00,233.00,0.00,0.00,0.00,9.00
+2015,12,HA,Hawaiian Airlines Inc.,PDX,"Portland, OR: Portland International",31.00,2.00,2.00,0.00,0.00,0.00,0.00,0.00,0.00,49.00,49.00,0.00,0.00,0.00,0.00
+2015,12,HA,Hawaiian Airlines Inc.,LIH,"Lihue, HI: Lihue Airport",677.00,30.00,13.99,0.00,0.29,0.00,15.71,0.00,0.00,940.00,441.00,0.00,5.00,0.00,494.00
+2015,12,HA,Hawaiian Airlines Inc.,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",598.00,21.00,12.53,0.00,0.07,0.00,8.40,0.00,0.00,484.00,300.00,0.00,2.00,0.00,182.00
+2015,12,HA,Hawaiian Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",31.00,6.00,6.00,0.00,0.00,0.00,0.00,0.00,0.00,207.00,207.00,0.00,0.00,0.00,0.00
+2015,12,HA,Hawaiian Airlines Inc.,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",62.00,14.00,13.51,0.00,0.25,0.24,0.00,0.00,0.00,522.00,512.00,0.00,6.00,4.00,0.00
+2015,12,HA,Hawaiian Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",29.00,8.00,6.00,0.00,0.00,0.00,2.00,0.00,0.00,319.00,273.00,0.00,0.00,0.00,46.00
+2015,12,HA,Hawaiian Airlines Inc.,PPG,"Pago Pago, TT: Pago Pago International",10.00,2.00,2.00,0.00,0.00,0.00,0.00,0.00,0.00,222.00,222.00,0.00,0.00,0.00,0.00
+2015,12,MQ,Envoy Air,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",3854.00,552.00,139.04,62.84,146.08,2.24,201.81,164.00,30.00,44894.00,13728.00,8541.00,7295.00,54.00,15276.00
+2015,12,MQ,Envoy Air,SGF,"Springfield, MO: Springfield-Branson National",363.00,68.00,20.44,10.89,16.73,1.80,18.14,8.00,1.00,3453.00,829.00,804.00,597.00,51.00,1172.00
+2015,12,MQ,Envoy Air,TVC,"Traverse City, MI: Cherry Capital",85.00,9.00,1.07,0.30,4.86,0.00,2.77,3.00,0.00,359.00,89.00,6.00,168.00,0.00,96.00
+2015,12,MQ,Envoy Air,CLL,"College Station/Bryan, TX: Easterwood Field",134.00,13.00,2.22,0.51,5.37,0.58,4.31,4.00,0.00,511.00,165.00,23.00,184.00,15.00,124.00
+2015,12,MQ,Envoy Air,STL,"St. Louis, MO: St Louis Lambert International",54.00,9.00,2.63,1.64,2.04,1.00,1.69,2.00,0.00,401.00,110.00,76.00,92.00,16.00,107.00
+2015,12,MQ,Envoy Air,ORD,"Chicago, IL: Chicago O'Hare International",6062.00,875.00,142.59,71.00,278.60,5.00,377.80,249.00,18.00,61219.00,15279.00,10024.00,12359.00,143.00,23414.00
+2015,12,MQ,Envoy Air,AMA,"Amarillo, TX: Rick Husband Amarillo International",48.00,7.00,2.91,0.00,3.00,0.00,1.09,3.00,0.00,342.00,189.00,0.00,116.00,0.00,37.00
+2015,12,MQ,Envoy Air,CLT,"Charlotte, NC: Charlotte Douglas International",64.00,24.00,5.99,1.61,13.58,0.00,2.83,0.00,1.00,900.00,349.00,46.00,402.00,0.00,103.00
+2015,12,MQ,Envoy Air,GRK,"Killeen, TX: Robert Gray AAF",73.00,7.00,1.90,0.00,1.68,1.00,2.41,1.00,1.00,233.00,71.00,0.00,54.00,32.00,76.00
+2015,12,MQ,Envoy Air,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",47.00,9.00,0.99,2.25,4.88,0.00,0.88,1.00,0.00,664.00,205.00,199.00,237.00,0.00,23.00
+2015,12,MQ,Envoy Air,OKC,"Oklahoma City, OK: Will Rogers World",235.00,47.00,15.67,4.22,8.41,1.00,17.70,12.00,0.00,2722.00,937.00,297.00,289.00,27.00,1172.00
+2015,12,MQ,Envoy Air,RIC,"Richmond, VA: Richmond International",107.00,16.00,3.70,3.08,4.83,0.00,4.39,2.00,1.00,761.00,217.00,115.00,188.00,0.00,241.00
+2015,12,MQ,Envoy Air,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",166.00,34.00,5.99,5.74,9.03,0.00,13.25,8.00,0.00,1363.00,164.00,263.00,343.00,0.00,593.00
+2015,12,MQ,Envoy Air,MCI,"Kansas City, MO: Kansas City International",76.00,16.00,6.84,2.37,2.65,0.00,4.14,4.00,0.00,911.00,426.00,126.00,125.00,0.00,234.00
+2015,12,MQ,Envoy Air,XNA,"Fayetteville, AR: Northwest Arkansas Regional",359.00,65.00,29.31,7.21,10.15,0.69,17.63,13.00,1.00,3326.00,1277.00,538.00,371.00,18.00,1122.00
+2015,12,MQ,Envoy Air,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",91.00,22.00,11.33,1.06,2.98,0.48,6.15,2.00,1.00,1458.00,563.00,177.00,152.00,10.00,556.00
+2015,12,MQ,Envoy Air,SPS,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",91.00,9.00,4.00,0.21,2.32,0.00,2.48,6.00,1.00,468.00,146.00,39.00,54.00,0.00,229.00
+2015,12,MQ,Envoy Air,FSM,"Fort Smith, AR: Fort Smith Regional",29.00,2.00,0.00,1.00,1.00,0.00,0.00,1.00,0.00,35.00,0.00,18.00,17.00,0.00,0.00
+2015,12,MQ,Envoy Air,ABQ,"Albuquerque, NM: Albuquerque International Sunport",55.00,15.00,4.47,0.87,7.09,0.00,2.57,2.00,1.00,844.00,344.00,33.00,325.00,0.00,142.00
+2015,12,MQ,Envoy Air,LCH,"Lake Charles, LA: Lake Charles Regional",86.00,15.00,3.77,1.75,6.22,0.00,3.27,3.00,1.00,791.00,206.00,209.00,232.00,0.00,144.00
+2015,12,MQ,Envoy Air,MSN,"Madison, WI: Dane County Regional-Truax Field",171.00,23.00,2.85,2.74,10.63,0.24,6.53,8.00,0.00,879.00,162.00,78.00,361.00,12.00,266.00
+2015,12,MQ,Envoy Air,EWR,"Newark, NJ: Newark Liberty International",131.00,37.00,5.11,7.49,21.24,0.00,3.16,5.00,0.00,2749.00,328.00,547.00,1596.00,0.00,278.00
+2015,12,MQ,Envoy Air,GRR,"Grand Rapids, MI: Gerald R. Ford International",207.00,33.00,9.54,4.34,10.29,0.00,8.84,10.00,0.00,1247.00,389.00,234.00,256.00,0.00,368.00
+2015,12,MQ,Envoy Air,PIT,"Pittsburgh, PA: Pittsburgh International",65.00,10.00,4.29,1.40,3.60,0.00,0.71,3.00,0.00,540.00,207.00,70.00,226.00,0.00,37.00
+2015,12,MQ,Envoy Air,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",389.00,53.00,21.71,8.72,10.54,0.13,11.90,12.00,3.00,2785.00,963.00,646.00,456.00,2.00,718.00
+2015,12,MQ,Envoy Air,GSP,"Greer, SC: Greenville-Spartanburg International",29.00,4.00,0.00,1.15,2.85,0.00,0.00,0.00,0.00,169.00,0.00,50.00,119.00,0.00,0.00
+2015,12,MQ,Envoy Air,MIA,"Miami, FL: Miami International",394.00,71.00,23.95,0.03,27.84,1.00,18.18,4.00,1.00,3841.00,1434.00,1.00,787.00,18.00,1601.00
+2015,12,MQ,Envoy Air,OMA,"Omaha, NE: Eppley Airfield",169.00,25.00,7.06,2.87,6.11,0.29,8.67,4.00,0.00,1254.00,309.00,158.00,238.00,6.00,543.00
+2015,12,MQ,Envoy Air,ACT,"Waco, TX: Waco Regional",5.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,MQ,Envoy Air,DSM,"Des Moines, IA: Des Moines International",175.00,29.00,5.47,2.78,13.01,0.00,7.74,5.00,0.00,1235.00,246.00,122.00,398.00,0.00,469.00
+2015,12,MQ,Envoy Air,MHK,"Manhattan/Ft. Riley, KS: Manhattan Regional",153.00,16.00,5.91,3.99,2.05,0.00,4.05,4.00,0.00,890.00,218.00,379.00,105.00,0.00,188.00
+2015,12,MQ,Envoy Air,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",150.00,20.00,7.25,2.73,3.71,0.00,6.31,6.00,1.00,885.00,246.00,97.00,201.00,0.00,341.00
+2015,12,MQ,Envoy Air,FSD,"Sioux Falls, SD: Joe Foss Field",58.00,7.00,1.00,1.20,1.61,0.63,2.56,2.00,0.00,270.00,60.00,44.00,30.00,15.00,121.00
+2015,12,MQ,Envoy Air,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",278.00,68.00,19.34,6.21,13.86,0.00,28.59,11.00,0.00,3529.00,895.00,554.00,563.00,0.00,1517.00
+2015,12,MQ,Envoy Air,JAX,"Jacksonville, FL: Jacksonville International",133.00,20.00,11.43,0.96,5.39,0.26,1.96,2.00,0.00,1103.00,608.00,101.00,215.00,6.00,173.00
+2015,12,MQ,Envoy Air,DRO,"Durango, CO: Durango La Plata County",60.00,11.00,3.19,3.02,2.76,0.27,1.77,2.00,1.00,669.00,146.00,279.00,133.00,22.00,89.00
+2015,12,MQ,Envoy Air,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",105.00,15.00,6.87,1.48,3.16,0.00,3.49,2.00,0.00,500.00,167.00,83.00,95.00,0.00,155.00
+2015,12,MQ,Envoy Air,ABI,"Abilene, TX: Abilene Regional",210.00,23.00,8.41,5.80,4.19,0.00,4.60,16.00,1.00,1658.00,335.00,758.00,271.00,0.00,294.00
+2015,12,MQ,Envoy Air,CRP,"Corpus Christi, TX: Corpus Christi International",44.00,9.00,1.84,1.69,2.20,0.00,3.27,1.00,3.00,494.00,61.00,198.00,51.00,0.00,184.00
+2015,12,MQ,Envoy Air,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",29.00,5.00,2.34,0.00,1.75,0.00,0.91,0.00,0.00,200.00,66.00,0.00,72.00,0.00,62.00
+2015,12,MQ,Envoy Air,HOU,"Houston, TX: William P Hobby",80.00,13.00,5.55,1.93,3.04,0.74,1.74,3.00,0.00,462.00,222.00,99.00,82.00,20.00,39.00
+2015,12,MQ,Envoy Air,SAF,"Santa Fe, NM: Santa Fe Municipal",58.00,7.00,3.40,1.08,1.83,0.00,0.69,2.00,1.00,274.00,91.00,28.00,88.00,0.00,67.00
+2015,12,MQ,Envoy Air,BNA,"Nashville, TN: Nashville International",252.00,49.00,17.77,6.97,11.13,0.00,13.13,6.00,0.00,2952.00,967.00,651.00,502.00,0.00,832.00
+2015,12,MQ,Envoy Air,MGM,"Montgomery, AL: Montgomery Regional",89.00,16.00,3.43,2.36,3.36,0.00,6.86,1.00,1.00,1408.00,427.00,257.00,254.00,0.00,470.00
+2015,12,MQ,Envoy Air,IAH,"Houston, TX: George Bush Intercontinental/Houston",27.00,7.00,2.54,0.92,0.77,0.00,2.78,2.00,0.00,533.00,95.00,171.00,38.00,0.00,229.00
+2015,12,MQ,Envoy Air,FNT,"Flint, MI: Bishop International",87.00,13.00,2.00,2.43,4.52,0.00,4.05,5.00,1.00,568.00,75.00,130.00,229.00,0.00,134.00
+2015,12,MQ,Envoy Air,DBQ,"Dubuque, IA: Dubuque Regional",89.00,11.00,1.09,3.96,2.43,0.00,3.52,8.00,1.00,567.00,25.00,234.00,92.00,0.00,216.00
+2015,12,MQ,Envoy Air,CLE,"Cleveland, OH: Cleveland-Hopkins International",136.00,21.00,4.74,3.55,6.11,0.00,6.59,5.00,0.00,1065.00,284.00,246.00,270.00,0.00,265.00
+2015,12,MQ,Envoy Air,MDT,"Harrisburg, PA: Harrisburg International",84.00,9.00,0.26,1.17,5.00,0.00,2.57,2.00,0.00,266.00,6.00,20.00,176.00,0.00,64.00
+2015,12,MQ,Envoy Air,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",2.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,MQ,Envoy Air,CMI,"Champaign/Urbana, IL: University of Illinois/Willard",209.00,28.00,3.66,6.25,7.57,0.00,10.52,10.00,0.00,1715.00,118.00,695.00,396.00,0.00,506.00
+2015,12,MQ,Envoy Air,MLI,"Moline, IL: Quad City International",165.00,26.00,8.91,2.94,8.75,0.00,5.40,4.00,1.00,1207.00,301.00,247.00,397.00,0.00,262.00
+2015,12,MQ,Envoy Air,CMH,"Columbus, OH: John Glenn Columbus International",298.00,40.00,8.70,6.40,14.19,0.00,10.70,9.00,1.00,2131.00,413.00,485.00,636.00,0.00,597.00
+2015,12,MQ,Envoy Air,JFK,"New York, NY: John F. Kennedy International",109.00,26.00,4.01,0.93,14.17,1.00,5.90,1.00,0.00,1407.00,233.00,86.00,631.00,16.00,441.00
+2015,12,MQ,Envoy Air,RAP,"Rapid City, SD: Rapid City Regional",31.00,3.00,0.00,0.62,0.66,0.00,1.72,0.00,0.00,360.00,0.00,88.00,98.00,0.00,174.00
+2015,12,MQ,Envoy Air,DAY,"Dayton, OH: James M Cox/Dayton International",105.00,13.00,0.00,4.01,5.77,0.00,3.22,4.00,0.00,1583.00,0.00,1113.00,285.00,0.00,185.00
+2015,12,MQ,Envoy Air,AEX,"Alexandria, LA: Alexandria International",61.00,8.00,3.38,0.22,2.34,1.00,1.05,5.00,1.00,717.00,344.00,20.00,115.00,135.00,103.00
+2015,12,MQ,Envoy Air,HPN,"White Plains, NY: Westchester County",72.00,10.00,0.63,1.99,4.02,0.00,3.36,2.00,2.00,815.00,43.00,219.00,225.00,0.00,328.00
+2015,12,MQ,Envoy Air,GJT,"Grand Junction, CO: Grand Junction Regional",94.00,19.00,7.36,3.95,5.38,0.00,2.31,2.00,1.00,922.00,349.00,303.00,134.00,0.00,136.00
+2015,12,MQ,Envoy Air,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",148.00,26.00,3.23,4.85,8.17,0.00,9.74,7.00,0.00,1838.00,151.00,820.00,406.00,0.00,461.00
+2015,12,MQ,Envoy Air,BDL,"Hartford, CT: Bradley International",40.00,5.00,1.18,1.00,2.00,0.00,0.82,3.00,0.00,214.00,55.00,43.00,55.00,0.00,61.00
+2015,12,MQ,Envoy Air,MSP,"Minneapolis, MN: Minneapolis-St Paul International",34.00,16.00,4.53,1.75,7.73,0.00,1.99,1.00,0.00,634.00,275.00,61.00,188.00,0.00,110.00
+2015,12,MQ,Envoy Air,SYR,"Syracuse, NY: Syracuse Hancock International",113.00,18.00,4.42,2.27,5.63,0.00,5.68,2.00,0.00,1130.00,152.00,282.00,318.00,0.00,378.00
+2015,12,MQ,Envoy Air,PIA,"Peoria, IL: General Downing - Peoria International",133.00,18.00,2.69,0.71,8.41,0.00,6.19,4.00,1.00,867.00,129.00,41.00,340.00,0.00,357.00
+2015,12,MQ,Envoy Air,ELP,"El Paso, TX: El Paso International",77.00,22.00,4.80,2.10,10.52,0.00,4.58,3.00,0.00,1264.00,264.00,324.00,450.00,0.00,226.00
+2015,12,MQ,Envoy Air,CWA,"Mosinee, WI: Central Wisconsin",70.00,11.00,1.64,1.26,2.41,0.00,5.69,3.00,0.00,442.00,47.00,43.00,55.00,0.00,297.00
+2015,12,MQ,Envoy Air,BUF,"Buffalo, NY: Buffalo Niagara International",137.00,19.00,5.22,2.14,5.68,0.00,5.96,4.00,0.00,1083.00,257.00,336.00,263.00,0.00,227.00
+2015,12,MQ,Envoy Air,LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",33.00,3.00,1.86,0.00,0.21,0.00,0.93,2.00,0.00,280.00,112.00,0.00,11.00,0.00,157.00
+2015,12,MQ,Envoy Air,SJT,"San Angelo, TX: San Angelo Regional/Mathis Field",151.00,10.00,2.85,1.62,3.67,0.00,1.86,7.00,1.00,680.00,187.00,173.00,176.00,0.00,144.00
+2015,12,MQ,Envoy Air,TYR,"Tyler, TX: Tyler Pounds Regional",14.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,50.00,50.00,0.00,0.00,0.00,0.00
+2015,12,MQ,Envoy Air,LBB,"Lubbock, TX: Lubbock Preston Smith International",45.00,9.00,4.01,0.00,2.39,0.00,2.60,6.00,0.00,355.00,125.00,0.00,122.00,0.00,108.00
+2015,12,MQ,Envoy Air,COU,"Columbia, MO: Columbia Regional",124.00,12.00,2.65,1.63,1.43,0.00,6.29,2.00,0.00,718.00,73.00,154.00,63.00,0.00,428.00
+2015,12,MQ,Envoy Air,FAR,"Fargo, ND: Hector International",151.00,20.00,2.37,5.01,6.41,0.00,6.20,3.00,1.00,1246.00,113.00,602.00,211.00,0.00,320.00
+2015,12,MQ,Envoy Air,GCK,"Garden City, KS: Garden City Regional",60.00,2.00,1.00,0.00,0.00,0.00,1.00,2.00,0.00,73.00,31.00,0.00,0.00,0.00,42.00
+2015,12,MQ,Envoy Air,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",99.00,9.00,2.00,1.30,2.22,0.00,3.48,3.00,2.00,660.00,93.00,120.00,153.00,0.00,294.00
+2015,12,MQ,Envoy Air,GRB,"Green Bay, WI: Green Bay Austin Straubel International",117.00,15.00,2.77,1.80,4.80,0.00,5.63,5.00,0.00,685.00,78.00,97.00,220.00,0.00,290.00
+2015,12,MQ,Envoy Air,FWA,"Fort Wayne, IN: Fort Wayne International",175.00,30.00,9.88,2.39,7.35,0.00,10.38,6.00,0.00,1282.00,397.00,137.00,235.00,0.00,513.00
+2015,12,MQ,Envoy Air,ASE,"Aspen, CO: Aspen Pitkin County Sardy Field",73.00,34.00,13.66,2.27,10.67,0.00,7.40,3.00,7.00,4432.00,1624.00,603.00,601.00,0.00,1604.00
+2015,12,MQ,Envoy Air,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",62.00,12.00,2.23,2.96,3.43,0.00,3.38,1.00,0.00,865.00,82.00,299.00,234.00,0.00,250.00
+2015,12,MQ,Envoy Air,LRD,"Laredo, TX: Laredo International",45.00,5.00,0.41,1.35,2.01,0.00,1.23,0.00,0.00,394.00,9.00,140.00,117.00,0.00,128.00
+2015,12,MQ,Envoy Air,EVV,"Evansville, IN: Evansville Regional",129.00,17.00,3.29,2.36,4.09,0.00,7.27,3.00,1.00,923.00,97.00,124.00,225.00,0.00,477.00
+2015,12,MQ,Envoy Air,IND,"Indianapolis, IN: Indianapolis International",208.00,35.00,8.40,3.72,14.02,0.00,8.86,11.00,0.00,1607.00,399.00,271.00,498.00,0.00,439.00
+2015,12,MQ,Envoy Air,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",124.00,19.00,8.00,1.54,4.27,0.00,5.19,2.00,1.00,1632.00,737.00,105.00,350.00,0.00,440.00
+2015,12,MQ,Envoy Air,GGG,"Longview, TX: East Texas Regional",60.00,10.00,2.33,1.02,2.48,0.74,3.43,0.00,0.00,598.00,145.00,95.00,147.00,17.00,194.00
+2015,12,MQ,Envoy Air,EYW,"Key West, FL: Key West International",62.00,12.00,5.52,1.21,1.79,0.00,3.48,1.00,0.00,766.00,467.00,97.00,56.00,0.00,146.00
+2015,12,MQ,Envoy Air,DTW,"Detroit, MI: Detroit Metro Wayne County",145.00,23.00,6.22,4.49,4.66,0.00,7.63,7.00,2.00,1316.00,307.00,380.00,207.00,0.00,422.00
+2015,12,MQ,Envoy Air,LAX,"Los Angeles, CA: Los Angeles International",14.00,5.00,1.05,0.98,0.00,0.00,2.97,3.00,0.00,1523.00,848.00,134.00,0.00,0.00,541.00
+2015,12,MQ,Envoy Air,TLH,"Tallahassee, FL: Tallahassee International",14.00,2.00,0.02,0.00,0.00,0.00,1.98,0.00,0.00,144.00,1.00,0.00,0.00,0.00,143.00
+2015,12,MQ,Envoy Air,MEM,"Memphis, TN: Memphis International",63.00,10.00,1.03,1.22,3.48,0.00,4.28,2.00,0.00,439.00,58.00,79.00,121.00,0.00,181.00
+2015,12,MQ,Envoy Air,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",15.00,1.00,0.00,0.00,1.00,0.00,0.00,1.00,0.00,27.00,0.00,0.00,27.00,0.00,0.00
+2015,12,MQ,Envoy Air,LEX,"Lexington, KY: Blue Grass",66.00,12.00,2.62,0.79,4.91,0.00,3.68,1.00,0.00,589.00,82.00,114.00,255.00,0.00,138.00
+2015,12,MQ,Envoy Air,LSE,"La Crosse, WI: La Crosse Regional",103.00,17.00,4.29,2.78,3.97,0.00,5.96,2.00,0.00,777.00,99.00,348.00,125.00,0.00,205.00
+2015,12,MQ,Envoy Air,SAT,"San Antonio, TX: San Antonio International",29.00,9.00,0.80,1.42,4.81,0.00,1.97,1.00,0.00,360.00,20.00,84.00,160.00,0.00,96.00
+2015,12,MQ,Envoy Air,TUL,"Tulsa, OK: Tulsa International",41.00,8.00,2.55,2.76,2.24,0.00,0.45,1.00,0.00,447.00,124.00,200.00,73.00,0.00,50.00
+2015,12,MQ,Envoy Air,ROW,"Roswell, NM: Roswell International Air Center",84.00,3.00,2.11,0.00,0.07,0.00,0.82,14.00,0.00,155.00,101.00,0.00,6.00,0.00,48.00
+2015,12,MQ,Envoy Air,MQT,"Marquette, MI: Sawyer International",27.00,5.00,1.00,1.06,1.00,0.00,1.94,1.00,1.00,246.00,40.00,58.00,44.00,0.00,104.00
+2015,12,MQ,Envoy Air,SUX,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",58.00,12.00,5.30,1.40,1.24,0.00,4.06,2.00,1.00,439.00,141.00,63.00,47.00,0.00,188.00
+2015,12,MQ,Envoy Air,GRI,"Grand Island, NE: Central Nebraska Regional",60.00,3.00,1.00,0.62,0.00,0.00,1.38,1.00,0.00,152.00,55.00,29.00,0.00,0.00,68.00
+2015,12,MQ,Envoy Air,ALO,"Waterloo, IA: Waterloo Regional",58.00,7.00,1.48,0.45,2.51,0.00,2.56,3.00,0.00,231.00,51.00,20.00,81.00,0.00,79.00
+2015,12,MQ,Envoy Air,RST,"Rochester, MN: Rochester International",134.00,15.00,6.35,1.25,2.95,0.00,4.45,8.00,0.00,735.00,289.00,78.00,125.00,0.00,243.00
+2015,12,MQ,Envoy Air,ROC,"Rochester, NY: Greater Rochester International",90.00,13.00,4.70,2.69,3.07,0.00,2.53,5.00,0.00,1096.00,226.00,566.00,155.00,0.00,149.00
+2015,12,MQ,Envoy Air,MKE,"Milwaukee, WI: General Mitchell International",30.00,7.00,2.52,0.74,1.26,0.00,2.48,0.00,2.00,286.00,84.00,40.00,30.00,0.00,132.00
+2015,12,MQ,Envoy Air,MOB,"Mobile, AL: Mobile Regional",89.00,13.00,5.36,0.27,4.46,0.00,2.91,3.00,0.00,661.00,255.00,25.00,226.00,0.00,155.00
+2015,12,MQ,Envoy Air,GNV,"Gainesville, FL: Gainesville Regional",57.00,8.00,3.54,0.00,0.46,0.00,4.00,0.00,0.00,506.00,238.00,0.00,23.00,0.00,245.00
+2015,12,MQ,Envoy Air,PNS,"Pensacola, FL: Pensacola International",16.00,3.00,0.00,0.51,2.49,0.00,0.00,1.00,0.00,193.00,0.00,70.00,123.00,0.00,0.00
+2015,12,MQ,Envoy Air,SLC,"Salt Lake City, UT: Salt Lake City International",26.00,4.00,0.26,0.71,1.49,0.00,1.54,0.00,0.00,162.00,10.00,48.00,55.00,0.00,49.00
+2015,12,MQ,Envoy Air,TOL,"Toledo, OH: Toledo Express",85.00,12.00,1.50,1.10,3.13,0.00,6.27,4.00,0.00,491.00,63.00,35.00,113.00,0.00,280.00
+2015,12,MQ,Envoy Air,SDF,"Louisville, KY: Louisville Muhammad Ali International",63.00,12.00,1.94,0.76,6.39,0.00,2.90,3.00,0.00,699.00,107.00,60.00,214.00,0.00,318.00
+2015,12,MQ,Envoy Air,CHA,"Chattanooga, TN: Lovell Field",31.00,6.00,1.47,0.40,2.36,0.00,1.76,1.00,0.00,339.00,56.00,57.00,111.00,0.00,115.00
+2015,12,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",881.00,230.00,49.26,6.54,104.56,1.34,68.30,29.00,0.00,11946.00,1948.00,1041.00,5139.00,26.00,3792.00
+2015,12,NK,Spirit Air Lines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",273.00,74.00,29.06,0.31,15.60,0.00,29.03,3.00,0.00,4397.00,1440.00,36.00,731.00,0.00,2190.00
+2015,12,NK,Spirit Air Lines,DTW,"Detroit, MI: Detroit Metro Wayne County",731.00,173.00,58.34,0.55,46.21,0.00,67.90,15.00,0.00,10573.00,3795.00,43.00,2424.00,0.00,4311.00
+2015,12,NK,Spirit Air Lines,LAS,"Las Vegas, NV: McCarran International",877.00,293.00,86.81,0.33,123.04,3.19,79.62,12.00,0.00,15646.00,4170.00,25.00,5678.00,93.00,5680.00
+2015,12,NK,Spirit Air Lines,MCI,"Kansas City, MO: Kansas City International",93.00,33.00,7.12,0.47,9.52,0.00,15.90,2.00,0.00,1936.00,391.00,67.00,392.00,0.00,1086.00
+2015,12,NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",519.00,143.00,40.39,2.03,61.94,4.38,34.26,1.00,0.00,7547.00,1976.00,255.00,2877.00,90.00,2349.00
+2015,12,NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1142.00,371.00,75.81,2.92,159.00,6.09,127.18,8.00,1.00,22646.00,4828.00,214.00,7373.00,194.00,10037.00
+2015,12,NK,Spirit Air Lines,RSW,"Fort Myers, FL: Southwest Florida International",368.00,96.00,25.35,1.56,41.56,0.00,27.53,3.00,0.00,5018.00,1343.00,132.00,1801.00,0.00,1742.00
+2015,12,NK,Spirit Air Lines,MYR,"Myrtle Beach, SC: Myrtle Beach International",155.00,33.00,11.58,2.81,15.45,0.00,3.17,5.00,1.00,2911.00,1024.00,203.00,1289.00,0.00,395.00
+2015,12,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",543.00,180.00,41.83,1.44,80.00,2.59,54.14,8.00,0.00,9240.00,2211.00,43.00,3284.00,75.00,3627.00
+2015,12,NK,Spirit Air Lines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",341.00,86.00,24.87,1.93,34.97,0.16,24.07,4.00,0.00,3712.00,914.00,139.00,1529.00,3.00,1127.00
+2015,12,NK,Spirit Air Lines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",608.00,251.00,59.10,0.05,125.11,0.75,65.99,10.00,3.00,14458.00,3347.00,11.00,6356.00,31.00,4713.00
+2015,12,NK,Spirit Air Lines,BOS,"Boston, MA: Logan International",186.00,48.00,14.11,0.96,18.32,0.30,14.30,4.00,0.00,3077.00,621.00,256.00,870.00,17.00,1313.00
+2015,12,NK,Spirit Air Lines,CLE,"Cleveland, OH: Cleveland-Hopkins International",242.00,52.00,16.84,0.63,13.91,0.00,20.62,2.00,1.00,3193.00,947.00,62.00,498.00,0.00,1686.00
+2015,12,NK,Spirit Air Lines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",709.00,214.00,42.79,1.50,93.08,1.93,74.70,10.00,4.00,14919.00,3077.00,50.00,5475.00,65.00,6252.00
+2015,12,NK,Spirit Air Lines,SAN,"San Diego, CA: San Diego International",186.00,63.00,23.69,0.56,24.18,1.58,12.99,1.00,1.00,2958.00,1118.00,45.00,1102.00,37.00,656.00
+2015,12,NK,Spirit Air Lines,DEN,"Denver, CO: Denver International",304.00,66.00,21.42,0.82,26.24,0.28,17.23,9.00,0.00,3055.00,978.00,60.00,1092.00,10.00,915.00
+2015,12,NK,Spirit Air Lines,IAH,"Houston, TX: George Bush Intercontinental/Houston",470.00,142.00,34.37,1.73,65.80,3.62,36.48,13.00,2.00,6067.00,1608.00,68.00,2647.00,91.00,1653.00
+2015,12,NK,Spirit Air Lines,TPA,"Tampa, FL: Tampa International",414.00,123.00,45.54,0.89,44.02,0.25,32.30,8.00,0.00,7037.00,2574.00,72.00,1720.00,13.00,2658.00
+2015,12,NK,Spirit Air Lines,ACY,"Atlantic City, NJ: Atlantic City International",298.00,55.00,9.29,0.00,20.78,0.00,24.93,1.00,2.00,3262.00,381.00,0.00,1168.00,0.00,1713.00
+2015,12,NK,Spirit Air Lines,PDX,"Portland, OR: Portland International",42.00,19.00,5.55,0.00,8.31,0.00,5.14,0.00,0.00,1316.00,258.00,0.00,494.00,0.00,564.00
+2015,12,NK,Spirit Air Lines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",62.00,12.00,1.64,0.00,8.36,0.00,2.00,1.00,0.00,652.00,118.00,0.00,366.00,0.00,168.00
+2015,12,NK,Spirit Air Lines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",124.00,45.00,10.75,1.44,21.14,0.00,11.66,4.00,0.00,1845.00,446.00,93.00,739.00,0.00,567.00
+2015,12,NK,Spirit Air Lines,LGA,"New York, NY: LaGuardia",341.00,79.00,14.16,1.77,48.20,0.16,14.71,13.00,1.00,4308.00,1125.00,94.00,2363.00,8.00,718.00
+2015,12,NK,Spirit Air Lines,LBE,"Latrobe, PA: Arnold Palmer Regional",87.00,22.00,7.75,0.00,3.07,0.15,11.03,1.00,0.00,1287.00,529.00,0.00,131.00,6.00,621.00
+2015,12,NK,Spirit Air Lines,OAK,"Oakland, CA: Metropolitan Oakland International",186.00,55.00,18.90,0.00,16.98,0.00,19.12,3.00,0.00,3273.00,915.00,0.00,595.00,0.00,1763.00
+2015,12,NK,Spirit Air Lines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",186.00,58.00,15.98,0.00,16.76,0.73,24.52,5.00,0.00,3859.00,1096.00,0.00,791.00,19.00,1953.00
+2015,12,NK,Spirit Air Lines,BQN,"Aguadilla, PR: Rafael Hernandez",14.00,9.00,3.83,0.00,4.44,0.00,0.73,0.00,0.00,328.00,118.00,0.00,188.00,0.00,22.00
+2015,12,NK,Spirit Air Lines,PHL,"Philadelphia, PA: Philadelphia International",124.00,52.00,18.03,2.04,16.02,0.00,15.91,5.00,0.00,4357.00,1095.00,271.00,1736.00,0.00,1255.00
+2015,12,NK,Spirit Air Lines,PBG,"Plattsburgh, NY: Plattsburgh International",31.00,11.00,2.42,0.00,3.13,0.00,5.45,0.00,0.00,886.00,239.00,0.00,364.00,0.00,283.00
+2015,12,NK,Spirit Air Lines,IAG,"Niagara Falls, NY: Niagara Falls International",31.00,6.00,4.19,0.00,0.87,0.00,0.94,1.00,0.00,438.00,265.00,0.00,76.00,0.00,97.00
+2015,12,NK,Spirit Air Lines,SJU,"San Juan, PR: Luis Munoz Marin International",72.00,30.00,15.77,0.00,7.85,0.00,6.39,1.00,0.00,2172.00,1328.00,0.00,387.00,0.00,457.00
+2015,12,OO,SkyWest Airlines Inc.,HIB,"Hibbing, MN: Range Regional",85.00,9.00,1.21,1.00,2.29,0.00,4.50,1.00,0.00,375.00,25.00,110.00,87.00,0.00,153.00
+2015,12,OO,SkyWest Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",2529.00,553.00,102.81,24.90,194.37,0.85,230.06,28.00,2.00,35126.00,12023.00,1968.00,6680.00,17.00,14438.00
+2015,12,OO,SkyWest Airlines Inc.,INL,"International Falls, MN: Falls International Einarson Field",54.00,12.00,1.62,0.00,2.65,0.00,7.74,0.00,0.00,593.00,135.00,0.00,100.00,0.00,358.00
+2015,12,OO,SkyWest Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",3157.00,782.00,132.95,14.63,218.52,1.13,414.77,129.00,13.00,57778.00,15561.00,1570.00,11164.00,102.00,29381.00
+2015,12,OO,SkyWest Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell International",599.00,143.00,38.91,9.33,38.02,0.00,56.74,22.00,2.00,9056.00,2974.00,879.00,1554.00,0.00,3649.00
+2015,12,OO,SkyWest Airlines Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",231.00,56.00,13.92,4.81,18.20,0.68,18.39,6.00,3.00,2814.00,780.00,208.00,565.00,15.00,1246.00
+2015,12,OO,SkyWest Airlines Inc.,FAT,"Fresno, CA: Fresno Yosemite International",490.00,111.00,33.34,2.18,24.84,0.00,50.64,8.00,0.00,7206.00,2327.00,228.00,949.00,0.00,3702.00
+2015,12,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2009.00,551.00,90.38,8.69,197.28,1.81,252.85,65.00,7.00,33425.00,7884.00,889.00,7150.00,148.00,17354.00
+2015,12,OO,SkyWest Airlines Inc.,DEN,"Denver, CO: Denver International",4063.00,901.00,171.41,29.96,321.67,6.83,371.13,144.00,4.00,63142.00,15698.00,3846.00,18007.00,234.00,25357.00
+2015,12,OO,SkyWest Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",1523.00,444.00,108.12,9.65,164.35,0.22,161.65,37.00,5.00,29946.00,10344.00,1069.00,7256.00,40.00,11237.00
+2015,12,OO,SkyWest Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",17.00,4.00,2.93,0.00,0.36,0.00,0.71,0.00,0.00,100.00,78.00,0.00,7.00,0.00,15.00
+2015,12,OO,SkyWest Airlines Inc.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",104.00,30.00,9.57,0.69,12.99,0.00,6.75,0.00,0.00,1516.00,627.00,48.00,542.00,0.00,299.00
+2015,12,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",3288.00,1139.00,110.38,16.25,581.63,2.11,428.63,220.00,1.00,95916.00,11313.00,1305.00,50210.00,59.00,33029.00
+2015,12,OO,SkyWest Airlines Inc.,SBN,"South Bend, IN: South Bend International",315.00,57.00,18.16,0.18,9.95,0.00,28.71,9.00,0.00,5610.00,2789.00,12.00,329.00,0.00,2480.00
+2015,12,OO,SkyWest Airlines Inc.,MLI,"Moline, IL: Quad City International",36.00,9.00,1.00,0.00,3.73,0.00,4.27,0.00,0.00,253.00,43.00,0.00,94.00,0.00,116.00
+2015,12,OO,SkyWest Airlines Inc.,TVC,"Traverse City, MI: Cherry Capital",6.00,1.00,0.09,0.00,0.00,0.00,0.91,0.00,0.00,81.00,7.00,0.00,0.00,0.00,74.00
+2015,12,OO,SkyWest Airlines Inc.,ASE,"Aspen, CO: Aspen Pitkin County Sardy Field",384.00,162.00,47.17,7.59,53.43,0.00,53.81,33.00,27.00,11504.00,3631.00,1293.00,2707.00,0.00,3873.00
+2015,12,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",206.00,50.00,14.99,0.77,13.94,0.31,19.99,4.00,3.00,2702.00,843.00,14.00,497.00,11.00,1337.00
+2015,12,OO,SkyWest Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",1291.00,222.00,48.58,13.78,60.02,0.83,98.79,35.00,6.00,18540.00,7455.00,1368.00,1824.00,18.00,7875.00
+2015,12,OO,SkyWest Airlines Inc.,FAR,"Fargo, ND: Hector International",184.00,38.00,10.16,1.58,6.99,0.00,19.27,2.00,0.00,1895.00,546.00,67.00,243.00,0.00,1039.00
+2015,12,OO,SkyWest Airlines Inc.,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",36.00,4.00,0.95,0.00,1.05,0.00,2.00,0.00,0.00,187.00,39.00,0.00,32.00,0.00,116.00
+2015,12,OO,SkyWest Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",71.00,19.00,7.69,0.33,2.86,0.00,8.12,1.00,0.00,1545.00,850.00,60.00,129.00,0.00,506.00
+2015,12,OO,SkyWest Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",283.00,83.00,24.38,1.84,25.65,0.89,30.24,4.00,1.00,4540.00,1544.00,164.00,1034.00,16.00,1782.00
+2015,12,OO,SkyWest Airlines Inc.,PDX,"Portland, OR: Portland International",502.00,91.00,18.51,0.19,26.90,0.00,45.39,8.00,0.00,4987.00,1071.00,5.00,728.00,0.00,3183.00
+2015,12,OO,SkyWest Airlines Inc.,ELP,"El Paso, TX: El Paso International",92.00,24.00,7.47,0.43,7.84,0.00,8.26,2.00,0.00,1462.00,581.00,16.00,230.00,0.00,635.00
+2015,12,OO,SkyWest Airlines Inc.,LNK,"Lincoln, NE: Lincoln Airport",121.00,27.00,7.58,0.09,8.37,0.00,10.97,0.00,0.00,1794.00,507.00,5.00,372.00,0.00,910.00
+2015,12,OO,SkyWest Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",393.00,83.00,25.31,3.45,25.22,0.00,29.02,12.00,3.00,5366.00,2001.00,391.00,865.00,0.00,2109.00
+2015,12,OO,SkyWest Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",56.00,12.00,5.32,0.00,1.98,0.00,4.70,0.00,0.00,726.00,267.00,0.00,92.00,0.00,367.00
+2015,12,OO,SkyWest Airlines Inc.,BNA,"Nashville, TN: Nashville International",310.00,82.00,23.18,3.68,18.33,0.00,36.81,3.00,0.00,6776.00,2904.00,172.00,745.00,0.00,2955.00
+2015,12,OO,SkyWest Airlines Inc.,CMH,"Columbus, OH: John Glenn Columbus International",74.00,22.00,4.61,2.00,5.26,0.68,9.44,0.00,0.00,1170.00,232.00,186.00,175.00,17.00,560.00
+2015,12,OO,SkyWest Airlines Inc.,JAC,"Jackson, WY: Jackson Hole",112.00,26.00,10.09,0.55,5.39,0.00,9.98,3.00,3.00,1499.00,709.00,30.00,134.00,0.00,626.00
+2015,12,OO,SkyWest Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",306.00,76.00,26.89,2.80,16.61,0.00,29.70,10.00,3.00,5964.00,2369.00,148.00,1101.00,0.00,2346.00
+2015,12,OO,SkyWest Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",146.00,49.00,18.00,4.93,17.46,0.00,8.60,5.00,2.00,1790.00,711.00,156.00,486.00,0.00,437.00
+2015,12,OO,SkyWest Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",152.00,36.00,17.63,1.26,3.34,0.00,13.77,2.00,0.00,2310.00,1177.00,85.00,95.00,0.00,953.00
+2015,12,OO,SkyWest Airlines Inc.,HDN,"Hayden, CO: Yampa Valley",67.00,25.00,8.10,0.17,6.08,0.00,10.65,3.00,2.00,1545.00,639.00,9.00,217.00,0.00,680.00
+2015,12,OO,SkyWest Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",26.00,10.00,1.50,0.44,1.36,0.00,6.70,1.00,0.00,497.00,77.00,38.00,61.00,0.00,321.00
+2015,12,OO,SkyWest Airlines Inc.,BOI,"Boise, ID: Boise Air Terminal",754.00,191.00,57.51,3.90,45.82,0.00,83.77,15.00,5.00,10920.00,3869.00,446.00,1481.00,0.00,5124.00
+2015,12,OO,SkyWest Airlines Inc.,TUS,"Tucson, AZ: Tucson International",558.00,128.00,35.93,4.90,24.06,1.71,61.40,8.00,1.00,7670.00,1937.00,719.00,949.00,29.00,4036.00
+2015,12,OO,SkyWest Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",4070.00,810.00,141.98,26.05,206.50,2.63,432.84,71.00,3.00,56078.00,17936.00,2932.00,6904.00,80.00,28226.00
+2015,12,OO,SkyWest Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",1482.00,259.00,70.35,10.42,57.37,0.58,120.28,28.00,0.00,16869.00,6318.00,1529.00,1823.00,9.00,7190.00
+2015,12,OO,SkyWest Airlines Inc.,SBA,"Santa Barbara, CA: Santa Barbara Municipal",458.00,113.00,28.15,0.00,23.63,2.12,59.10,22.00,0.00,6054.00,1830.00,0.00,760.00,59.00,3405.00
+2015,12,OO,SkyWest Airlines Inc.,YUM,"Yuma, AZ: Yuma MCAS/Yuma International",176.00,30.00,10.40,0.00,7.80,2.00,9.81,2.00,0.00,1102.00,439.00,0.00,178.00,47.00,438.00
+2015,12,OO,SkyWest Airlines Inc.,MTJ,"Montrose/Delta, CO: Montrose Regional",72.00,25.00,7.78,1.70,4.14,0.00,11.38,0.00,1.00,1286.00,409.00,202.00,171.00,0.00,504.00
+2015,12,OO,SkyWest Airlines Inc.,SBP,"San Luis Obispo, CA: San Luis County Regional",218.00,45.00,17.93,1.00,9.87,0.12,16.08,5.00,0.00,2412.00,876.00,40.00,445.00,2.00,1049.00
+2015,12,OO,SkyWest Airlines Inc.,DRO,"Durango, CO: Durango La Plata County",134.00,20.00,4.83,1.10,6.63,0.00,7.44,4.00,2.00,961.00,235.00,88.00,213.00,0.00,425.00
+2015,12,OO,SkyWest Airlines Inc.,BFL,"Bakersfield, CA: Meadows Field",230.00,44.00,8.49,1.25,9.99,0.00,24.28,6.00,0.00,2506.00,592.00,106.00,347.00,0.00,1461.00
+2015,12,OO,SkyWest Airlines Inc.,FWA,"Fort Wayne, IN: Fort Wayne International",272.00,46.00,11.02,0.64,9.15,0.00,25.19,4.00,0.00,4508.00,1602.00,19.00,355.00,0.00,2532.00
+2015,12,OO,SkyWest Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",257.00,90.00,33.75,1.00,25.90,1.00,28.36,3.00,0.00,5196.00,2029.00,51.00,964.00,20.00,2132.00
+2015,12,OO,SkyWest Airlines Inc.,BZN,"Bozeman, MT: Bozeman Yellowstone International",151.00,33.00,9.09,1.00,10.54,0.00,12.37,3.00,4.00,1572.00,509.00,22.00,405.00,0.00,636.00
+2015,12,OO,SkyWest Airlines Inc.,HLN,"Helena, MT: Helena Regional",118.00,23.00,3.77,0.20,10.12,0.00,8.91,2.00,4.00,917.00,215.00,11.00,311.00,0.00,380.00
+2015,12,OO,SkyWest Airlines Inc.,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",235.00,42.00,12.57,0.70,12.38,0.00,16.35,2.00,1.00,2468.00,594.00,171.00,458.00,0.00,1245.00
+2015,12,OO,SkyWest Airlines Inc.,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",224.00,43.00,9.28,0.77,14.47,0.00,18.48,5.00,0.00,2171.00,548.00,59.00,476.00,0.00,1088.00
+2015,12,OO,SkyWest Airlines Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",125.00,32.00,9.01,1.60,4.69,0.00,16.71,4.00,0.00,2516.00,974.00,113.00,248.00,0.00,1181.00
+2015,12,OO,SkyWest Airlines Inc.,TWF,"Twin Falls, ID: Joslin Field - Magic Valley Regional",70.00,27.00,1.49,0.48,19.38,0.00,5.65,0.00,0.00,1198.00,135.00,73.00,618.00,0.00,372.00
+2015,12,OO,SkyWest Airlines Inc.,BGM,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",63.00,11.00,4.70,0.00,3.04,0.00,3.26,0.00,1.00,904.00,299.00,0.00,74.00,0.00,531.00
+2015,12,OO,SkyWest Airlines Inc.,ITH,"Ithaca/Cortland, NY: Ithaca Tompkins Regional",23.00,5.00,0.15,0.00,0.10,0.00,4.75,2.00,0.00,261.00,6.00,0.00,3.00,0.00,252.00
+2015,12,OO,SkyWest Airlines Inc.,PLN,"Pellston, MI: Pellston Regional Airport of Emmet County",62.00,10.00,3.00,1.00,2.23,0.00,3.77,1.00,1.00,668.00,140.00,37.00,55.00,0.00,436.00
+2015,12,OO,SkyWest Airlines Inc.,MQT,"Marquette, MI: Sawyer International",19.00,5.00,1.65,0.00,0.28,0.00,3.07,2.00,0.00,290.00,109.00,0.00,21.00,0.00,160.00
+2015,12,OO,SkyWest Airlines Inc.,ESC,"Escanaba, MI: Delta County",54.00,6.00,1.00,0.00,1.36,0.00,3.64,1.00,1.00,429.00,16.00,0.00,63.00,0.00,350.00
+2015,12,OO,SkyWest Airlines Inc.,EUG,"Eugene, OR: Mahlon Sweet Field",305.00,97.00,26.97,2.75,30.22,0.00,37.05,11.00,1.00,6076.00,1821.00,260.00,904.00,0.00,3091.00
+2015,12,OO,SkyWest Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",261.00,79.00,26.67,1.13,21.89,0.00,29.31,4.00,1.00,4440.00,1610.00,50.00,752.00,0.00,2028.00
+2015,12,OO,SkyWest Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",1510.00,390.00,61.03,8.06,150.33,1.12,169.45,15.00,0.00,24266.00,6354.00,716.00,4671.00,21.00,12504.00
+2015,12,OO,SkyWest Airlines Inc.,GEG,"Spokane, WA: Spokane International",255.00,75.00,24.73,0.48,21.91,0.71,27.16,1.00,0.00,4987.00,2455.00,60.00,769.00,20.00,1683.00
+2015,12,OO,SkyWest Airlines Inc.,FLG,"Flagstaff, AZ: Flagstaff Pulliam",160.00,16.00,5.87,2.62,0.80,0.63,6.07,12.00,1.00,882.00,398.00,114.00,36.00,25.00,309.00
+2015,12,OO,SkyWest Airlines Inc.,PSP,"Palm Springs, CA: Palm Springs International",464.00,90.00,31.67,0.07,22.14,0.89,35.24,9.00,1.00,4422.00,1641.00,8.00,715.00,16.00,2042.00
+2015,12,OO,SkyWest Airlines Inc.,MRY,"Monterey, CA: Monterey Regional",222.00,42.00,11.65,1.60,9.00,1.57,18.18,11.00,6.00,2248.00,702.00,186.00,284.00,52.00,1024.00
+2015,12,OO,SkyWest Airlines Inc.,GJT,"Grand Junction, CO: Grand Junction Regional",184.00,29.00,8.50,2.00,6.01,0.00,12.49,2.00,5.00,1587.00,549.00,66.00,266.00,0.00,706.00
+2015,12,OO,SkyWest Airlines Inc.,BIL,"Billings, MT: Billings Logan International",142.00,27.00,6.59,1.62,9.39,0.00,9.40,2.00,2.00,1231.00,345.00,110.00,265.00,0.00,511.00
+2015,12,OO,SkyWest Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",173.00,40.00,13.45,0.00,12.51,0.00,14.04,0.00,1.00,2426.00,894.00,0.00,494.00,0.00,1038.00
+2015,12,OO,SkyWest Airlines Inc.,IDA,"Idaho Falls, ID: Idaho Falls Regional",206.00,41.00,9.66,5.24,17.04,0.00,9.06,1.00,0.00,1737.00,543.00,162.00,610.00,0.00,422.00
+2015,12,OO,SkyWest Airlines Inc.,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",298.00,69.00,17.62,1.99,15.46,1.00,32.93,10.00,2.00,3789.00,1476.00,130.00,498.00,27.00,1658.00
+2015,12,OO,SkyWest Airlines Inc.,FSD,"Sioux Falls, SD: Joe Foss Field",136.00,30.00,11.99,0.00,8.17,1.00,8.83,2.00,0.00,1636.00,929.00,0.00,290.00,19.00,398.00
+2015,12,OO,SkyWest Airlines Inc.,LAS,"Las Vegas, NV: McCarran International",166.00,32.00,12.07,0.00,7.30,0.00,12.63,3.00,0.00,1777.00,1069.00,0.00,206.00,0.00,502.00
+2015,12,OO,SkyWest Airlines Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",47.00,13.00,2.82,0.00,6.41,0.00,3.77,0.00,0.00,620.00,212.00,0.00,179.00,0.00,229.00
+2015,12,OO,SkyWest Airlines Inc.,LGB,"Long Beach, CA: Long Beach Airport",110.00,20.00,6.94,0.81,4.97,0.00,7.27,1.00,1.00,1877.00,914.00,64.00,182.00,0.00,717.00
+2015,12,OO,SkyWest Airlines Inc.,DLH,"Duluth, MN: Duluth International",166.00,30.00,14.27,0.95,7.11,0.00,7.67,8.00,1.00,1792.00,960.00,18.00,313.00,0.00,501.00
+2015,12,OO,SkyWest Airlines Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",133.00,30.00,7.93,0.00,5.34,0.00,16.73,3.00,2.00,2110.00,525.00,0.00,173.00,0.00,1412.00
+2015,12,OO,SkyWest Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",427.00,110.00,29.99,5.38,36.53,0.42,37.68,13.00,0.00,9981.00,3284.00,469.00,1722.00,21.00,4485.00
+2015,12,OO,SkyWest Airlines Inc.,GFK,"Grand Forks, ND: Grand Forks International",112.00,16.00,2.40,0.00,5.96,0.00,7.64,2.00,1.00,671.00,120.00,0.00,212.00,0.00,339.00
+2015,12,OO,SkyWest Airlines Inc.,SAN,"San Diego, CA: San Diego International",361.00,79.00,28.85,2.08,10.18,0.97,36.92,11.00,0.00,5252.00,2151.00,135.00,381.00,31.00,2554.00
+2015,12,OO,SkyWest Airlines Inc.,CDC,"Cedar City, UT: Cedar City Regional",54.00,20.00,1.19,0.98,13.50,0.00,4.34,0.00,1.00,1013.00,105.00,156.00,461.00,0.00,291.00
+2015,12,OO,SkyWest Airlines Inc.,COD,"Cody, WY: Yellowstone Regional",35.00,7.00,1.99,0.00,3.23,0.00,1.78,2.00,0.00,337.00,178.00,0.00,89.00,0.00,70.00
+2015,12,OO,SkyWest Airlines Inc.,CPR,"Casper, WY: Casper/Natrona County International",98.00,19.00,6.46,0.04,9.14,0.00,3.37,1.00,0.00,645.00,260.00,2.00,272.00,0.00,111.00
+2015,12,OO,SkyWest Airlines Inc.,TUL,"Tulsa, OK: Tulsa International",140.00,37.00,5.39,0.00,19.56,0.00,12.05,3.00,0.00,1711.00,242.00,0.00,747.00,0.00,722.00
+2015,12,OO,SkyWest Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",487.00,117.00,36.01,1.72,26.36,1.53,51.38,10.00,0.00,8019.00,2729.00,780.00,1104.00,71.00,3335.00
+2015,12,OO,SkyWest Airlines Inc.,CAK,"Akron, OH: Akron-Canton Regional",4.00,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,MFR,"Medford, OR: Rogue Valley International - Medford",245.00,83.00,20.63,2.05,35.62,0.00,24.70,11.00,1.00,4350.00,1274.00,191.00,1198.00,0.00,1687.00
+2015,12,OO,SkyWest Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",17.00,8.00,4.05,0.00,1.37,0.00,2.57,0.00,0.00,626.00,186.00,0.00,74.00,0.00,366.00
+2015,12,OO,SkyWest Airlines Inc.,MEM,"Memphis, TN: Memphis International",106.00,24.00,8.89,0.00,6.44,0.00,8.68,3.00,0.00,1381.00,734.00,0.00,157.00,0.00,490.00
+2015,12,OO,SkyWest Airlines Inc.,IMT,"Iron Mountain/Kingsfd, MI: Ford",59.00,7.00,0.00,0.92,2.98,0.00,3.10,2.00,0.00,406.00,0.00,93.00,89.00,0.00,224.00
+2015,12,OO,SkyWest Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",393.00,105.00,31.51,0.74,25.96,0.00,46.78,9.00,1.00,5274.00,1701.00,93.00,791.00,0.00,2689.00
+2015,12,OO,SkyWest Airlines Inc.,SMX,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",59.00,15.00,3.00,1.64,1.87,0.00,8.49,5.00,0.00,1007.00,231.00,234.00,50.00,0.00,492.00
+2015,12,OO,SkyWest Airlines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas Regional",141.00,33.00,10.35,0.00,11.01,0.00,11.64,4.00,0.00,1679.00,659.00,0.00,286.00,0.00,734.00
+2015,12,OO,SkyWest Airlines Inc.,BUR,"Burbank, CA: Bob Hope",382.00,75.00,19.45,1.64,17.93,0.00,35.99,13.00,0.00,4726.00,1111.00,129.00,580.00,0.00,2906.00
+2015,12,OO,SkyWest Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",167.00,35.00,10.67,1.60,12.65,0.00,10.08,7.00,0.00,1792.00,692.00,97.00,470.00,0.00,533.00
+2015,12,OO,SkyWest Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",244.00,75.00,21.94,1.54,12.59,0.00,38.92,15.00,1.00,3928.00,1188.00,88.00,468.00,0.00,2184.00
+2015,12,OO,SkyWest Airlines Inc.,MMH,"Mammoth Lakes, CA: Mammoth Lakes Airport",17.00,7.00,2.92,1.93,0.82,0.00,1.33,7.00,0.00,586.00,256.00,85.00,65.00,0.00,180.00
+2015,12,OO,SkyWest Airlines Inc.,HYS,"Hays, KS: Hays Regional",53.00,9.00,3.97,0.00,4.73,0.00,0.29,2.00,1.00,388.00,222.00,0.00,161.00,0.00,5.00
+2015,12,OO,SkyWest Airlines Inc.,RNO,"Reno, NV: Reno/Tahoe International",179.00,55.00,18.70,1.78,11.61,0.00,22.91,8.00,1.00,3503.00,1405.00,188.00,404.00,0.00,1506.00
+2015,12,OO,SkyWest Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",119.00,48.00,15.64,3.38,17.35,0.00,11.63,5.00,1.00,2118.00,739.00,216.00,577.00,0.00,586.00
+2015,12,OO,SkyWest Airlines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",68.00,21.00,7.52,0.00,4.64,0.00,8.84,0.00,0.00,1444.00,547.00,0.00,188.00,0.00,709.00
+2015,12,OO,SkyWest Airlines Inc.,OTH,"North Bend/Coos Bay, OR: Southwest Oregon Regional",19.00,7.00,1.14,0.02,2.29,0.00,3.55,3.00,1.00,725.00,309.00,4.00,88.00,0.00,324.00
+2015,12,OO,SkyWest Airlines Inc.,ONT,"Ontario, CA: Ontario International",309.00,51.00,23.80,0.90,7.65,0.00,18.65,16.00,0.00,3442.00,1826.00,50.00,275.00,0.00,1291.00
+2015,12,OO,SkyWest Airlines Inc.,MKG,"Muskegon, MI: Muskegon County",61.00,16.00,3.99,1.42,3.09,0.00,7.49,4.00,1.00,859.00,307.00,140.00,118.00,0.00,294.00
+2015,12,OO,SkyWest Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",164.00,33.00,4.52,0.77,16.62,0.00,11.08,2.00,2.00,1992.00,370.00,151.00,543.00,0.00,928.00
+2015,12,OO,SkyWest Airlines Inc.,FCA,"Kalispell, MT: Glacier Park International",147.00,37.00,10.06,2.16,9.46,0.42,14.90,2.00,1.00,1918.00,577.00,105.00,385.00,30.00,821.00
+2015,12,OO,SkyWest Airlines Inc.,MBS,"Saginaw/Bay City/Midland, MI: MBS International",150.00,38.00,11.87,0.95,12.28,0.00,12.90,6.00,0.00,2332.00,891.00,35.00,413.00,0.00,993.00
+2015,12,OO,SkyWest Airlines Inc.,STL,"St. Louis, MO: St Louis Lambert International",197.00,51.00,15.19,2.16,18.26,0.00,15.39,5.00,0.00,2834.00,1116.00,148.00,624.00,0.00,946.00
+2015,12,OO,SkyWest Airlines Inc.,BRD,"Brainerd, MN: Brainerd Lakes Regional",54.00,1.00,1.00,0.00,0.00,0.00,0.00,2.00,0.00,37.00,37.00,0.00,0.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",147.00,47.00,17.74,0.00,4.46,0.51,24.30,2.00,1.00,3344.00,1554.00,0.00,169.00,26.00,1595.00
+2015,12,OO,SkyWest Airlines Inc.,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",206.00,33.00,13.68,1.00,8.09,0.00,10.24,8.00,0.00,1465.00,627.00,70.00,189.00,0.00,579.00
+2015,12,OO,SkyWest Airlines Inc.,LAN,"Lansing, MI: Capital Region International",135.00,21.00,3.16,2.32,5.66,0.00,9.86,5.00,0.00,1101.00,83.00,145.00,207.00,0.00,666.00
+2015,12,OO,SkyWest Airlines Inc.,RAP,"Rapid City, SD: Rapid City Regional",162.00,30.00,11.01,0.74,11.58,0.00,6.67,1.00,3.00,1444.00,668.00,34.00,303.00,0.00,439.00
+2015,12,OO,SkyWest Airlines Inc.,PIA,"Peoria, IL: General Downing - Peoria International",74.00,16.00,2.38,0.00,5.64,0.00,7.98,2.00,0.00,884.00,219.00,0.00,225.00,0.00,440.00
+2015,12,OO,SkyWest Airlines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",24.00,2.00,0.09,0.00,1.91,0.00,0.00,0.00,1.00,55.00,3.00,0.00,52.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,MOT,"Minot, ND: Minot International",158.00,25.00,8.73,0.00,8.65,0.00,7.62,1.00,2.00,862.00,324.00,0.00,246.00,0.00,292.00
+2015,12,OO,SkyWest Airlines Inc.,PIH,"Pocatello, ID: Pocatello Regional",56.00,13.00,1.33,0.00,10.50,0.00,1.17,0.00,1.00,486.00,136.00,0.00,326.00,0.00,24.00
+2015,12,OO,SkyWest Airlines Inc.,EKO,"Elko, NV: Elko Regional",51.00,9.00,1.76,0.48,4.10,0.00,2.66,1.00,0.00,715.00,261.00,37.00,191.00,0.00,226.00
+2015,12,OO,SkyWest Airlines Inc.,LWS,"Lewiston, ID: Lewiston Nez Perce County",58.00,6.00,1.10,0.91,3.60,0.00,0.39,0.00,1.00,799.00,38.00,581.00,161.00,0.00,19.00
+2015,12,OO,SkyWest Airlines Inc.,RHI,"Rhinelander, WI: Rhinelander/Oneida County",90.00,7.00,0.94,0.00,4.00,0.00,2.06,2.00,2.00,526.00,296.00,0.00,155.00,0.00,75.00
+2015,12,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",65.00,20.00,4.88,0.00,8.69,0.00,6.43,1.00,1.00,1422.00,801.00,0.00,285.00,0.00,336.00
+2015,12,OO,SkyWest Airlines Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",49.00,6.00,0.00,3.00,1.00,0.00,2.00,1.00,0.00,437.00,0.00,247.00,29.00,0.00,161.00
+2015,12,OO,SkyWest Airlines Inc.,GRB,"Green Bay, WI: Green Bay Austin Straubel International",119.00,30.00,12.83,0.84,4.82,0.00,11.52,2.00,0.00,2316.00,1459.00,56.00,164.00,0.00,637.00
+2015,12,OO,SkyWest Airlines Inc.,LEX,"Lexington, KY: Blue Grass",33.00,8.00,1.67,0.95,3.39,0.00,2.00,0.00,0.00,603.00,43.00,105.00,85.00,0.00,370.00
+2015,12,OO,SkyWest Airlines Inc.,TYS,"Knoxville, TN: McGhee Tyson",14.00,5.00,1.59,0.00,0.01,0.00,3.40,1.00,0.00,666.00,205.00,0.00,1.00,0.00,460.00
+2015,12,OO,SkyWest Airlines Inc.,LSE,"La Crosse, WI: La Crosse Regional",83.00,13.00,2.96,0.00,6.54,0.00,3.50,2.00,2.00,480.00,177.00,0.00,167.00,0.00,136.00
+2015,12,OO,SkyWest Airlines Inc.,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",30.00,4.00,1.76,0.29,0.92,0.00,1.03,0.00,0.00,181.00,58.00,27.00,21.00,0.00,75.00
+2015,12,OO,SkyWest Airlines Inc.,RDM,"Bend/Redmond, OR: Roberts Field",209.00,53.00,11.19,0.48,18.06,0.00,23.28,10.00,0.00,2945.00,577.00,66.00,629.00,0.00,1673.00
+2015,12,OO,SkyWest Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",36.00,5.00,2.00,0.00,1.01,0.00,1.99,1.00,0.00,818.00,262.00,0.00,36.00,0.00,520.00
+2015,12,OO,SkyWest Airlines Inc.,ISN,"Williston, ND: Sloulin Field International",160.00,23.00,3.88,1.92,8.13,0.00,9.08,3.00,1.00,1149.00,148.00,251.00,241.00,0.00,509.00
+2015,12,OO,SkyWest Airlines Inc.,GTF,"Great Falls, MT: Great Falls International",163.00,31.00,6.14,1.04,9.75,0.00,14.06,2.00,0.00,1472.00,276.00,81.00,348.00,0.00,767.00
+2015,12,OO,SkyWest Airlines Inc.,MSO,"Missoula, MT: Missoula International",122.00,29.00,10.86,0.95,8.88,0.00,8.31,1.00,0.00,1319.00,618.00,37.00,309.00,0.00,355.00
+2015,12,OO,SkyWest Airlines Inc.,CIU,"Sault Ste. Marie, MI: Chippewa County International",62.00,9.00,2.72,0.00,1.92,0.00,4.36,4.00,0.00,358.00,58.00,0.00,54.00,0.00,246.00
+2015,12,OO,SkyWest Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",3.00,1.00,0.77,0.00,0.00,0.00,0.23,0.00,0.00,65.00,50.00,0.00,0.00,0.00,15.00
+2015,12,OO,SkyWest Airlines Inc.,ATW,"Appleton, WI: Appleton International",43.00,15.00,7.87,0.00,1.17,0.00,5.97,2.00,0.00,669.00,440.00,0.00,22.00,0.00,207.00
+2015,12,OO,SkyWest Airlines Inc.,SUN,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",102.00,18.00,4.93,0.75,7.78,0.00,4.53,1.00,37.00,959.00,319.00,92.00,279.00,0.00,269.00
+2015,12,OO,SkyWest Airlines Inc.,GCC,"Gillette, WY: Gillette Campbell County",89.00,15.00,0.72,0.44,4.95,0.00,8.89,1.00,0.00,799.00,34.00,51.00,223.00,0.00,491.00
+2015,12,OO,SkyWest Airlines Inc.,JNU,"Juneau, AK: Juneau International",,,,,,,,,,,,,,,
+2015,12,OO,SkyWest Airlines Inc.,BRO,"Brownsville, TX: Brownsville South Padre Island International",18.00,1.00,0.94,0.00,0.00,0.00,0.06,0.00,0.00,68.00,64.00,0.00,0.00,0.00,4.00
+2015,12,OO,SkyWest Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",60.00,20.00,7.84,0.00,5.24,0.75,6.17,2.00,0.00,1097.00,503.00,0.00,155.00,18.00,421.00
+2015,12,OO,SkyWest Airlines Inc.,LBB,"Lubbock, TX: Lubbock Preston Smith International",59.00,14.00,5.60,1.00,2.87,0.00,4.53,8.00,0.00,1247.00,512.00,57.00,129.00,0.00,549.00
+2015,12,OO,SkyWest Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",28.00,12.00,3.27,1.50,3.49,0.29,3.45,1.00,0.00,942.00,347.00,166.00,158.00,5.00,266.00
+2015,12,OO,SkyWest Airlines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",62.00,9.00,3.16,0.00,2.10,0.00,3.74,0.00,0.00,526.00,223.00,0.00,52.00,0.00,251.00
+2015,12,OO,SkyWest Airlines Inc.,CHS,"Charleston, SC: Charleston AFB/International",77.00,21.00,6.72,1.00,7.60,0.00,5.68,0.00,0.00,815.00,375.00,15.00,189.00,0.00,236.00
+2015,12,OO,SkyWest Airlines Inc.,SHV,"Shreveport, LA: Shreveport Regional",66.00,18.00,5.81,0.27,3.83,0.00,8.10,1.00,0.00,912.00,346.00,13.00,162.00,0.00,391.00
+2015,12,OO,SkyWest Airlines Inc.,SGF,"Springfield, MO: Springfield-Branson National",49.00,10.00,3.46,0.00,5.55,0.00,0.99,2.00,0.00,476.00,248.00,0.00,168.00,0.00,60.00
+2015,12,OO,SkyWest Airlines Inc.,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",15.00,6.00,1.76,0.00,0.70,0.00,3.54,1.00,0.00,364.00,100.00,0.00,78.00,0.00,186.00
+2015,12,OO,SkyWest Airlines Inc.,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",20.00,2.00,0.00,0.00,0.16,0.00,1.84,0.00,0.00,149.00,0.00,0.00,16.00,0.00,133.00
+2015,12,OO,SkyWest Airlines Inc.,ORF,"Norfolk, VA: Norfolk International",33.00,5.00,1.87,0.00,2.03,0.00,1.10,0.00,1.00,274.00,131.00,0.00,49.00,0.00,94.00
+2015,12,OO,SkyWest Airlines Inc.,AVL,"Asheville, NC: Asheville Regional",31.00,4.00,0.97,0.00,0.16,0.00,2.87,2.00,0.00,374.00,218.00,0.00,13.00,0.00,143.00
+2015,12,OO,SkyWest Airlines Inc.,RKS,"Rock Springs, WY: Southwest Wyoming Regional",57.00,8.00,1.24,1.20,2.20,0.00,3.37,0.00,0.00,296.00,29.00,88.00,65.00,0.00,114.00
+2015,12,OO,SkyWest Airlines Inc.,EAU,"Eau Claire, WI: Chippewa Valley Regional",62.00,10.00,1.55,0.00,4.08,0.00,4.37,3.00,1.00,389.00,73.00,0.00,80.00,0.00,236.00
+2015,12,OO,SkyWest Airlines Inc.,SPI,"Springfield, IL: Abraham Lincoln Capital",90.00,23.00,7.78,0.67,4.85,0.00,9.70,2.00,0.00,1380.00,448.00,32.00,218.00,0.00,682.00
+2015,12,OO,SkyWest Airlines Inc.,CMX,"Hancock/Houghton, MI: Houghton County Memorial",62.00,11.00,3.70,1.50,2.32,0.00,3.48,5.00,2.00,606.00,147.00,151.00,78.00,0.00,230.00
+2015,12,OO,SkyWest Airlines Inc.,SGU,"St. George, UT: St George Regional",160.00,44.00,6.90,0.32,25.29,0.00,11.49,1.00,0.00,2141.00,432.00,37.00,787.00,0.00,885.00
+2015,12,OO,SkyWest Airlines Inc.,ALB,"Albany, NY: Albany International",23.00,5.00,3.54,0.00,0.97,0.00,0.49,0.00,0.00,234.00,158.00,0.00,46.00,0.00,30.00
+2015,12,OO,SkyWest Airlines Inc.,CRP,"Corpus Christi, TX: Corpus Christi International",53.00,10.00,2.71,0.00,0.67,0.00,6.63,4.00,0.00,435.00,183.00,0.00,14.00,0.00,238.00
+2015,12,OO,SkyWest Airlines Inc.,LGA,"New York, NY: LaGuardia",10.00,1.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,121.00,0.00,0.00,0.00,0.00,121.00
+2015,12,OO,SkyWest Airlines Inc.,BOS,"Boston, MA: Logan International",6.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,64.00,64.00,0.00,0.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,ACV,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",125.00,43.00,11.85,0.96,13.74,0.00,16.45,7.00,0.00,2506.00,963.00,137.00,397.00,0.00,1009.00
+2015,12,OO,SkyWest Airlines Inc.,PAH,"Paducah, KY: Barkley Regional",61.00,13.00,6.44,0.00,1.73,0.00,4.83,5.00,0.00,864.00,457.00,0.00,64.00,0.00,343.00
+2015,12,OO,SkyWest Airlines Inc.,JMS,"Jamestown, ND: Jamestown Regional",77.00,4.00,1.73,0.00,0.13,0.00,2.14,7.00,4.00,214.00,90.00,0.00,9.00,0.00,115.00
+2015,12,OO,SkyWest Airlines Inc.,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",90.00,20.00,3.59,1.03,8.66,0.00,6.71,8.00,0.00,1028.00,167.00,120.00,369.00,0.00,372.00
+2015,12,OO,SkyWest Airlines Inc.,RDD,"Redding, CA: Redding Municipal",61.00,13.00,0.42,0.82,2.91,0.00,8.85,7.00,0.00,585.00,15.00,37.00,77.00,0.00,456.00
+2015,12,OO,SkyWest Airlines Inc.,DVL,"Devils Lake, ND: Devils Lake Regional",50.00,7.00,2.00,0.00,3.69,0.00,1.31,7.00,0.00,339.00,123.00,0.00,66.00,0.00,150.00
+2015,12,OO,SkyWest Airlines Inc.,RIC,"Richmond, VA: Richmond International",13.00,6.00,1.78,0.00,3.22,0.00,1.00,0.00,0.00,306.00,99.00,0.00,66.00,0.00,141.00
+2015,12,OO,SkyWest Airlines Inc.,AMA,"Amarillo, TX: Rick Husband Amarillo International",4.00,1.00,0.18,0.00,0.69,0.00,0.13,1.00,0.00,39.00,7.00,0.00,27.00,0.00,5.00
+2015,12,OO,SkyWest Airlines Inc.,MIA,"Miami, FL: Miami International",4.00,1.00,0.81,0.00,0.19,0.00,0.00,0.00,0.00,16.00,13.00,0.00,3.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,LAR,"Laramie, WY: Laramie Regional",53.00,10.00,4.92,0.00,2.62,0.00,2.46,3.00,0.00,629.00,489.00,0.00,80.00,0.00,60.00
+2015,12,OO,SkyWest Airlines Inc.,BDL,"Hartford, CT: Bradley International",34.00,11.00,5.27,2.44,0.90,0.00,2.39,1.00,0.00,801.00,427.00,170.00,78.00,0.00,126.00
+2015,12,OO,SkyWest Airlines Inc.,CWA,"Mosinee, WI: Central Wisconsin",1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",4.00,3.00,0.86,0.00,2.00,0.00,0.14,0.00,0.00,442.00,127.00,0.00,294.00,0.00,21.00
+2015,12,OO,SkyWest Airlines Inc.,HRL,"Harlingen/San Benito, TX: Valley International",,,,,,,,,,,,,,,
+2015,12,OO,SkyWest Airlines Inc.,CRW,"Charleston/Dunbar, WV: Yeager",3.00,1.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,20.00,0.00,0.00,20.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",2.00,2.00,1.00,0.00,0.12,0.00,0.88,0.00,0.00,126.00,59.00,0.00,8.00,0.00,59.00
+2015,12,OO,SkyWest Airlines Inc.,GUC,"Gunnison, CO: Gunnison-Crested Butte Regional",15.00,4.00,0.06,0.42,1.07,0.00,2.46,0.00,0.00,292.00,1.00,88.00,119.00,0.00,84.00
+2015,12,OO,SkyWest Airlines Inc.,PVD,"Providence, RI: Theodore Francis Green State",1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,OO,SkyWest Airlines Inc.,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,MQ,Envoy Air,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",29.00,7.00,1.20,0.00,1.33,0.00,4.47,1.00,0.00,558.00,110.00,0.00,90.00,0.00,358.00
+2015,12,OO,SkyWest Airlines Inc.,ABR,"Aberdeen, SD: Aberdeen Regional",62.00,10.00,3.87,1.00,1.00,0.00,4.13,1.00,0.00,742.00,231.00,210.00,73.00,0.00,228.00
+2015,12,OO,SkyWest Airlines Inc.,APN,"Alpena, MI: Alpena County Regional",54.00,9.00,2.58,1.00,2.52,0.00,2.90,3.00,0.00,1008.00,149.00,229.00,89.00,0.00,541.00
+2015,12,OO,SkyWest Airlines Inc.,BJI,"Bemidji, MN: Bemidji Regional",62.00,5.00,1.85,0.00,2.00,0.00,1.15,0.00,0.00,121.00,59.00,0.00,34.00,0.00,28.00
+2015,12,UA,United Air Lines Inc.,DEN,"Denver, CO: Denver International",4636.00,825.00,289.58,41.15,193.15,0.00,301.11,90.00,5.00,76941.00,21664.00,5642.00,19080.00,0.00,30555.00
+2015,12,UA,United Air Lines Inc.,RNO,"Reno, NV: Reno/Tahoe International",61.00,19.00,7.08,0.08,6.72,0.00,5.12,1.00,0.00,1098.00,282.00,15.00,226.00,0.00,575.00
+2015,12,UA,United Air Lines Inc.,IAD,"Washington, DC: Washington Dulles International",1687.00,246.00,98.11,12.02,32.18,0.00,103.69,20.00,2.00,17455.00,6221.00,1196.00,1199.00,0.00,8839.00
+2015,12,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4057.00,1133.00,270.28,33.66,596.21,0.00,232.86,58.00,4.00,95637.00,19825.00,3188.00,48342.00,0.00,24282.00
+2015,12,UA,United Air Lines Inc.,SAN,"San Diego, CA: San Diego International",716.00,153.00,64.52,9.58,14.50,0.00,64.40,12.00,1.00,10479.00,3881.00,707.00,672.00,0.00,5219.00
+2015,12,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5282.00,787.00,266.31,28.52,152.07,0.00,340.10,172.00,15.00,70906.00,22542.00,3419.00,9762.00,0.00,35183.00
+2015,12,UA,United Air Lines Inc.,LAS,"Las Vegas, NV: McCarran International",771.00,139.00,53.51,6.03,15.54,0.00,63.91,10.00,0.00,11421.00,4118.00,696.00,576.00,0.00,6031.00
+2015,12,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4019.00,883.00,240.47,22.50,357.41,0.00,262.62,45.00,7.00,75599.00,18460.00,2907.00,25939.00,0.00,28293.00
+2015,12,UA,United Air Lines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",279.00,55.00,24.37,1.86,8.87,0.00,19.89,7.00,0.00,4538.00,1986.00,138.00,289.00,0.00,2125.00
+2015,12,UA,United Air Lines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",68.00,11.00,5.22,2.00,2.00,0.00,1.78,1.00,0.00,903.00,598.00,170.00,47.00,0.00,88.00
+2015,12,UA,United Air Lines Inc.,BOS,"Boston, MA: Logan International",925.00,171.00,61.70,8.25,33.98,0.00,67.07,15.00,1.00,12439.00,4857.00,601.00,1296.00,0.00,5685.00
+2015,12,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2359.00,488.00,194.85,26.86,113.59,0.00,152.71,32.00,7.00,33205.00,12494.00,2471.00,3559.00,0.00,14681.00
+2015,12,UA,United Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",743.00,156.00,59.35,6.93,26.00,0.00,63.73,14.00,0.00,12024.00,4069.00,488.00,1005.00,0.00,6462.00
+2015,12,UA,United Air Lines Inc.,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",460.00,76.00,31.67,2.29,14.57,0.00,27.47,12.00,8.00,4412.00,1539.00,162.00,629.00,0.00,2082.00
+2015,12,UA,United Air Lines Inc.,TPA,"Tampa, FL: Tampa International",569.00,131.00,52.57,5.76,21.10,0.00,51.57,8.00,0.00,8942.00,3372.00,303.00,610.00,0.00,4657.00
+2015,12,UA,United Air Lines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",507.00,72.00,27.30,3.02,3.44,0.00,38.25,12.00,1.00,6729.00,1950.00,202.00,194.00,0.00,4383.00
+2015,12,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",5160.00,931.00,336.60,32.69,242.34,0.00,319.37,79.00,26.00,69152.00,22763.00,2633.00,13905.00,0.00,29851.00
+2015,12,UA,United Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",252.00,41.00,14.24,2.58,4.86,0.00,19.31,5.00,0.00,3574.00,915.00,292.00,182.00,0.00,2185.00
+2015,12,UA,United Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",594.00,119.00,48.73,8.85,24.36,0.00,37.07,7.00,1.00,7694.00,3227.00,583.00,956.00,0.00,2928.00
+2015,12,UA,United Air Lines Inc.,OGG,"Kahului, HI: Kahului Airport",234.00,46.00,24.85,4.00,6.58,0.00,10.57,2.00,0.00,5280.00,1748.00,133.00,332.00,0.00,3067.00
+2015,12,UA,United Air Lines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",536.00,96.00,49.45,5.43,9.09,0.00,32.03,6.00,0.00,6658.00,2607.00,293.00,301.00,0.00,3457.00
+2015,12,UA,United Air Lines Inc.,OMA,"Omaha, NE: Eppley Airfield",84.00,20.00,11.07,0.57,1.05,0.00,7.31,3.00,0.00,1851.00,906.00,74.00,39.00,0.00,832.00
+2015,12,UA,United Air Lines Inc.,BZN,"Bozeman, MT: Bozeman Yellowstone International",100.00,23.00,9.21,2.26,3.73,0.00,7.80,6.00,4.00,2216.00,620.00,178.00,162.00,0.00,1256.00
+2015,12,UA,United Air Lines Inc.,IND,"Indianapolis, IN: Indianapolis International",109.00,29.00,10.60,0.78,5.24,0.00,12.38,2.00,0.00,1848.00,588.00,32.00,173.00,0.00,1055.00
+2015,12,UA,United Air Lines Inc.,LGA,"New York, NY: LaGuardia",683.00,191.00,47.76,9.39,84.54,0.00,49.32,19.00,2.00,14974.00,2851.00,789.00,7183.00,0.00,4151.00
+2015,12,UA,United Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",297.00,75.00,22.29,2.76,20.13,0.00,29.82,4.00,0.00,6498.00,1970.00,221.00,710.00,0.00,3597.00
+2015,12,UA,United Air Lines Inc.,HNL,"Honolulu, HI: Daniel K Inouye International",487.00,97.00,56.80,2.39,13.00,0.00,24.81,2.00,1.00,7436.00,3724.00,107.00,486.00,0.00,3119.00
+2015,12,UA,United Air Lines Inc.,BIL,"Billings, MT: Billings Logan International",62.00,17.00,7.36,0.23,3.42,0.00,5.99,0.00,0.00,1237.00,308.00,32.00,123.00,0.00,774.00
+2015,12,UA,United Air Lines Inc.,GEG,"Spokane, WA: Spokane International",55.00,16.00,8.06,0.87,2.04,0.00,5.03,1.00,0.00,946.00,417.00,85.00,118.00,0.00,326.00
+2015,12,UA,United Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",308.00,61.00,14.82,3.23,13.08,0.00,29.87,8.00,0.00,4371.00,979.00,342.00,482.00,0.00,2568.00
+2015,12,UA,United Air Lines Inc.,SMF,"Sacramento, CA: Sacramento International",199.00,42.00,15.51,1.76,12.73,0.00,11.99,7.00,1.00,3139.00,1069.00,183.00,436.00,0.00,1451.00
+2015,12,UA,United Air Lines Inc.,MCO,"Orlando, FL: Orlando International",1131.00,233.00,99.77,12.73,38.36,0.00,82.14,15.00,1.00,16764.00,5698.00,1006.00,1525.00,0.00,8535.00
+2015,12,UA,United Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",344.00,97.00,22.59,4.55,44.24,0.00,25.63,5.00,0.00,6505.00,1046.00,454.00,2865.00,0.00,2140.00
+2015,12,UA,United Air Lines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",371.00,70.00,29.04,3.07,11.15,0.00,26.75,5.00,0.00,5258.00,2116.00,163.00,475.00,0.00,2504.00
+2015,12,UA,United Air Lines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",411.00,86.00,44.02,2.03,7.28,0.00,32.68,6.00,0.00,5473.00,2122.00,247.00,399.00,0.00,2705.00
+2015,12,UA,United Air Lines Inc.,BOI,"Boise, ID: Boise Air Terminal",59.00,15.00,6.88,0.13,3.48,0.00,4.51,1.00,0.00,1103.00,615.00,19.00,98.00,0.00,371.00
+2015,12,UA,United Air Lines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",177.00,36.00,19.63,1.42,3.27,0.00,11.67,5.00,0.00,2204.00,1075.00,180.00,97.00,0.00,852.00
+2015,12,UA,United Air Lines Inc.,ORF,"Norfolk, VA: Norfolk International",31.00,8.00,4.35,0.00,0.05,0.00,3.61,4.00,0.00,565.00,242.00,0.00,1.00,0.00,322.00
+2015,12,UA,United Air Lines Inc.,SAT,"San Antonio, TX: San Antonio International",281.00,60.00,27.90,1.42,5.62,0.00,25.06,5.00,0.00,4852.00,1958.00,108.00,244.00,0.00,2542.00
+2015,12,UA,United Air Lines Inc.,PDX,"Portland, OR: Portland International",546.00,109.00,45.68,3.25,13.14,0.00,46.93,11.00,3.00,8308.00,2804.00,249.00,448.00,0.00,4807.00
+2015,12,UA,United Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",249.00,46.00,18.97,1.29,10.35,0.00,15.38,5.00,0.00,2847.00,1086.00,87.00,568.00,0.00,1106.00
+2015,12,UA,United Air Lines Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",72.00,11.00,6.72,0.97,0.39,0.00,2.92,3.00,0.00,595.00,260.00,162.00,15.00,0.00,158.00
+2015,12,UA,United Air Lines Inc.,PSP,"Palm Springs, CA: Palm Springs International",91.00,16.00,4.91,0.93,4.16,0.00,5.99,1.00,0.00,1035.00,364.00,68.00,135.00,0.00,468.00
+2015,12,UA,United Air Lines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",319.00,70.00,36.67,3.75,9.65,0.00,19.94,6.00,5.00,4947.00,2326.00,251.00,318.00,0.00,2052.00
+2015,12,UA,United Air Lines Inc.,HDN,"Hayden, CO: Yampa Valley",25.00,5.00,2.70,0.00,0.05,0.00,2.25,1.00,1.00,503.00,110.00,0.00,6.00,0.00,387.00
+2015,12,UA,United Air Lines Inc.,JAC,"Jackson, WY: Jackson Hole",124.00,35.00,13.54,3.65,6.16,0.00,11.65,4.00,0.00,3460.00,1005.00,531.00,181.00,0.00,1743.00
+2015,12,UA,United Air Lines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",159.00,34.00,12.29,2.31,2.09,0.00,17.31,3.00,0.00,2909.00,898.00,72.00,80.00,0.00,1859.00
+2015,12,UA,United Air Lines Inc.,BTV,"Burlington, VT: Burlington International",27.00,4.00,2.58,0.00,0.04,0.00,1.38,1.00,0.00,289.00,138.00,0.00,1.00,0.00,150.00
+2015,12,UA,United Air Lines Inc.,DSM,"Des Moines, IA: Des Moines International",61.00,8.00,2.11,0.00,1.41,0.00,4.48,1.00,0.00,440.00,186.00,0.00,55.00,0.00,199.00
+2015,12,UA,United Air Lines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",60.00,9.00,3.04,2.27,0.00,0.00,3.69,0.00,0.00,416.00,137.00,74.00,0.00,0.00,205.00
+2015,12,UA,United Air Lines Inc.,MIA,"Miami, FL: Miami International",434.00,106.00,47.18,5.06,22.17,0.00,31.59,6.00,0.00,7382.00,2668.00,672.00,896.00,0.00,3146.00
+2015,12,UA,United Air Lines Inc.,ANC,"Anchorage, AK: Ted Stevens Anchorage International",90.00,21.00,7.52,1.67,3.12,0.00,8.70,2.00,1.00,1388.00,277.00,113.00,314.00,0.00,684.00
+2015,12,UA,United Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",116.00,29.00,13.70,0.34,2.83,0.00,12.13,2.00,0.00,2219.00,1064.00,33.00,176.00,0.00,946.00
+2015,12,UA,United Air Lines Inc.,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",125.00,22.00,9.70,0.00,6.28,0.00,6.02,1.00,0.00,1945.00,1102.00,0.00,205.00,0.00,638.00
+2015,12,UA,United Air Lines Inc.,LIH,"Lihue, HI: Lihue Airport",94.00,14.00,3.79,0.00,3.81,0.00,6.40,1.00,1.00,1815.00,189.00,0.00,136.00,0.00,1490.00
+2015,12,UA,United Air Lines Inc.,BQN,"Aguadilla, PR: Rafael Hernandez",31.00,8.00,3.57,0.00,1.05,0.00,3.38,1.00,0.00,541.00,236.00,0.00,28.00,0.00,277.00
+2015,12,UA,United Air Lines Inc.,CMH,"Columbus, OH: John Glenn Columbus International",78.00,10.00,3.79,0.06,1.00,0.00,5.15,3.00,0.00,496.00,119.00,11.00,29.00,0.00,337.00
+2015,12,UA,United Air Lines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",218.00,66.00,20.48,2.72,17.05,0.00,25.76,1.00,0.00,5182.00,1763.00,251.00,918.00,0.00,2250.00
+2015,12,UA,United Air Lines Inc.,SJU,"San Juan, PR: Luis Munoz Marin International",263.00,81.00,35.51,2.84,22.82,0.00,19.83,4.00,0.00,4698.00,2104.00,204.00,875.00,0.00,1515.00
+2015,12,UA,United Air Lines Inc.,STT,"Charlotte Amalie, VI: Cyril E King",54.00,7.00,2.20,0.00,4.80,0.00,0.00,0.00,0.00,287.00,65.00,0.00,222.00,0.00,0.00
+2015,12,UA,United Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",177.00,39.00,19.89,0.14,2.94,0.00,16.04,2.00,0.00,3140.00,1533.00,27.00,111.00,0.00,1469.00
+2015,12,UA,United Air Lines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",63.00,21.00,5.39,1.75,8.72,0.00,5.15,3.00,0.00,1172.00,318.00,152.00,223.00,0.00,479.00
+2015,12,UA,United Air Lines Inc.,ITO,"Hilo, HI: Hilo International",27.00,2.00,1.44,0.00,0.00,0.00,0.56,0.00,0.00,50.00,32.00,0.00,0.00,0.00,18.00
+2015,12,UA,United Air Lines Inc.,EGE,"Eagle, CO: Eagle County Regional",35.00,16.00,7.54,0.00,6.59,0.00,1.87,0.00,2.00,1374.00,701.00,0.00,278.00,0.00,395.00
+2015,12,UA,United Air Lines Inc.,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",79.00,15.00,7.90,1.00,2.09,0.00,4.02,1.00,1.00,794.00,340.00,34.00,83.00,0.00,337.00
+2015,12,UA,United Air Lines Inc.,RIC,"Richmond, VA: Richmond International",26.00,6.00,1.93,0.05,0.03,0.00,3.99,1.00,0.00,548.00,145.00,11.00,1.00,0.00,391.00
+2015,12,UA,United Air Lines Inc.,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",50.00,14.00,4.30,1.39,2.05,0.00,6.27,2.00,0.00,687.00,219.00,110.00,151.00,0.00,207.00
+2015,12,UA,United Air Lines Inc.,GUM,"Guam, TT: Guam International",31.00,3.00,1.79,0.00,0.00,0.00,1.21,0.00,0.00,757.00,661.00,0.00,0.00,0.00,96.00
+2015,12,UA,United Air Lines Inc.,MEM,"Memphis, TN: Memphis International",58.00,8.00,4.51,0.00,2.07,0.00,1.43,4.00,0.00,544.00,408.00,0.00,76.00,0.00,60.00
+2015,12,UA,United Air Lines Inc.,BDL,"Hartford, CT: Bradley International",53.00,12.00,6.60,0.95,1.91,0.00,2.55,1.00,0.00,508.00,248.00,37.00,41.00,0.00,182.00
+2015,12,UA,United Air Lines Inc.,ALB,"Albany, NY: Albany International",53.00,8.00,4.12,1.00,0.14,0.00,2.75,2.00,0.00,515.00,169.00,85.00,3.00,0.00,258.00
+2015,12,UA,United Air Lines Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",65.00,10.00,6.27,0.00,1.74,0.00,1.99,2.00,1.00,495.00,316.00,0.00,50.00,0.00,129.00
+2015,12,UA,United Air Lines Inc.,MTJ,"Montrose/Delta, CO: Montrose Regional",23.00,7.00,2.80,1.45,1.16,0.00,1.60,0.00,0.00,332.00,85.00,87.00,75.00,0.00,85.00
+2015,12,UA,United Air Lines Inc.,GUC,"Gunnison, CO: Gunnison-Crested Butte Regional",15.00,4.00,3.00,0.98,0.02,0.00,0.00,1.00,1.00,224.00,59.00,162.00,3.00,0.00,0.00
+2015,12,UA,United Air Lines Inc.,TUS,"Tucson, AZ: Tucson International",32.00,3.00,0.17,0.71,1.29,0.00,0.83,1.00,0.00,492.00,53.00,110.00,72.00,0.00,257.00
+2015,12,UA,United Air Lines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",17.00,4.00,1.36,0.00,0.00,0.00,2.64,1.00,0.00,365.00,86.00,0.00,0.00,0.00,279.00
+2015,12,UA,United Air Lines Inc.,ROC,"Rochester, NY: Greater Rochester International",38.00,8.00,2.04,0.89,1.15,0.00,3.92,1.00,0.00,433.00,164.00,28.00,29.00,0.00,212.00
+2015,12,UA,United Air Lines Inc.,MCI,"Kansas City, MO: Kansas City International",61.00,8.00,1.87,0.57,1.52,0.00,4.05,1.00,0.00,443.00,115.00,32.00,47.00,0.00,249.00
+2015,12,UA,United Air Lines Inc.,STL,"St. Louis, MO: St Louis Lambert International",43.00,7.00,4.58,0.51,0.67,0.00,1.23,0.00,0.00,908.00,391.00,213.00,49.00,0.00,255.00
+2015,12,OO,SkyWest Airlines Inc.,BTM,"Butte, MT: Bert Mooney",61.00,14.00,1.34,3.55,7.41,0.00,1.70,3.00,3.00,1150.00,181.00,604.00,300.00,0.00,65.00
+2015,12,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",30.00,4.00,1.03,1.13,0.00,0.00,1.83,0.00,0.00,301.00,24.00,40.00,0.00,0.00,237.00
+2015,12,OO,SkyWest Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2015,12,UA,United Air Lines Inc.,TUL,"Tulsa, OK: Tulsa International",23.00,4.00,1.16,0.00,1.00,0.00,1.84,0.00,0.00,486.00,116.00,0.00,15.00,0.00,355.00
+2015,12,UA,United Air Lines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",18.00,5.00,2.18,1.00,0.55,0.00,1.27,0.00,0.00,275.00,146.00,50.00,23.00,0.00,56.00
+2015,12,UA,United Air Lines Inc.,BNA,"Nashville, TN: Nashville International",42.00,8.00,3.76,1.00,0.03,0.00,3.21,0.00,0.00,626.00,152.00,16.00,13.00,0.00,445.00
+2015,12,UA,United Air Lines Inc.,MDT,"Harrisburg, PA: Harrisburg International",27.00,8.00,0.95,0.00,1.00,0.00,6.05,0.00,0.00,336.00,36.00,0.00,20.00,0.00,280.00
+2015,12,UA,United Air Lines Inc.,JAX,"Jacksonville, FL: Jacksonville International",14.00,4.00,2.74,0.00,0.34,0.00,0.92,0.00,0.00,171.00,95.00,0.00,7.00,0.00,69.00
+2015,12,NK,Spirit Air Lines,STT,"Charlotte Amalie, VI: Cyril E King",31.00,13.00,7.20,0.00,4.83,0.00,0.97,0.00,0.00,781.00,441.00,0.00,307.00,0.00,33.00
+2015,12,UA,United Air Lines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",3.00,1.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,65.00,65.00,0.00,0.00,0.00,0.00
+2015,12,VX,Virgin America,SFO,"San Francisco, CA: San Francisco International",1600.00,570.00,67.64,24.65,327.74,5.75,144.22,19.00,10.00,46884.00,3631.00,897.00,31053.00,165.00,11138.00
+2015,12,VX,Virgin America,SEA,"Seattle, WA: Seattle/Tacoma International",199.00,72.00,10.97,4.89,15.76,0.00,40.37,2.00,0.00,4614.00,523.00,169.00,666.00,0.00,3256.00
+2015,12,VX,Virgin America,LGA,"New York, NY: LaGuardia",117.00,26.00,5.85,3.65,11.29,0.00,5.22,0.00,0.00,1947.00,454.00,195.00,737.00,0.00,561.00
+2015,12,VX,Virgin America,DAL,"Dallas, TX: Dallas Love Field",492.00,82.00,14.07,2.83,19.58,0.00,45.52,2.00,2.00,5919.00,959.00,63.00,988.00,0.00,3909.00
+2015,12,VX,Virgin America,LAS,"Las Vegas, NV: McCarran International",417.00,131.00,22.88,7.75,14.33,0.48,85.55,4.00,0.00,8445.00,909.00,185.00,712.00,13.00,6626.00
+2015,12,VX,Virgin America,IAD,"Washington, DC: Washington Dulles International",132.00,25.00,4.74,1.37,2.98,0.00,15.91,0.00,0.00,1634.00,179.00,23.00,143.00,0.00,1289.00
+2015,12,VX,Virgin America,LAX,"Los Angeles, CA: Los Angeles International",1140.00,299.00,73.93,25.92,61.47,3.95,133.73,7.00,8.00,15225.00,3420.00,878.00,2266.00,155.00,8506.00
+2015,12,VX,Virgin America,SAN,"San Diego, CA: San Diego International",176.00,49.00,6.61,0.07,4.23,0.00,38.09,7.00,0.00,3267.00,588.00,4.00,151.00,0.00,2524.00
+2015,12,VX,Virgin America,JFK,"New York, NY: John F. Kennedy International",371.00,84.00,16.16,2.25,20.46,1.41,43.72,1.00,0.00,5073.00,974.00,95.00,906.00,55.00,3043.00
+2015,12,VX,Virgin America,EWR,"Newark, NJ: Newark Liberty International",172.00,43.00,3.29,0.80,25.02,0.00,13.89,0.00,0.00,2542.00,98.00,38.00,1595.00,0.00,811.00
+2015,12,VX,Virgin America,ORD,"Chicago, IL: Chicago O'Hare International",141.00,33.00,5.97,1.84,6.35,0.00,18.84,1.00,0.00,2019.00,294.00,40.00,599.00,0.00,1086.00
+2015,12,VX,Virgin America,AUS,"Austin, TX: Austin - Bergstrom International",59.00,13.00,0.68,0.20,1.41,0.00,10.71,0.00,0.00,1062.00,14.00,11.00,29.00,0.00,1008.00
+2015,12,VX,Virgin America,PDX,"Portland, OR: Portland International",29.00,11.00,1.05,0.00,0.16,0.00,9.79,0.00,0.00,883.00,74.00,1.00,28.00,0.00,780.00
+2015,12,VX,Virgin America,DCA,"Washington, DC: Ronald Reagan Washington National",117.00,22.00,9.60,4.55,6.42,0.00,1.44,1.00,0.00,1221.00,560.00,281.00,192.00,0.00,188.00
+2015,12,VX,Virgin America,MCO,"Orlando, FL: Orlando International",31.00,4.00,1.00,0.91,0.24,0.97,0.89,0.00,0.00,534.00,339.00,30.00,24.00,59.00,82.00
+2015,12,VX,Virgin America,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",139.00,44.00,10.53,2.00,10.22,0.00,21.25,0.00,0.00,1780.00,437.00,69.00,325.00,0.00,949.00
+2015,12,VX,Virgin America,BOS,"Boston, MA: Logan International",108.00,15.00,4.06,1.00,3.67,0.00,6.27,0.00,0.00,1093.00,307.00,18.00,184.00,0.00,584.00
+2015,12,VX,Virgin America,OGG,"Kahului, HI: Kahului Airport",29.00,4.00,1.80,1.98,0.22,0.00,0.00,0.00,0.00,106.00,35.00,61.00,10.00,0.00,0.00
+2015,12,VX,Virgin America,HNL,"Honolulu, HI: Daniel K Inouye International",31.00,6.00,2.33,3.49,0.18,0.00,0.00,0.00,0.00,349.00,228.00,78.00,43.00,0.00,0.00
+2015,12,VX,Virgin America,PSP,"Palm Springs, CA: Palm Springs International",34.00,5.00,0.75,0.46,0.00,0.00,3.79,0.00,0.00,554.00,65.00,28.00,0.00,0.00,461.00
+2015,12,OO,SkyWest Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",18.00,4.00,2.46,0.00,0.57,0.00,0.97,0.00,0.00,192.00,141.00,0.00,23.00,0.00,28.00
+2015,12,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",990.00,254.00,88.34,3.94,29.74,0.68,131.29,12.00,6.00,12389.00,3944.00,409.00,1051.00,13.00,6972.00
+2015,12,WN,Southwest Airlines Co.,ALB,"Albany, NY: Albany International",368.00,76.00,35.27,0.00,8.46,0.00,32.28,4.00,0.00,3154.00,1384.00,0.00,269.00,0.00,1501.00
+2015,12,WN,Southwest Airlines Co.,AMA,"Amarillo, TX: Rick Husband Amarillo International",143.00,31.00,18.86,1.00,0.60,0.00,10.54,10.00,2.00,1074.00,652.00,54.00,18.00,0.00,350.00
+2015,12,WN,Southwest Airlines Co.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",3652.00,795.00,236.95,25.92,194.28,6.20,331.65,64.00,30.00,43365.00,12095.00,2991.00,7587.00,128.00,20564.00
+2015,12,WN,Southwest Airlines Co.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1710.00,368.00,139.98,8.30,73.60,1.07,145.05,12.00,0.00,21095.00,7480.00,1028.00,3136.00,25.00,9426.00
+2015,12,WN,Southwest Airlines Co.,FNT,"Flint, MI: Bishop International",149.00,24.00,8.59,0.00,2.44,0.00,12.97,7.00,0.00,1075.00,312.00,0.00,55.00,0.00,708.00
+2015,12,WN,Southwest Airlines Co.,GEG,"Spokane, WA: Spokane International",264.00,61.00,20.21,0.00,9.57,0.00,31.21,0.00,0.00,2836.00,1065.00,0.00,264.00,0.00,1507.00
+2015,12,WN,Southwest Airlines Co.,GRR,"Grand Rapids, MI: Gerald R. Ford International",155.00,31.00,13.35,0.00,0.49,0.00,17.16,7.00,1.00,2012.00,752.00,0.00,13.00,0.00,1247.00
+2015,12,WN,Southwest Airlines Co.,GSP,"Greer, SC: Greenville-Spartanburg International",141.00,30.00,11.85,0.00,6.44,0.72,10.99,2.00,1.00,1191.00,545.00,0.00,207.00,21.00,418.00
+2015,12,WN,Southwest Airlines Co.,HOU,"Houston, TX: William P Hobby",4425.00,904.00,275.69,18.06,157.58,4.24,448.43,55.00,12.00,49959.00,14885.00,1888.00,5881.00,92.00,27213.00
+2015,12,WN,Southwest Airlines Co.,HRL,"Harlingen/San Benito, TX: Valley International",174.00,41.00,15.76,0.78,6.16,0.00,18.30,1.00,2.00,1749.00,609.00,80.00,253.00,0.00,807.00
+2015,12,WN,Southwest Airlines Co.,IAD,"Washington, DC: Washington Dulles International",186.00,36.00,17.57,0.00,1.23,0.00,17.20,3.00,1.00,2346.00,844.00,0.00,36.00,0.00,1466.00
+2015,12,WN,Southwest Airlines Co.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",146.00,30.00,11.76,0.00,1.65,0.00,16.59,7.00,2.00,1447.00,442.00,0.00,38.00,0.00,967.00
+2015,12,WN,Southwest Airlines Co.,IND,"Indianapolis, IN: Indianapolis International",1007.00,206.00,73.42,3.35,25.87,0.00,103.36,11.00,2.00,11539.00,4533.00,446.00,843.00,0.00,5717.00
+2015,12,WN,Southwest Airlines Co.,ISP,"Islip, NY: Long Island MacArthur",402.00,89.00,39.17,2.00,6.07,0.00,41.76,1.00,5.00,5270.00,2550.00,107.00,373.00,0.00,2240.00
+2015,12,WN,Southwest Airlines Co.,JAX,"Jacksonville, FL: Jacksonville International",365.00,88.00,37.53,0.14,12.14,0.00,38.19,4.00,0.00,3556.00,1319.00,3.00,390.00,0.00,1844.00
+2015,12,WN,Southwest Airlines Co.,LAS,"Las Vegas, NV: McCarran International",6320.00,1354.00,375.94,10.33,213.02,5.07,749.63,49.00,4.00,61511.00,16725.00,423.00,6505.00,133.00,37725.00
+2015,12,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",3536.00,1143.00,298.08,10.37,346.89,3.54,484.13,52.00,2.00,53254.00,14154.00,912.00,11396.00,244.00,26548.00
+2015,12,WN,Southwest Airlines Co.,BDL,"Hartford, CT: Bradley International",569.00,126.00,53.42,0.62,6.35,1.00,64.61,6.00,3.00,6709.00,2473.00,13.00,210.00,89.00,3924.00
+2015,12,WN,Southwest Airlines Co.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",365.00,97.00,30.74,0.92,13.79,0.91,50.64,4.00,5.00,4825.00,1301.00,69.00,530.00,21.00,2904.00
+2015,12,WN,Southwest Airlines Co.,BNA,"Nashville, TN: Nashville International",2499.00,505.00,176.04,3.69,63.96,1.65,259.66,30.00,1.00,26421.00,8319.00,608.00,2163.00,40.00,15291.00
+2015,12,WN,Southwest Airlines Co.,BOI,"Boise, ID: Boise Air Terminal",269.00,78.00,32.99,0.00,11.01,0.00,34.01,0.00,0.00,3403.00,1424.00,0.00,321.00,0.00,1658.00
+2015,12,WN,Southwest Airlines Co.,BOS,"Boston, MA: Logan International",990.00,218.00,57.00,5.50,33.66,0.00,121.84,12.00,1.00,12932.00,2593.00,472.00,1476.00,0.00,8391.00
+2015,12,WN,Southwest Airlines Co.,BUF,"Buffalo, NY: Buffalo Niagara International",511.00,112.00,44.16,1.41,5.77,0.00,60.66,5.00,0.00,6360.00,2052.00,75.00,208.00,0.00,4025.00
+2015,12,WN,Southwest Airlines Co.,BUR,"Burbank, CA: Bob Hope",1238.00,261.00,75.71,0.15,11.14,0.00,174.00,10.00,1.00,11854.00,3215.00,22.00,347.00,0.00,8270.00
+2015,12,WN,Southwest Airlines Co.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",5915.00,1068.00,309.51,25.24,167.58,3.62,562.06,51.00,6.00,56251.00,15244.00,1969.00,5846.00,118.00,33074.00
+2015,12,WN,Southwest Airlines Co.,CAK,"Akron, OH: Akron-Canton Regional",216.00,36.00,13.88,0.00,2.17,0.00,19.95,1.00,1.00,2179.00,931.00,0.00,83.00,0.00,1165.00
+2015,12,WN,Southwest Airlines Co.,CHS,"Charleston, SC: Charleston AFB/International",220.00,46.00,22.08,0.66,6.67,0.00,16.59,2.00,0.00,2378.00,1271.00,58.00,246.00,0.00,803.00
+2015,12,WN,Southwest Airlines Co.,CLE,"Cleveland, OH: Cleveland-Hopkins International",417.00,86.00,39.42,0.00,5.66,0.00,40.92,13.00,0.00,3208.00,1214.00,0.00,160.00,0.00,1834.00
+2015,12,WN,Southwest Airlines Co.,CLT,"Charlotte, NC: Charlotte Douglas International",184.00,65.00,30.50,0.64,11.81,0.00,22.05,4.00,0.00,2855.00,1220.00,90.00,403.00,0.00,1142.00
+2015,12,WN,Southwest Airlines Co.,CMH,"Columbus, OH: John Glenn Columbus International",985.00,212.00,81.14,2.33,14.10,0.00,114.43,7.00,2.00,10876.00,3484.00,365.00,421.00,0.00,6606.00
+2015,12,WN,Southwest Airlines Co.,CRP,"Corpus Christi, TX: Corpus Christi International",114.00,32.00,14.99,0.00,3.79,0.00,13.22,2.00,3.00,1778.00,641.00,0.00,213.00,0.00,924.00
+2015,12,WN,Southwest Airlines Co.,DAL,"Dallas, TX: Dallas Love Field",5238.00,1089.00,329.05,22.18,220.98,5.60,511.19,94.00,43.00,59675.00,16812.00,2695.00,9741.00,162.00,30265.00
+2015,12,WN,Southwest Airlines Co.,DAY,"Dayton, OH: James M Cox/Dayton International",120.00,25.00,7.21,0.06,1.82,0.00,15.91,5.00,1.00,932.00,256.00,3.00,53.00,0.00,620.00
+2015,12,WN,Southwest Airlines Co.,DCA,"Washington, DC: Ronald Reagan Washington National",1321.00,264.00,81.16,9.10,48.69,0.00,125.05,29.00,5.00,16773.00,4823.00,1149.00,1897.00,0.00,8904.00
+2015,12,WN,Southwest Airlines Co.,DEN,"Denver, CO: Denver International",5281.00,999.00,304.61,44.26,157.32,5.88,486.93,123.00,7.00,54622.00,14543.00,5025.00,5723.00,139.00,29192.00
+2015,12,WN,Southwest Airlines Co.,DSM,"Des Moines, IA: Des Moines International",89.00,14.00,3.45,0.51,0.29,0.00,9.75,3.00,1.00,725.00,182.00,20.00,26.00,0.00,497.00
+2015,12,WN,Southwest Airlines Co.,DTW,"Detroit, MI: Detroit Metro Wayne County",587.00,121.00,51.70,2.76,15.76,0.00,50.78,18.00,0.00,5715.00,1816.00,324.00,584.00,0.00,2991.00
+2015,12,WN,Southwest Airlines Co.,ECP,"Panama City, FL: Northwest Florida Beaches International",118.00,19.00,8.57,0.00,1.51,0.00,8.92,0.00,0.00,806.00,423.00,0.00,43.00,0.00,340.00
+2015,12,WN,Southwest Airlines Co.,ELP,"El Paso, TX: El Paso International",590.00,137.00,51.82,2.03,9.66,0.00,73.48,8.00,1.00,7771.00,2479.00,193.00,319.00,0.00,4780.00
+2015,12,WN,Southwest Airlines Co.,EWR,"Newark, NJ: Newark Liberty International",501.00,154.00,55.99,16.81,53.67,0.00,27.53,14.00,0.00,9819.00,3981.00,1062.00,2655.00,0.00,2121.00
+2015,12,WN,Southwest Airlines Co.,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",1987.00,514.00,114.50,1.97,76.66,1.03,319.84,22.00,0.00,24447.00,5412.00,131.00,2499.00,24.00,16381.00
+2015,12,WN,Southwest Airlines Co.,SJU,"San Juan, PR: Luis Munoz Marin International",345.00,77.00,26.57,0.35,14.28,0.96,34.84,0.00,0.00,3210.00,1074.00,7.00,414.00,101.00,1614.00
+2015,12,WN,Southwest Airlines Co.,SLC,"Salt Lake City, UT: Salt Lake City International",802.00,255.00,101.37,2.41,24.37,0.00,126.85,6.00,2.00,12211.00,4312.00,305.00,788.00,0.00,6806.00
+2015,12,WN,Southwest Airlines Co.,SMF,"Sacramento, CA: Sacramento International",1869.00,431.00,125.76,1.94,40.91,0.12,262.28,9.00,1.00,19672.00,5631.00,122.00,1263.00,4.00,12652.00
+2015,12,WN,Southwest Airlines Co.,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",1800.00,360.00,104.75,1.65,40.94,0.90,211.76,22.00,4.00,15419.00,4054.00,96.00,1184.00,38.00,10047.00
+2015,12,WN,Southwest Airlines Co.,AUS,"Austin, TX: Austin - Bergstrom International",1790.00,346.00,130.60,5.69,44.45,0.00,165.26,19.00,3.00,19327.00,6816.00,581.00,2012.00,0.00,9918.00
+2015,12,WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",6777.00,1166.00,336.34,65.97,173.29,5.88,584.51,301.00,84.00,65540.00,17445.00,5938.00,7008.00,133.00,35016.00
+2015,12,WN,Southwest Airlines Co.,MEM,"Memphis, TN: Memphis International",286.00,65.00,23.96,0.81,2.87,0.00,37.36,3.00,0.00,3381.00,1084.00,71.00,167.00,0.00,2059.00
+2015,12,WN,Southwest Airlines Co.,MHT,"Manchester, NH: Manchester-Boston Regional",386.00,87.00,37.44,1.58,5.83,0.00,42.14,5.00,0.00,4198.00,1583.00,55.00,213.00,0.00,2347.00
+2015,12,WN,Southwest Airlines Co.,MKE,"Milwaukee, WI: General Mitchell International",1152.00,228.00,62.97,2.11,28.27,0.00,134.65,24.00,4.00,14805.00,3519.00,465.00,1402.00,0.00,9419.00
+2015,12,WN,Southwest Airlines Co.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",653.00,142.00,40.59,6.53,21.78,0.00,73.11,18.00,0.00,7481.00,1547.00,439.00,835.00,0.00,4660.00
+2015,12,WN,Southwest Airlines Co.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",1575.00,325.00,114.89,2.30,40.80,0.87,166.14,16.00,1.00,17673.00,5932.00,377.00,1554.00,43.00,9767.00
+2015,12,WN,Southwest Airlines Co.,OAK,"Oakland, CA: Metropolitan Oakland International",3121.00,844.00,232.10,6.21,182.61,0.30,422.79,29.00,0.00,38636.00,10863.00,401.00,5604.00,6.00,21762.00
+2015,12,WN,Southwest Airlines Co.,OKC,"Oklahoma City, OK: Will Rogers World",549.00,131.00,45.74,2.77,15.84,1.75,64.90,14.00,1.00,6917.00,2159.00,115.00,562.00,30.00,4051.00
+2015,12,WN,Southwest Airlines Co.,OMA,"Omaha, NE: Eppley Airfield",478.00,127.00,43.58,1.74,14.06,0.00,67.62,9.00,0.00,5724.00,1957.00,111.00,393.00,0.00,3263.00
+2015,12,WN,Southwest Airlines Co.,ONT,"Ontario, CA: Ontario International",896.00,214.00,55.64,1.00,14.73,0.00,142.63,3.00,2.00,9668.00,2125.00,33.00,401.00,0.00,7109.00
+2015,12,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",194.00,45.00,17.49,2.90,1.93,0.00,22.68,1.00,1.00,2359.00,783.00,188.00,66.00,0.00,1322.00
+2015,12,WN,Southwest Airlines Co.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",251.00,73.00,24.42,1.77,15.21,1.00,30.59,0.00,0.00,5239.00,1592.00,105.00,820.00,28.00,2694.00
+2015,12,WN,Southwest Airlines Co.,PDX,"Portland, OR: Portland International",1114.00,308.00,91.25,2.46,49.85,1.03,163.40,7.00,1.00,13574.00,3549.00,559.00,1438.00,20.00,8008.00
+2015,12,WN,Southwest Airlines Co.,PHL,"Philadelphia, PA: Philadelphia International",824.00,220.00,51.86,18.40,56.00,0.00,93.74,11.00,1.00,13326.00,2516.00,1469.00,2702.00,0.00,6639.00
+2015,12,WN,Southwest Airlines Co.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",4873.00,1122.00,363.66,10.43,161.22,2.00,584.69,56.00,2.00,56246.00,17882.00,909.00,5559.00,41.00,31855.00
+2015,12,WN,Southwest Airlines Co.,PIT,"Pittsburgh, PA: Pittsburgh International",783.00,181.00,65.85,2.35,9.38,0.00,103.41,13.00,0.00,9041.00,3134.00,251.00,321.00,0.00,5335.00
+2015,12,WN,Southwest Airlines Co.,PNS,"Pensacola, FL: Pensacola International",92.00,27.00,11.40,0.47,3.34,0.00,11.79,0.00,1.00,1362.00,441.00,16.00,117.00,0.00,788.00
+2015,12,WN,Southwest Airlines Co.,PVD,"Providence, RI: Theodore Francis Green State",546.00,91.00,38.24,0.99,4.41,0.00,47.36,4.00,0.00,5176.00,1971.00,90.00,149.00,0.00,2966.00
+2015,12,WN,Southwest Airlines Co.,PWM,"Portland, ME: Portland International Jetport",90.00,20.00,13.20,0.52,1.46,0.00,4.82,0.00,0.00,840.00,578.00,24.00,37.00,0.00,201.00
+2015,12,WN,Southwest Airlines Co.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",950.00,221.00,79.41,3.14,30.06,0.00,108.39,8.00,3.00,10579.00,3490.00,180.00,836.00,0.00,6073.00
+2015,12,WN,Southwest Airlines Co.,RIC,"Richmond, VA: Richmond International",123.00,29.00,9.75,0.00,2.35,0.00,16.90,2.00,0.00,1782.00,418.00,0.00,49.00,0.00,1315.00
+2015,12,WN,Southwest Airlines Co.,RNO,"Reno, NV: Reno/Tahoe International",547.00,173.00,57.08,0.00,21.50,0.00,94.42,4.00,1.00,8011.00,2521.00,0.00,609.00,0.00,4881.00
+2015,12,WN,Southwest Airlines Co.,ROC,"Rochester, NY: Greater Rochester International",154.00,35.00,15.02,0.00,1.26,0.00,18.72,1.00,0.00,1672.00,687.00,0.00,42.00,0.00,943.00
+2015,12,WN,Southwest Airlines Co.,RSW,"Fort Myers, FL: Southwest Florida International",590.00,118.00,44.57,0.03,23.90,0.00,49.50,11.00,0.00,7090.00,2760.00,10.00,960.00,0.00,3360.00
+2015,12,WN,Southwest Airlines Co.,SAN,"San Diego, CA: San Diego International",2794.00,683.00,207.61,2.67,91.27,0.33,381.11,27.00,2.00,31754.00,9177.00,207.00,2849.00,5.00,19516.00
+2015,12,WN,Southwest Airlines Co.,SAT,"San Antonio, TX: San Antonio International",1237.00,287.00,114.05,9.15,34.53,0.00,129.27,12.00,4.00,15044.00,5132.00,872.00,1476.00,0.00,7564.00
+2015,12,WN,Southwest Airlines Co.,SDF,"Louisville, KY: Louisville Muhammad Ali International",341.00,90.00,34.88,0.53,7.61,0.54,46.44,6.00,0.00,5637.00,2230.00,17.00,318.00,14.00,3058.00
+2015,12,WN,Southwest Airlines Co.,SEA,"Seattle, WA: Seattle/Tacoma International",1106.00,341.00,102.58,2.88,70.83,0.68,164.03,5.00,1.00,16219.00,4657.00,217.00,2315.00,15.00,9015.00
+2015,12,WN,Southwest Airlines Co.,SFO,"San Francisco, CA: San Francisco International",1270.00,445.00,88.25,34.20,184.23,0.00,138.31,53.00,2.00,32002.00,5709.00,3729.00,12933.00,0.00,9631.00
+2015,12,WN,Southwest Airlines Co.,LBB,"Lubbock, TX: Lubbock Preston Smith International",212.00,39.00,15.75,0.00,4.87,0.00,18.38,20.00,1.00,1961.00,734.00,0.00,162.00,0.00,1065.00
+2015,12,WN,Southwest Airlines Co.,LGA,"New York, NY: LaGuardia",956.00,235.00,65.02,23.41,84.91,0.00,61.66,17.00,4.00,17390.00,4766.00,2685.00,6211.00,0.00,3728.00
+2015,12,WN,Southwest Airlines Co.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",210.00,51.00,22.18,0.26,8.13,0.00,20.43,4.00,0.00,2344.00,730.00,64.00,280.00,0.00,1270.00
+2015,12,WN,Southwest Airlines Co.,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",277.00,45.00,15.28,2.37,7.40,0.00,19.96,11.00,1.00,2358.00,749.00,169.00,285.00,0.00,1155.00
+2015,12,WN,Southwest Airlines Co.,MCI,"Kansas City, MO: Kansas City International",1906.00,400.00,129.78,8.95,34.69,2.15,224.43,32.00,0.00,23190.00,6553.00,577.00,1394.00,70.00,14596.00
+2015,12,WN,Southwest Airlines Co.,MCO,"Orlando, FL: Orlando International",3455.00,659.00,234.01,7.59,111.23,2.99,303.17,27.00,3.00,38825.00,12692.00,1023.00,4031.00,88.00,20991.00
+2015,12,WN,Southwest Airlines Co.,STL,"St. Louis, MO: St Louis Lambert International",2508.00,508.00,167.65,12.02,66.10,2.18,260.05,24.00,3.00,27471.00,8418.00,1807.00,2459.00,84.00,14703.00
+2015,12,WN,Southwest Airlines Co.,TPA,"Tampa, FL: Tampa International",2371.00,454.00,158.22,10.08,72.06,0.55,213.08,16.00,1.00,25323.00,8152.00,1154.00,2701.00,12.00,13304.00
+2015,12,WN,Southwest Airlines Co.,TUL,"Tulsa, OK: Tulsa International",383.00,100.00,36.25,2.96,8.66,0.00,52.12,4.00,0.00,5836.00,1847.00,336.00,384.00,0.00,3269.00
+2015,12,WN,Southwest Airlines Co.,TUS,"Tucson, AZ: Tucson International",383.00,104.00,25.61,0.00,8.37,0.00,70.02,4.00,0.00,4859.00,1176.00,0.00,279.00,0.00,3404.00
+2015,12,EV,ExpressJet Airlines Inc.,TPA,"Tampa, FL: Tampa International",1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
