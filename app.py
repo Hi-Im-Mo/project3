@@ -105,8 +105,8 @@ def carriers():
 def heatmap():
     m_airports = folium.Map(location=(39.8283, -98.5795),tiles="Cartodb dark_matter", zoom_start=4)
 
-    data = pd.read_csv("../data/rawYearlyData/clean_files/clean_2023.csv")
-    airports_df = pd.read_csv("../data/top25_airport_codes.csv")
+    data = pd.read_csv("data/rawYearlyData/clean_files/clean_2023.csv")
+    airports_df = pd.read_csv("data/top25_airport_codes.csv")
     airports_table = airports_df.drop(columns=['Unnamed: 0'])
     map_df = data.drop(columns=["Unnamed: 0", "carrier_ct", "carrier", "carrier_name", "weather_ct", "nas_ct","security_ct","late_aircraft_ct", "arr_diverted", "arr_delay","carrier_delay", "weather_delay","nas_delay", "security_delay", "late_aircraft_delay"])
     delay_percents = round((map_df.groupby('airport')['arr_del15'].sum()/map_df.groupby('airport')["arr_flights"].sum())*100, 3)
