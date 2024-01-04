@@ -124,13 +124,13 @@ def heatmap():
     marker_cluster = MarkerCluster(name="Airports").add_to(m_airports)
 
     for row in airports_table.itertuples():
-    html = f"""<div style="min-width: 200px; max-width: 400px;">
-        <h3>{row.iata}</h3> {row.airport}</div>"""
-    folium.Marker(
-        location=[row.latitude, row.longitude],
-        popup=folium.Popup(html, max_width=300),
-        icon=folium.Icon(color="blue", icon="plane")
-    ).add_to(marker_cluster)
+        html = f"""<div style="min-width: 200px; max-width: 400px;">
+            <h3>{row.iata}</h3> {row.airport}</div>"""
+        folium.Marker(
+            location=[row.latitude, row.longitude],
+            popup=folium.Popup(html, max_width=300),
+            icon=folium.Icon(color="blue", icon="plane")
+        ).add_to(marker_cluster)
 
     fg1 = folium.FeatureGroup(name="Delays", control=True).add_to(m_airports)
     HeatMap(delay_heat, gradient={0.2:'blue', 0.4:'green', 0.6:'yellow', 0.8:'orange', 1: 'red'}).add_to(fg1)
