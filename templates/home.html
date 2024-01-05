@@ -4,10 +4,18 @@
 
 {% block content%}
 <h1 align="center"> Home </h1>
+<p>
+  Here we have an interactive line chart showing the average percent 
+  of delayed flights across all airports and carriers for each year.
+</p>
 <div id='chart' class='chart'”></div>
 <div class="dropdown">
   <form class="ey" method="post" action="/">
       <h2>Choose The Year:</h2>
+      <p>
+        Choose the year to visualize a heat map of the amount of delays
+        for each airport and carrier.
+      </p>
       <select name="selected_value" id="yearDropdown">
           <option value="None">Select Year</option>
       </select>

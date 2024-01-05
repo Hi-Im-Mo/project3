@@ -98,13 +98,12 @@ def airports():
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
     
     selected_value = request.form.get('selected_value')
+    
     _2023df = pd.read_csv("data/rawYearlyData/clean_files/clean_2023.csv")
     del _2023df["Unnamed: 0"]
     def generate_bar(airport):
         selectedDF = _2023df.loc[_2023df["airport"] == airport].copy()
-        column_list = ['arr_delay', 'carrier_delay', 'weather_delay', 'nas_delay', 'security_delay', 'late_aircraft_delay']
-        selectedDF["total_delay"] = selectedDF.loc[:, column_list].sum(axis=1)
-        selectedDF["proportion"] = round((selectedDF["total_delay"]/selectedDF["arr_flights"]),2)
+        selectedDF["proportion"] = round((selectedDF["arr_delay"]/selectedDF["arr_flights"]),2)
         selectedDF_grouped = selectedDF.groupby(["carrier_name"])['proportion'].sum().reset_index()
 
         plot = px.bar(selectedDF_grouped, x='carrier_name', y='proportion',
@@ -123,7 +122,25 @@ def airports():
     table = pd.DataFrame(data)
     table_html = table.to_html(classes='table table-striped', index=False)
     
-    return render_template("airport.html", graphJSON=graphJSON, plotJSON=plotJSON, table_html=table_html)
+    selected_value2 = request.form.get('selected_value2')
+    user_input = request.form.get('user_input')
+
+    def generate_pie(airport, carrier):
+        selectedDF = _2023df.loc[_2023df["airport"]==airport]
+        data = selectedDF.loc[selectedDF["carrier_name"]== carrier]
+        columns = ["carrier_delay","weather_delay","nas_delay","security_delay","late_aircraft_delay"]
+        values = [(data[i]/data["arr_delay"]).to_numpy()[0] for i in columns]
+        labels = ["Delay by Carrier Action","Delay by Inclement Weather","Delay by National Aviation System","Delay by Security Breach","Delay by Late Aircraft"]
+
+        fig = px.pie(names=labels, values=values, labels=labels, title=f"Breakdown by delay type for {carrier} flights out of {airport}")
+        return fig
+    try:
+        pie = generate_pie(selected_value2, user_input)
+    except IndexError:
+        pie = generate_pie("ATL", "United Air Lines Inc.")
+    pieJSON = json.dumps(pie, cls=plotly.utils.PlotlyJSONEncoder)    
+
+    return render_template("airport.html", graphJSON=graphJSON, plotJSON=plotJSON, table_html=table_html, pieJSON=pieJSON)
 
 @app.route("/carriers", methods=['GET','POST'])
 def carriers():
@@ -158,9 +175,7 @@ def carriers():
     del _2023df["Unnamed: 0"]
     def generate_bar(carrier):
         selectedDF = _2023df.loc[_2023df["carrier_name"] == carrier].copy()
-        column_list = ['arr_delay', 'carrier_delay', 'weather_delay', 'nas_delay', 'security_delay', 'late_aircraft_delay']
-        selectedDF["total_delay"] = selectedDF.loc[:, column_list].sum(axis=1)
-        selectedDF["proportion"] = round((selectedDF["total_delay"]/selectedDF["arr_flights"]),2)
+        selectedDF["proportion"] = round((selectedDF["arr_delay"]/selectedDF["arr_flights"]),2)
         selectedDF_grouped = selectedDF.groupby(["airport"])['proportion'].sum().reset_index()
 
         plot = px.bar(selectedDF_grouped, x='airport', y='proportion',
@@ -179,7 +194,25 @@ def carriers():
     table = pd.DataFrame(data)
     table_html = table.to_html(classes='table table-striped', index=False)
 
-    return render_template("carrier.html", graphJSON=graphJSON, plotJSON=plotJSON, table_html=table_html)
+    selected_value2 = request.form.get('selected_value2')
+    user_input = request.form.get('user_input')
+
+    def generate_pie(airport, carrier):
+        selectedDF = _2023df.loc[_2023df["airport"]==airport]
+        data = selectedDF.loc[selectedDF["carrier_name"]== carrier]
+        columns = ["carrier_delay","weather_delay","nas_delay","security_delay","late_aircraft_delay"]
+        values = [(data[i]/data["arr_delay"]).to_numpy()[0] for i in columns]
+        labels = ["Delay by Carrier Action","Delay by Inclement Weather","Delay by National Aviation System","Delay by Security Breach","Delay by Late Aircraft"]
+
+        fig = px.pie(names=labels, values=values, labels=labels, title=f"Breakdown by delay type for {carrier} flights out of {airport}")
+        return fig
+    try:
+        pie = generate_pie(user_input, selected_value2)
+    except IndexError:
+        pie = generate_pie("ATL", "United Air Lines Inc.")
+    pieJSON = json.dumps(pie, cls=plotly.utils.PlotlyJSONEncoder)    
+
+    return render_template("carrier.html", graphJSON=graphJSON, plotJSON=plotJSON, table_html=table_html, pieJSON=pieJSON)
 
 @app.route("/heatmap")
 def heatmap():

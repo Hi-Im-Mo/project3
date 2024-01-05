@@ -4,10 +4,18 @@
 
 {% block content%}
 <h1 align="center"> Carrier </h1>
+<p>
+  Here we have an interactive line chart showing the average percent 
+  of delayed flights for the carriers at each of the top 25 airports for each year.
+</p>
 <div id='chart' class='chart'”></div>
 <div class="dropdown">
   <form class="ey" method="post" action="/carriers">
       <h2>Choose The Carrier:</h2>
+      <p>
+        Choose the carrier to visualize the average amount of minutes each
+        flight is delayed for every airport that services that carrier for December of 2023.
+      </p>
       <select name="selected_value" id="carrierDropdown">
           <option value="None">Select Carrier</option>
       </select>
@@ -20,6 +28,29 @@
   <div class="plot"></div>
   <div class="table">{{ table_html|safe }}</div>
 </div>
+
+<h2>Why are the flights delayed?</h2>
+<div class="explanation-container">
+  <p class="explanation">
+    To generate a pie chart, use the first dropdown to select the carrier 
+    you are viewing above. Then, you can type or copy & paste the airport 
+    code for the airport you are interested in into text bar and click submit to generate a 
+    pie chart showing a breakdown of the reasons why flights were delayed!
+  </p>
+</div>
+<form action="/carriers" method="post">
+  <div class="dropdown">
+    <select name="selected_value2" id="carrierDropdown2">
+      <option value="None">Select Carrier</option>
+    </select>
+  </div>
+    <label for="user_input">Please only choose from above airports: </label>
+    <input type="text" id="user_input" name="user_input" required>
+    <br>
+    <input type="submit" value="Submit">
+</form>
+
+<div class="pie" id="pie"></div>
 
 <script>
   // Array of airports
@@ -49,12 +80,32 @@
 
   // Call the function to populate the dropdown on page load
   populateDropdown();
+
+    
+  function populateDropdown2() {
+    var dropdown = document.getElementById("carrierDropdown2");
+
+    dropdown.innerHTML = '<option value="None">Select Carrier</option>';
+
+    for (var i = 0; i < carriers.length; i++) {
+      var option = document.createElement("option");
+      option.value = carriers[i];
+      option.text = carriers[i];
+      dropdown.add(option);
+    }
+  }
+
+  populateDropdown2();
 </script>
 <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 <script type='text/javascript'>
   let graphs = {{graphJSON | safe}};
-  let plot = {{plotJSON | safe}};
+  let plots = {{ plotJSON | safe}};
+  let pies = {{ pieJSON | safe}};
+
   Plotly.plot('chart',graphs,{});
-  Plotly.plot('plot',plot,{});
+  Plotly.plot('plot',plots,{});
+  Plotly.plot('pie',pies,{});
+
 </script>
 {% endblock content%}

@@ -6,10 +6,18 @@
 
 
 <h1 align="center"> Airport </h1>
+<p>
+  Here we have an interactive line chart showing the average percent 
+  of delayed flights for the top 25 airports for each year.
+</p>
 <div id='chart' class='chart'”></div>
 <div class="dropdown">
   <form class="ey" method="post" action="/airports">
       <h2>Choose The Airport:</h2>
+      <p>
+        Choose the airport to visualize the average amount of minutes each
+        flight is delayed for every carrier at that airport for December of 2023.
+      </p>
       <select name="selected_value" id="airportDropdown">
           <option value="None">Select Airport</option>
       </select>
@@ -20,21 +28,40 @@
 
 <div id="plot" class="plot">
   <div class="plot"></div>
-  <div class="table">{{ table_html|safe }}</div>
+  <div class="table" >{{ table_html|safe }}</div>
 </div>
 
+<h2>Why are the flights delayed?</h2>
+<div class="explanation-container">
+  <p class="explanation">To generate a pie chart, use the first dropdown to 
+    select the airport you are viewing above. Then, you can type or copy & 
+    paste one of the carriers from that airport into the text bar and click submit 
+    to generate a pie chart showing a breakdown of the reasons why flights 
+    were delayed!
+  </p>
+</div>
+<form action="/airports" method="post">
+  <div class="dropdown">
+    <select name="selected_value2" id="airportDropdown2">
+      <option value="None">Select Airport</option>
+    </select>
+  </div>
+    <label for="user_input">Please only choose from above carriers: </label>
+    <input type="text" id="user_input" name="user_input" required>
+    <br>
+    <input type="submit" value="Submit">
+</form>
+
+<div class="pie" id="pie"></div>
+
 <script>
-  // Array of airports
   var airports = ["SLC", "ATL", "FLL", "MIA", "MCO", "MSP", "LAX", "LAS", "DFW", "DEN", "CLT", "PHL", "PHX", "BOS", "IAH", "SAN", "SEA", "SFO", "ORD", "BWI", "DTW", "EWR", "JFK", "LGA", "DCA"];
 
-  // Function to populate the dropdown with airports
   function populateDropdown() {
     var dropdown = document.getElementById("airportDropdown");
 
-    // Clear existing options
     dropdown.innerHTML = '<option value="None">Select Airport</option>';
 
-    // Populate the dropdown with airports
     for (var i = 0; i < airports.length; i++) {
       var option = document.createElement("option");
       option.value = airports[i];
@@ -43,14 +70,30 @@
     }
   }
 
-  // Call the function to populate the dropdown on page load
   populateDropdown();
+
+  function populateDropdown2() {
+    var dropdown = document.getElementById("airportDropdown2");
+
+    dropdown.innerHTML = '<option value="None">Select Airport</option>';
+
+    for (var i = 0; i < airports.length; i++) {
+      var option = document.createElement("option");
+      option.value = airports[i];
+      option.text = airports[i];
+      dropdown.add(option);
+    }
+  }
+
+  populateDropdown2();
 </script>
 <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 <script type='text/javascript'>
   let graphs = {{graphJSON | safe}};
-  let plot = {{plotJSON | safe}};
+  let plots = {{plotJSON | safe}};
+  let pies = {{pieJSON | safe}};
   Plotly.plot('chart',graphs,{});
-  Plotly.plot('plot',plot,{});
+  Plotly.plot('plot',plots,{});
+  Plotly.plot('pie',pies,{});
 </script>
 {% endblock content%}
