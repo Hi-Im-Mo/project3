@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import pandas as pd
 import json
 import plotly
@@ -9,7 +9,7 @@ from folium.plugins import HeatMap, MarkerCluster
 
 app = Flask(__name__, template_folder="templates")
 
-@app.route('/')
+@app.route('/', methods=['GET','POST'])
 def home():
     merge_df = pd.read_csv("data/merge_df.csv")
     columnsKeep = ["year","carrier","carrier_name","airport","airport_name","per_delayed"]
@@ -39,9 +39,37 @@ def home():
 
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
 
-    return render_template('home.html', graphJSON=graphJSON)
+    selected_year = request.form.get('selected_value')
+    try:
+        if selected_year.isnumeric() == False:
+            selected_year = 2023
+        else:
+            pass
+    except:
+        selected_year = 2023
 
-@app.route("/airports")
+    def generate_hm(year):
+        selectedDF = merge_df.loc[merge_df["year"] == int(year)]
+        heatmap_data = selectedDF[['carrier_name', 'airport_name', 'arr_del15']]
+        heatmap_matrix = heatmap_data.pivot_table(index='airport_name', columns='carrier_name', values='arr_del15', aggfunc='sum', fill_value=0)
+
+        fig2 = px.imshow(heatmap_matrix.values,
+                    labels=dict(x='Carrier', y='Airport', color='Delays'),
+                    x=heatmap_matrix.columns,
+                    y=heatmap_matrix.index,
+                    color_continuous_scale='YlOrRd',
+                    title=f'Heatmap of Delays by Carrier and Airport in {year}',
+                    width=900,
+                    height=900,
+                    text_auto=True)
+        return fig2
+    
+    heatMap = generate_hm(selected_year)
+    heatJSON = json.dumps(heatMap, cls=plotly.utils.PlotlyJSONEncoder)
+
+    return render_template('home.html', graphJSON=graphJSON, heatJSON=heatJSON)
+
+@app.route("/airports", methods=['GET','POST'])
 def airports():
     merge_df = pd.read_csv("data/merge_df.csv")
     columnsKeep = ["year","carrier","carrier_name","airport","airport_name","per_delayed"]
@@ -68,10 +96,36 @@ def airports():
     fig.update_yaxes(range=[1, 50])
 
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+    
+    selected_value = request.form.get('selected_value')
+    _2023df = pd.read_csv("data/rawYearlyData/clean_files/clean_2023.csv")
+    del _2023df["Unnamed: 0"]
+    def generate_bar(airport):
+        selectedDF = _2023df.loc[_2023df["airport"] == airport].copy()
+        column_list = ['arr_delay', 'carrier_delay', 'weather_delay', 'nas_delay', 'security_delay', 'late_aircraft_delay']
+        selectedDF["total_delay"] = selectedDF.loc[:, column_list].sum(axis=1)
+        selectedDF["proportion"] = round((selectedDF["total_delay"]/selectedDF["arr_flights"]),2)
+        selectedDF_grouped = selectedDF.groupby(["carrier_name"])['proportion'].sum().reset_index()
 
-    return render_template("airport.html", graphJSON=graphJSON)
+        plot = px.bar(selectedDF_grouped, x='carrier_name', y='proportion',
+                labels={'carrier_name': 'Carrier Name', 'proportion': 'Avg min Delayed per Flight'},
+                title=f"Avg min Delayed per Flight at {airport}")
+        return plot
+    
+    plot = generate_bar(selected_value)
+    plotJSON = json.dumps(plot, cls=plotly.utils.PlotlyJSONEncoder)    
 
-@app.route("/carriers")
+    selectedDF = _2023df.loc[_2023df["airport"] == selected_value]
+    data = {
+        "Carrier Name": selectedDF["carrier_name"],
+        "Total Arriving Flights": selectedDF["arr_flights"]
+    }
+    table = pd.DataFrame(data)
+    table_html = table.to_html(classes='table table-striped', index=False)
+    
+    return render_template("airport.html", graphJSON=graphJSON, plotJSON=plotJSON, table_html=table_html)
+
+@app.route("/carriers", methods=['GET','POST'])
 def carriers():
     merge_df = pd.read_csv("data/merge_df.csv")
     columnsKeep = ["year","carrier","carrier_name","airport","airport_name","per_delayed"]
@@ -99,7 +153,33 @@ def carriers():
 
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
 
-    return render_template("carrier.html", graphJSON=graphJSON)
+    selected_value = request.form.get('selected_value')
+    _2023df = pd.read_csv("data/rawYearlyData/clean_files/clean_2023.csv")
+    del _2023df["Unnamed: 0"]
+    def generate_bar(carrier):
+        selectedDF = _2023df.loc[_2023df["carrier_name"] == carrier].copy()
+        column_list = ['arr_delay', 'carrier_delay', 'weather_delay', 'nas_delay', 'security_delay', 'late_aircraft_delay']
+        selectedDF["total_delay"] = selectedDF.loc[:, column_list].sum(axis=1)
+        selectedDF["proportion"] = round((selectedDF["total_delay"]/selectedDF["arr_flights"]),2)
+        selectedDF_grouped = selectedDF.groupby(["airport"])['proportion'].sum().reset_index()
+
+        plot = px.bar(selectedDF_grouped, x='airport', y='proportion',
+                labels={'airport': 'Airport Name', 'proportion': 'Avg min Delayed per Flight'},
+                title=f"Avg min Delayed per Flight at {carrier}")
+        return plot
+    
+    plot = generate_bar(selected_value)
+    plotJSON = json.dumps(plot, cls=plotly.utils.PlotlyJSONEncoder)    
+
+    selectedDF = _2023df.loc[_2023df["carrier_name"] == selected_value]
+    data = {
+        "Airport Name": selectedDF["airport_name"],
+        "Total Arriving Flights": selectedDF["arr_flights"]
+    }
+    table = pd.DataFrame(data)
+    table_html = table.to_html(classes='table table-striped', index=False)
+
+    return render_template("carrier.html", graphJSON=graphJSON, plotJSON=plotJSON, table_html=table_html)
 
 @app.route("/heatmap")
 def heatmap():

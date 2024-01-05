@@ -5,10 +5,42 @@
 {% block content%}
 <h1 align="center"> Home </h1>
 <div id='chart' class='chart'”></div>
+<div class="dropdown">
+  <form class="ey" method="post" action="/">
+      <h2>Choose The Year:</h2>
+      <select name="selected_value" id="yearDropdown">
+          <option value="None">Select Year</option>
+      </select>
+      <br>
+      <input type="submit" value="Submit">
+  </form>
+</div>
 
+<div id="heatmap" class="heatmap"></div>
+
+<script>
+  var years = ["2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023"];
+
+  function populateDropdown() {
+    var dropdown = document.getElementById("yearDropdown");
+
+    dropdown.innerHTML = '<option value="None">Select Year</option>';
+
+    for (var i = 0; i < years.length; i++) {
+      var option = document.createElement("option");
+      option.value = years[i];
+      option.text = years[i];
+      dropdown.add(option);
+    }
+  }
+
+  populateDropdown();
+</script>
 <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 <script type='text/javascript'>
   let graphs = {{graphJSON | safe}};
+  let heatmaps = {{ heatJSON | safe }}
   Plotly.plot('chart',graphs,{});
+  Plotly.plot('heatmap',heatmaps,{});
 </script>
 {% endblock content%}
