@@ -33,7 +33,7 @@ The project is webhosted using AWS ElasticBeanstalk environment using EC2 instan
 3. Raw Data is being kept [here](data/rawYearlyData) within this repo.  
 4. Data processing/transformation scripts are being kept [here](scripts)
 5. Templates for rending the website are being kept [here](templates)
-6. "[dataDescriptions](dataDescriptions)" is an Excel spreadsheet containing descriptions of the data tags in our raw data.
+6. "[dataDescriptions](dataDescriptions.xlsx)" is an Excel spreadsheet containing descriptions of the data tags in our raw data.
 
 ## Contributing Members
 
